@@ -1,0 +1,1073 @@
+Title,Country,Year,Operating Temperature (℃),Cathode Pressure (bar),Anode Pressure (bar),Operating Pressure (bar),Flow Rate (mL min-1),Active Area (cm2),Ir wt. %,Ru wt.%,O wt. %,C wt. %,Pure_0/Supported_1,Anode Catalyst Type,I/C in Anode,Pt wt. %,I/C in Cathode,Anode Catalyst Loading,Catahode Catalyst Loading,Anode Precious Metal Loading (mg cm-2 Ir/Ru/Pt/Pd),Cathode Precious Metal Loading (mg cm-2 Pt/Pd),MEA Preparation Method,CCM_0/GDE_1,Membrane Thickness (μm),EW,Type,Current at 1.5 V,Current at 1.6 V,Current at 1.7 V,Current at 1.8 V,Current at 1.9 V,Current at 2.0 V,Minimum Stability Current Density (A cm-2),Maximum Stability Current Density (A cm-2),Fluctuation period (h),Stability Test Time (h-1)
+"All-Hydrocarbon MEA for PEM Water Electrolysis 
+Combining Low Hydrogen Crossover and High Efficiency",Germany,2020,80,1,1,1,40,4,85.52915767,0,14.47084233,0,0,Pure Oxide,0.22,60,1,1.5,0.5,1.282937365,0.3,CCM,0,125,1100,Nafion 115,0.14976,0.56286,1.00331,1.49337,1.99963,2.48969,0,0,0,0
+"All-Hydrocarbon MEA for PEM Water Electrolysis 
+Combining Low Hydrogen Crossover and High Efficiency",Germany,2020,80,1,1,1,40,4,85.52915767,0,14.47084233,0,0,Pure Oxide,0.22,60,1,1.5,0.5,1.282937365,0.3,CCM,0,125,1100,Nafion 115,0.12917,0.50689,0.89436,1.33455,1.78058,2.25883,1,1,0,60
+"All-Hydrocarbon MEA for PEM Water Electrolysis 
+Combining Low Hydrogen Crossover and High Efficiency",Germany,2020,80,1,1,1,40,4,85.52915767,0,14.47084233,0,0,Pure Oxide,0.1,60,0.28,1.5,0.5,1.282937365,0.3,CCM,0,115,360,sulfonated poly(phenylene sulfone),0.27126,0.86561,2.0057,3.49714,5.01187,6.5266,0,0,0,0
+"All-Hydrocarbon MEA for PEM Water Electrolysis 
+Combining Low Hydrogen Crossover and High Efficiency",Germany,2020,80,1,1,1,40,4,85.52915767,0,14.47084233,0,0,Pure Oxide,0.1,60,0.28,1.5,0.5,1.282937365,0.3,CCM,0,115,360,sulfonated poly(phenylene sulfone),0.18773,0.52738,1.01149,1.54244,2.32813,3.25241,1,1,0,60
+"A novel work-flow to study Ir electrode thinning and dissolution in proton
+exchange membrane water electrolyzers",United States,2021,80,1,1,1,75,50,100,0,0,0,0,"3M nanostructured
+thin film (NSTF)",0,100,0,0.5,0.25,0.5,0.25,CCM,0,125,1100,Nafion 115,0.0312,0.28642,0.94636,1.78286,2.61936,3.45586,2,2,0,2526
+"A novel work-flow to study Ir electrode thinning and dissolution in proton
+exchange membrane water electrolyzers",United States,2021,80,1,1,1,75,50,100,0,0,0,0,"3M nanostructured
+thin film (NSTF)",0,100,0,0.5,0.25,0.5,0.25,CCM,0,125,1100,Nafion 115,0.0282,0.27621,0.91733,1.76004,2.60275,3.44546,2,2,0,4750
+"A novel work-flow to study Ir electrode thinning and dissolution in proton
+exchange membrane water electrolyzers",United States,2021,80,1,1,1,75,50,100,0,0,0,0,"3M nanostructured
+thin film (NSTF)",0,100,0,0.5,0.25,0.5,0.25,CCM,0,125,1100,Nafion 115,0.25675,0.80154,1.61873,2.54952,3.49252,4.43552,6,6,0,309
+"A novel work-flow to study Ir electrode thinning and dissolution in proton
+exchange membrane water electrolyzers",United States,2021,80,1,1,1,75,50,100,0,0,0,0,"3M nanostructured
+thin film (NSTF)",0,100,0,0.5,0.25,0.5,0.25,CCM,0,125,1100,Nafion 115,0.0833,0.38256,0.82841,1.3329,1.93144,2.52998,6,6,0,5273
+"A novel work-flow to study Ir electrode thinning and dissolution in proton
+exchange membrane water electrolyzers",United States,2021,80,1,1,1,75,50,100,0,0,0,0,"3M nanostructured
+thin film (NSTF)",0,100,0,0.5,0.25,0.5,0.25,CCM,0,125,1100,Nafion 115,0.1193,0.61446,1.64666,2.9597,4.43286,5.76068,10,10,0,184
+"A novel work-flow to study Ir electrode thinning and dissolution in proton
+exchange membrane water electrolyzers",United States,2021,80,1,1,1,75,50,100,0,0,0,0,"3M nanostructured
+thin film (NSTF)",0,100,0,0.5,0.25,0.5,0.25,CCM,0,125,1100,Nafion 115,0.03801,0.52085,1.52595,2.69118,3.9377,5.27783,10,10,0,5515
+Development and performance evaluation of Proton Exchange Membrane (PEM) based hydrogen generator for portable applications,India,2011,80,1.5,1.5,1.5,4.166666667,100,85.52915767,0,14.47084233,0,0,IrO2 oxide,,100,,1.2,0.4,1.026349892,0.4,CCM,0,175,1100,nafion 117,0.097,0.10597,0.25907,0.53847,0.90535,1.13916,0,0,0,0
+Oxide-supported Ir nanodendrites with high activity and durability for the oxygen evolution reaction in acid PEM water electrolyzers,Germany,2015,80,1,1,1,1.5,5,100,0,0,0,0,Ir black,,46,,1,0.4,1,0.184,CCM,0,50,1100,nafion 212,0.10355,0.32618,0.54925,0.80336,1.04727,1.30494,0,0,0,0
+Oxide-supported Ir nanodendrites with high activity and durability for the oxygen evolution reaction in acid PEM water electrolyzers,Germany,2015,80,1,1,1,1.5,5,40,0,0,60,1,Ir/Carbon,,46,,1,0.4,0.4,0.184,CCM,0,50,1100,nafion 212,0.14834,0.43794,0.74615,1.06368,1.37234,1.65573,0,0,0,0
+Oxide-supported Ir nanodendrites with high activity and durability for the oxygen evolution reaction in acid PEM water electrolyzers,Germany,2015,80,1,1,1,1.5,5,40,0,0,60,1,Ir-ND/carbon,,46,,1,0.4,0.4,0.184,CCM,0,50,1100,nafion 212,0.25744,0.66854,1.05437,1.44685,1.85485,2.29079,0,0,0,0
+Oxide-supported Ir nanodendrites with high activity and durability for the oxygen evolution reaction in acid PEM water electrolyzers,Germany,2015,80,1,1,1,1.5,5,100,0,0,0,0,Ir-ND,,46,,1,0.4,1,0.184,CCM,0,50,1100,nafion 212,0.1887,0.58118,0.96434,1.34086,1.72402,2.09787,0,0,0,0
+Oxide-supported Ir nanodendrites with high activity and durability for the oxygen evolution reaction in acid PEM water electrolyzers,Germany,2015,80,1,1,1,1.5,5,40,0,12.7397,0,1,Ir-ND/ATO,,46,,1,0.4,0.4,0.184,CCM,0,50,1100,nafion 212,0.28227,0.69648,1.12311,1.50273,1.92004,2.35287,0,0,0,0
+Calculating the Electrochemically Active Surface Area of Iridium Oxide in Operating Proton Exchange Membrane Electrolyzers,United States,2015,80,1,1,1,,25,85.52915767,0,14.47084233,0,0,IrOx,1,100,1,,,,,CCM,0,,1100,Nafion Membrane,0.0332888,0.29918556,0.59331638,0.88186245,1.14744894,1.45026717,0,0,0,0
+"NSTF Advances for PEM Electrolysis - the Effect of Alloying on Activity
+of NSTF Electrolyzer Catalysts and Performance of NSTF Based PEM
+Electrolyzers",United States,2015,80,1,1,1,75,50,100,0,0,0,0,nano-structured thin film,0,100,0,0.25,0.25,0.25,0.25,CCM,0,50,825,NSTF 3M membrane,0.22918,0.75619,2.17371,4.10261,6.10651,8.11041,0,0,0,0
+"NSTF Advances for PEM Electrolysis - the Effect of Alloying on Activity
+of NSTF Electrolyzer Catalysts and Performance of NSTF Based PEM
+Electrolyzers",United States,2015,80,1,1,1,75,50,100,0,0,0,0,nano-structured thin film,0,100,0,0.25,0.25,0.25,0.25,CCM,0,50,825,NSTF 3M membrane,0.09854,1.07397,2.73982,4.40567,6.07152,7.73737,0,0,0,0
+"NSTF Advances for PEM Electrolysis - the Effect of Alloying on Activity
+of NSTF Electrolyzer Catalysts and Performance of NSTF Based PEM
+Electrolyzers",United States,2015,90,1,1,1,75,50,100,0,0,0,0,nano-structured thin film,0,100,0,0.25,0.25,0.25,0.25,CCM,0,50,825,NSTF 3M membrane,0.14549,1.33652,3.28342,5.23032,7.17722,9.12412,0,0,0,0
+"NSTF Advances for PEM Electrolysis - the Effect of Alloying on Activity
+of NSTF Electrolyzer Catalysts and Performance of NSTF Based PEM
+Electrolyzers",United States,2015,100,1,1,1,75,50,100,0,0,0,0,nano-structured thin film,0,100,0,0.25,0.25,0.25,0.25,CCM,0,50,825,NSTF 3M membrane,0.14549,1.33652,3.28342,5.23032,7.17722,9.12412,0,0,0,0
+"NSTF Advances for PEM Electrolysis - the Effect of Alloying on Activity
+of NSTF Electrolyzer Catalysts and Performance of NSTF Based PEM
+Electrolyzers",United States,2015,100,1,1,1,75,50,100,0,0,0,0,nano-structured thin film,0,100,0,0.25,0.25,0.25,0.25,CCM,0,50,825,NSTF 3M membrane,0.01279,0.04669,0.11858,0.248,0.41541,0.66088,0,0,0,0
+"NSTF Advances for PEM Electrolysis - the Effect of Alloying on Activity
+of NSTF Electrolyzer Catalysts and Performance of NSTF Based PEM
+Electrolyzers",United States,2015,100,1,1,1,75,50,100,0,0,0,0,nano-structured thin film,0,100,0,0.25,0.25,0.25,0.25,CCM,0,50,825,NSTF 3M membrane,0.02409,0.05799,0.15248,0.29216,0.51607,0.8509,0,0,0,0
+"NSTF Advances for PEM Electrolysis - the Effect of Alloying on Activity
+of NSTF Electrolyzer Catalysts and Performance of NSTF Based PEM
+Electrolyzers",United States,2015,100,1,1,1,75,50,100,0,0,0,0,nano-structured thin film,0,100,0,0.25,0.25,0.25,0.25,CCM,0,50,825,NSTF 3M membrane,0.12988,0.52736,1.59451,3.22654,5.17595,7.12536,0,0,0,0
+"NSTF Advances for PEM Electrolysis - the Effect of Alloying on Activity
+of NSTF Electrolyzer Catalysts and Performance of NSTF Based PEM
+Electrolyzers",United States,2015,100,1,1,1,75,50,100,0,0,0,0,nano-structured thin film,0,100,0,0.25,0.25,0.25,0.25,CCM,0,50,825,NSTF 3M membrane,0.07955,0.57153,2.02485,4.15914,6.41667,8.6742,0,0,0,0
+"NSTF Advances for PEM Electrolysis - the Effect of Alloying on Activity
+of NSTF Electrolyzer Catalysts and Performance of NSTF Based PEM
+Electrolyzers",United States,2015,100,1,1,1,75,50,100,0,0,0,0,nano-structured thin film,0,100,0,0.375,0.25,0.375,0.25,CCM,0,50,825,NSTF 3M membrane,0.12475,0.73894,2.18713,4.23206,6.43,8.62794,0,0,0,0
+"NSTF Advances for PEM Electrolysis - the Effect of Alloying on Activity
+of NSTF Electrolyzer Catalysts and Performance of NSTF Based PEM
+Electrolyzers",United States,2015,100,1,1,1,75,50,100,0,0,0,0,nano-structured thin film,0,100,0,0.5,0.25,0.5,0.25,CCM,0,50,825,NSTF 3M membrane,0.09085,0.78414,2.31552,4.40564,6.4557,8.50576,0,0,0,0
+"NSTF Advances for PEM Electrolysis - the Effect of Alloying on Activity
+of NSTF Electrolyzer Catalysts and Performance of NSTF Based PEM
+Electrolyzers",United States,2015,100,1,1,1,75,50,100,0,0,0,0,nano-structured thin film,0,100,0,1 Ir,0.25 Pt,1,0.25,CCM,0,50,825,NSTF 3M membrane,0.09085,0.83446,2.39871,4.48883,6.54506,8.60129,0,0,0,0
+Fully printed and integrated electrolyzer cells with additive manufacturing for high-efficiency water splitting,United States,2018,20,1,1,1,20,5,74.37742114,16.76812396,8.854454898,0,0,IrRuOx,,100,,3,3,2.734366353,3,ccm,0,125,1100,nafion 115,0.0151,0.12029,0.40423,0.76132,1.1635,1.5633,0,0,0,0
+Fully printed and integrated electrolyzer cells with additive manufacturing for high-efficiency water splitting,United States,2018,40,1,1,1,20,5,74.37742114,16.76812396,8.854454898,0,0,IrRuOx,,100,,3,3,2.734366353,3,ccm,0,125,1100,nafion 115,0.03013,0.22153,0.6237,1.12909,1.66216,2.19523,0,0,0,0
+Fully printed and integrated electrolyzer cells with additive manufacturing for high-efficiency water splitting,United States,2018,60,1,1,1,20,5,74.37742114,16.76812396,8.854454898,0,0,IrRuOx,,100,,3,3,2.734366353,3,ccm,0,125,1100,nafion 115,0.07324,0.42163,0.93532,1.50952,2.13117,2.75282,0,0,0,0
+Fully printed and integrated electrolyzer cells with additive manufacturing for high-efficiency water splitting,United States,2018,80,1,1,1,20,5,74.37742114,16.76812396,8.854454898,0,0,IrRuOx,,100,,3,3,2.734366353,3,ccm,0,125,1100,nafion 115,0.32474,1.01481,1.86226,2.70971,3.55716,4.40461,0,0,0,0
+The role of Nafion content in sputtered IrO2 based anodes for low temperature PEM water electrolysis,Greece,2011,40,1.57,1.57,1.57,100,5.29,100,0,0,0,0,sputtered Ir,0,100,3,0.55,0.5,0.55,0.5,GDE,1,175,1100,nafion 117,0.01023634,0.06336654,0.11634964,0.169430807,0.222487457,0.275544107,0,0,0,0
+The role of Nafion content in sputtered IrO2 based anodes for low temperature PEM water electrolysis,Greece,2011,50,1.57,1.57,1.57,100,5.29,100,0,0,0,0,sputtered Ir,0,100,3,0.55,0.5,0.55,0.5,GDE,1,175,1100,nafion 117,0.02349919,0.07844828,0.13779407,0.194208727,0.251356167,0.308503607,0,0,0,0
+The role of Nafion content in sputtered IrO2 based anodes for low temperature PEM water electrolysis,Greece,2011,60,1.57,1.57,1.57,100,5.29,100,0,0,0,0,sputtered Ir,0,100,3,0.55,0.5,0.55,0.5,GDE,1,175,1100,nafion 117,0.02885426,0.12713963,0.22113042,0.317984263,0.414122343,0.510260423,0,0,0,0
+The role of Nafion content in sputtered IrO2 based anodes for low temperature PEM water electrolysis,Greece,2011,40,1.57,1.57,1.57,100,5.29,100,0,0,0,0,sputtered Ir,0.909090909,100,3,0.55,0.5,0.55,0.5,GDE,1,175,1100,nafion 117,0.03541348,0.11062659,0.23577379,0.327631597,0.427811752,0.527991907,0,0,0,0
+The role of Nafion content in sputtered IrO2 based anodes for low temperature PEM water electrolysis,Greece,2011,50,1.57,1.57,1.57,100,5.29,100,0,0,0,0,sputtered Ir,0.909090909,100,3,0.55,0.5,0.55,0.5,GDE,1,175,1100,nafion 117,0.03960991,0.13511649,0.25952725,0.364668557,0.474627227,0.584585897,0,0,0,0
+The role of Nafion content in sputtered IrO2 based anodes for low temperature PEM water electrolysis,Greece,2011,60,1.57,1.57,1.57,100,5.29,100,0,0,0,0,sputtered Ir,0.909090909,100,3,0.55,0.5,0.55,0.5,GDE,1,175,1100,nafion 117,0.06120501,0.17093956,0.31697995,0.438816447,0.566703917,0.694591387,0,0,0,0
+The role of Nafion content in sputtered IrO2 based anodes for low temperature PEM water electrolysis,Greece,2011,40,1.57,1.57,1.57,100,5.29,100,0,0,0,0,sputtered Ir,2.727272727,100,3,0.55,0.5,0.55,0.5,GDE,1,175,1100,nafion 117,0.10441581,0.34075001,0.60731903,0.853731503,1.105183113,1.356634723,0,0,0,0
+The role of Nafion content in sputtered IrO2 based anodes for low temperature PEM water electrolysis,Greece,2011,50,1.57,1.57,1.57,100,5.29,100,0,0,0,0,sputtered Ir,2.727272727,100,3,0.55,0.5,0.55,0.5,GDE,1,175,1100,nafion 117,0.14405402,0.436515,0.74215042,1.03900288,1.33805108,1.63709928,0,0,0,0
+The role of Nafion content in sputtered IrO2 based anodes for low temperature PEM water electrolysis,Greece,2011,60,1.57,1.57,1.57,100,5.29,100,0,0,0,0,sputtered Ir,2.727272727,100,3,0.55,0.5,0.55,0.5,GDE,1,175,1100,nafion 117,0.22550892,0.53432555,0.86804489,1.185162423,1.506430408,1.827698393,0,0,0,0
+The role of Nafion content in sputtered IrO2 based anodes for low temperature PEM water electrolysis,Greece,2011,40,1.57,1.57,1.57,100,5.29,100,0,0,0,0,sputtered Ir,4.545454545,100,3,0.55,0.5,0.55,0.5,GDE,1,175,1100,nafion 117,0.0679372,0.29697721,0.50232918,0.723473177,0.940669167,1.157865157,0,0,0,0
+The role of Nafion content in sputtered IrO2 based anodes for low temperature PEM water electrolysis,Greece,2011,50,1.57,1.57,1.57,100,5.29,100,0,0,0,0,sputtered Ir,4.545454545,100,3,0.55,0.5,0.55,0.5,GDE,1,175,1100,nafion 117,0.12256143,0.34417924,0.57725573,0.8026931,1.03004025,1.2573874,0,0,0,0
+The role of Nafion content in sputtered IrO2 based anodes for low temperature PEM water electrolysis,Greece,2011,60,1.57,1.57,1.57,100,5.29,100,0,0,0,0,sputtered Ir,4.545454545,100,3,0.55,0.5,0.55,0.5,GDE,1,175,1100,nafion 117,0.16322821,0.42977897,0.69443128,0.960349223,1.225950758,1.491552293,0,0,0,0
+Sputtered iridium oxide films as electrocatalysts for water splitting via PEM electrolysis,Bulgaria,2007,80,1,1,1,,,85.52915767,0,14.47084233,0,0,sputtered Ir,5,20,,0.1,,0.085529158,,GDE,1,175,1100,nafion 117,0.68228765,0.82261601,0.87400062,0.90533831,0.936676,0.96801369,0,0,0,0
+Sputtered iridium oxide films as electrocatalysts for water splitting via PEM electrolysis,Bulgaria,2007,80,1,1,1,,,85.52915767,0,14.47084233,0,0,sputtered Ir,2.5,20,,0.2,,0.171058315,,GDE,1,175,1100,nafion 117,0.74242838,0.87146595,0.92791989,0.97930449,1.03068909,1.08207369,0,0,0,0
+Sputtered iridium oxide films as electrocatalysts for water splitting via PEM electrolysis,Bulgaria,2007,80,1,1,1,,,85.52915767,0,14.47084233,0,0,sputtered Ir,1.666666667,20,,0.3,,0.256587473,,GDE,1,175,1100,nafion 117,0.73482438,0.85395371,0.90533831,0.95672291,1.00810751,1.05949211,0,0,0,0
+Sputtered iridium oxide films as electrocatalysts for water splitting via PEM electrolysis,Bulgaria,2007,80,1,1,1,,,85.52915767,0,14.47084233,0,0,sputtered Ir,1.25,20,,0.4,,0.342116631,,GDE,1,175,1100,nafion 117,0.70233456,0.83644146,0.89151286,0.94658426,1.00165566,1.05672706,0,0,0,0
+Study of catalyst sprayed membrane under irradiation method to prepare high performance membrane electrode assemblies for solid polymer electrolyte water electrolysis,South Africa,2011,80,1,1,1,50,4,85.52915767,0,14.47084233,0,0,IrO2,0.33,40,0.33,0.5,0.5 Pt,0.427645788,0.5,CCM,0,50,1100,nafion 212,0.26127,0.66447,1.1295,1.54998,1.92591,2.30184,0,0,0,0
+Study of catalyst sprayed membrane under irradiation method to prepare high performance membrane electrode assemblies for solid polymer electrolyte water electrolysis,South Africa,2011,80,1,1,1,50,4,85.52915767,0,14.47084233,0,0,IrO2,0.33,40,0.33,1,0.5 Pt,0.855291577,0.5,CCM,0,50,1100,nafion 212,0.36536,0.85766,1.42634,1.98773,2.54912,3.11051,0,0,0,0
+Study of catalyst sprayed membrane under irradiation method to prepare high performance membrane electrode assemblies for solid polymer electrolyte water electrolysis,South Africa,2011,80,1,1,1,50,4,85.52915767,0,14.47084233,0,0,IrO2,0.33,40,0.33,1.5,0.5 Pt,1.282937365,0.5,CCM,0,50,1100,nafion 212,0.45446,1.07495,1.75772,2.44049,3.12326,3.80603,0,0,0,0
+Study of catalyst sprayed membrane under irradiation method to prepare high performance membrane electrode assemblies for solid polymer electrolyte water electrolysis,South Africa,2011,80,1,1,1,50,4,85.52915767,0,14.47084233,0,0,IrO2,0.33,40,0.33,2,0.5 Pt,1.710583153,0.5,CCM,0,50,1100,nafion 212,0.51128,1.24587,2.06183,2.87779,3.69375,4.50971,0,0,0,0
+Study of catalyst sprayed membrane under irradiation method to prepare high performance membrane electrode assemblies for solid polymer electrolyte water electrolysis,South Africa,2011,80,1,1,1,50,4,85.52915767,0,14.47084233,0,0,IrO2,0.33,40,0.33,3,0.5 Pt,2.56587473,0.5,CCM,0,50,1100,nafion 212,0.51628,1.33997,2.27457,3.20917,4.14377,5.07837,0,0,0,0
+Study of catalyst sprayed membrane under irradiation method to prepare high performance membrane electrode assemblies for solid polymer electrolyte water electrolysis,South Africa,2011,80,1,1,1,50,4,85.52915767,0,14.47084233,0,0,IrO2,0.33,40,0.33,4,0.5 Pt,3.421166307,0.5,CCM,0,50,1100,nafion 212,0.50628,1.19132,1.92364,2.65596,3.38828,4.1206,0,0,0,0
+Study of catalyst sprayed membrane under irradiation method to prepare high performance membrane electrode assemblies for solid polymer electrolyte water electrolysis,South Africa,2011,80,1,1,1,50,4,85.52915767,0,14.47084233,0,0,IrO2,0.33,40,0.33,4,0.05 Pt,3.421166307,0.05,CCM,0,50,1100,nafion 212,0.4488,1.04472,1.65038,2.23654,2.8227,3.40886,0,0,0,0
+Study of catalyst sprayed membrane under irradiation method to prepare high performance membrane electrode assemblies for solid polymer electrolyte water electrolysis,South Africa,2011,80,1,1,1,50,4,85.52915767,0,14.47084233,0,0,IrO2,0.33,40,0.33,4,0.2 Pt,3.421166307,0.2,CCM,0,50,1100,nafion 212,0.51398,1.21365,2.00022,2.78679,3.57336,4.35993,0,0,0,0
+Study of catalyst sprayed membrane under irradiation method to prepare high performance membrane electrode assemblies for solid polymer electrolyte water electrolysis,South Africa,2011,80,1,1,1,50,4,85.52915767,0,14.47084233,0,0,IrO2,0.33,40,0.33,4,1 Pt,3.421166307,1,CCM,0,50,1100,nafion 212,0.53083,1.3174,2.1186,2.9198,3.721,4.5222,0,0,0,0
+Study of catalyst sprayed membrane under irradiation method to prepare high performance membrane electrode assemblies for solid polymer electrolyte water electrolysis,South Africa,2011,80,1,1,1,50,4,85.52915767,0,14.47084233,0,0,IrO2,0.33,40,0.33,4,2 Pt,3.421166307,2,CCM,0,50,1100,nafion 212,0.57428,1.30543,2.27999,3.25455,4.22911,5.20367,0,0,0,0
+Investigations on high performance proton exchange membrane water electrolyzer,china,2009,30,1,1,1,10,20,100,0,0,0,0,Ir black,0.428571429,100,0.428571429,1,1,1,1,CCM,0,88,1100,nafion 1135,0.01,0.12719098,0.30498579,0.50730402,0.75294696,1.00185969,0,0,0,0
+Investigations on high performance proton exchange membrane water electrolyzer,china,2009,30,1,1,1,10,20,100,0,0,0,0,Ir black,0.428571429,100,0.428571429,1.5,1,1.5,1,CCM,0,88,1100,nafion 1135,0.0105,0.13720471,0.32828304,0.54286298,0.79851965,1.05192835,0,0,0,0
+Investigations on high performance proton exchange membrane water electrolyzer,china,2009,30,1,1,1,10,20,100,0,0,0,0,Ir black,0.428571429,100,0.428571429,2,1,2,1,CCM,0,88,1100,nafion 1135,0.011,0.15048823,0.363842,0.59170546,0.84511416,1.10424498,0,0,0,0
+Investigations on high performance proton exchange membrane water electrolyzer,china,2009,30,1,1,1,10,20,100,0,0,0,0,Ir black,0.428571429,100,0.428571429,2.5,1,2.5,1,CCM,0,88,1100,nafion 1135,0.0109,0.17603346,0.39163521,0.61520708,0.86187183,1.0907571,0,0,0,0
+Investigations on high performance proton exchange membrane water electrolyzer,china,2009,30,1,1,1,10,20,100,0,0,0,0,Ir black,0.428571429,100,0.428571429,3,1,3,1,CCM,0,88,1100,nafion 1135,0.0099,0.16152377,0.34953667,0.55737267,0.77297442,0.99184596,0,0,0,0
+Investigations on high performance proton exchange membrane water electrolyzer,china,2009,30,1,1,1,10,20,100,0,0,0,0,Ir black,0.111111111,100,0.428571429,1.5,1,1.5,1,CCM,0,88,1100,nafion 1135,0.01,0.22385,0.48919,0.7918,1.1052,1.42939,0,0,0,0
+Investigations on high performance proton exchange membrane water electrolyzer,china,2009,30,1,1,1,10,20,100,0,0,0,0,Ir black,0.25,100,0.428571429,1.5,1,1.5,1,CCM,0,88,1100,nafion 1135,0.01,0.22385,0.48919,0.7918,1.1052,1.42939,0,0,0,0
+Investigations on high performance proton exchange membrane water electrolyzer,china,2009,30,1,1,1,10,20,100,0,0,0,0,Ir black,0.667,100,0.428571429,1.5,1,1.5,1,CCM,0,88,1100,nafion 1135,0.005,0.08113,0.20251,0.35308,0.5424,0.74643,0,0,0,0
+Investigations on high performance proton exchange membrane water electrolyzer,china,2009,30,1,1,1,10,20,100,0,0,0,0,Ir black,0.428571429,100,0.428571429,1.5,1,1.5,1,CCM,0,50,1100,nafion 112,0.01,0.18248,0.44263,0.72944,1.07446,1.44124,0,0,0,0
+Investigations on high performance proton exchange membrane water electrolyzer,china,2009,30,1,1,1,10,20,100,0,0,0,0,Ir black,0.428571429,100,0.428571429,1.5,1,1.5,1,CCM,0,125,1100,nafion 115,0.007,0.08566,0.21588,0.36266,0.5177,0.69267,0,0,0,0
+Investigations on high performance proton exchange membrane water electrolyzer,china,2009,45,1,1,1,10,20,100,0,0,0,0,Ir black,0.667,100,0.428571429,1.5,1,1.5,1,CCM,0,88,1100,nafion 1135,0.08264,0.30023,0.60495,0.9866,1.40734,1.82808,0,0,0,0
+Investigations on high performance proton exchange membrane water electrolyzer,china,2009,60,1,1,1,10,20,100,0,0,0,0,Ir black,0.667,100,0.428571429,1.5,1,1.5,1,CCM,0,88,1100,nafion 1135,0.11494,0.41116,0.8064,1.23607,1.70993,2.18379,0,0,0,0
+Investigations on high performance proton exchange membrane water electrolyzer,china,2009,75,1,1,1,10,20,100,0,0,0,0,Ir black,0.667,100,0.428571429,1.5,1,1.5,1,CCM,0,88,1100,nafion 1135,0.18464,0.5565,1.00487,1.50211,2.01975,2.53739,0,0,0,0
+Investigations on high performance proton exchange membrane water electrolyzer,china,2009,80,1,1,1,10,20,100,0,0,0,0,Ir black,0.667,100,0.428571429,1.5,1,1.5,1,CCM,0,88,1100,nafion 1135,0.24456,0.62833,1.09072,1.59901,2.11665,2.63429,0,0,0,0
+Investigations on high performance proton exchange membrane water electrolyzer,china,2009,30,1,1,1,10,20,20,0,0,40,1,Ir/TiC,0.428571429,100,0.428571429,1.5,1,0.3,1,CCM,0,88,1100,nafion 1135,0.013,0.22797,0.59661,1.07302,1.52048,1.99042,0,0,0,0
+Investigations on high performance proton exchange membrane water electrolyzer,china,2009,30,1,1,1,10,20,100,0,0,0,0,Ir black,0.428571429,100,0.428571429,1.5,1,1.5,1,CCM,0,88,1100,nafion 1135,0.0498,0.19019,0.39794,0.67434,0.94687,1.19797,0.13720471,0.13720471,0,4
+Investigations on high performance proton exchange membrane water electrolyzer,china,2009,30,1,1,1,10,20,20,0,0,40,1,Ir/TiC,0.428571429,100,0.428571429,1.5,1,0.3,1,CCM,0,88,1100,nafion 1135,0.06529,0.21962,0.49601,0.80647,1.08855,1.40572,0.22797,0.22797,0,4
+Initial approaches in benchmarking and round robin testing for proton exchange membrane water electrolyzers,United States,2019,60,1,1,1,2,25,85.52915767,0,14.47084233,0,0,IrOx,,,,2.5,0.8,2.138228942,0.8,CCM,0,175,1100,nafion 117,0.05815,0.3254,0.69569,1.08795,1.50897,1.92737,0,0,0,0
+Initial approaches in benchmarking and round robin testing for proton exchange membrane water electrolyzers,United States,2019,80,1,1,1,2,25,85.52915767,0,14.47084233,0,0,IrOx,,,,2.5,0.8,2.138228942,0.8,CCM,0,175,1100,nafion 117,0.16014,0.53063,0.97191,1.44419,1.95522,2.45851,0,0,0,0
+Initial approaches in benchmarking and round robin testing for proton exchange membrane water electrolyzers,United States,2019,56,1,1,1,2,25,85.52915767,0,14.47084233,0,0,IrOx,,,,2.5,0.8,2.138228942,0.8,CCM,0,175,1100,nafion 117,0.09344,0.40181,0.76861,1.11847,1.44205,1.76563,0,0,0,0
+Initial approaches in benchmarking and round robin testing for proton exchange membrane water electrolyzers,United States,2019,58,1,1,1,2,25,85.52915767,0,14.47084233,0,0,IrOx,,,,2.5,0.8,2.138228942,0.8,CCM,0,175,1100,nafion 117,0.08584,0.41495,0.78002,1.13541,1.47386,1.81231,0,0,0,0
+Initial approaches in benchmarking and round robin testing for proton exchange membrane water electrolyzers,United States,2019,62,1,1,1,2,25,85.52915767,0,14.47084233,0,0,IrOx,,,,2.5,0.8,2.138228942,0.8,CCM,0,175,1100,nafion 117,0.11211,0.45263,0.82116,1.18415,1.52675,1.86935,0,0,0,0
+Initial approaches in benchmarking and round robin testing for proton exchange membrane water electrolyzers,United States,2019,64,1,1,1,2,25,85.52915767,0,14.47084233,0,0,IrOx,,,,2.5,0.8,2.138228942,0.8,CCM,0,175,1100,nafion 117,0.12525,0.45644,0.8343,1.2125,1.55475,1.897,0,0,0,0
+Efficient and Stable Low Iridium Loaded Anodes for PEM Water Electrolysis Made Possible by Nanofiber Interlayers,germany,2020,80,1,1,1,40,5,85.52915767,0,14.47084233,0,0,IrOx NP,0.67,40,0.67,1.2mg Ir,0.5mg Pt,1.2,0.5,CCM,0,125,1100,nafion 115,0.17305,0.60665,1.15025,1.7681,2.43637,3.1789,0,0,0,0
+Efficient and Stable Low Iridium Loaded Anodes for PEM Water Electrolysis Made Possible by Nanofiber Interlayers,germany,2020,80,1,1,1,40,5,85.52915767,0,14.47084233,0,0,IrOx NP,0.67,40,0.67,0.2mg Ir,0.5mg Pt,0.2,0.5,CCM,0,125,1100,nafion 115,0.1428,0.51223,0.91558,1.36934,1.80294,2.32179,0,0,0,0
+Efficient and Stable Low Iridium Loaded Anodes for PEM Water Electrolysis Made Possible by Nanofiber Interlayers,germany,2020,80,1,1,1,40,5,85.52915767,0,14.47084233,0,0,IrOx NP,0.67,40,0.67,0.2mg Ir,0.5mg Pt,0.2,0.5,CCM,0,125,1100,nafion 115,0.07341,0.29397,0.56111,0.88624,1.20698,1.6033,2,2,0,150
+An analysis of degradation phenomena in polymer electrolyte membrane water electrolysis,germany,2016,80,1,1,1,25,17.64,85.52915767,0,14.47084233,0,0,IrO2,,,,Ir 2.25,Pt 0.8,2.25,0.8,CCM,0,175,1100,nafion 117,0.25123,0.79227,1.35213,1.99179,2.63079,3.23087,0,0,0,0
+An analysis of degradation phenomena in polymer electrolyte membrane water electrolysis,germany,2016,80,1,1,1,25,17.64,85.52915767,0,14.47084233,0,0,IrO2,,,,Ir 2.25,Pt 0.8,2.25,0.8,CCM,0,175,1100,nafion 117,0.25123,0.79227,1.35213,1.99179,2.63079,3.23087,2,2,0,168
+An analysis of degradation phenomena in polymer electrolyte membrane water electrolysis,germany,2016,80,1,1,1,25,17.64,85.52915767,0,14.47084233,0,0,IrO2,,,,Ir 2.25,Pt 0.8,2.25,0.8,CCM,0,175,1100,nafion 117,0.17273,0.6262,1.10756,1.69207,2.27593,2.79298,2,2,0,336
+An analysis of degradation phenomena in polymer electrolyte membrane water electrolysis,germany,2016,80,1,1,1,25,17.64,85.52915767,0,14.47084233,0,0,IrO2,,,,Ir 2.25,Pt 0.8,2.25,0.8,CCM,0,175,1100,nafion 117,0.16819,0.58273,1.02906,1.57724,2.09818,2.51661,2,2,0,504
+An analysis of degradation phenomena in polymer electrolyte membrane water electrolysis,germany,2016,80,1,1,1,25,17.64,85.52915767,0,14.47084233,0,0,IrO2,,,,Ir 2.25,Pt 0.8,2.25,0.8,CCM,0,175,1100,nafion 117,0.15651,0.55938,1.01284,1.55778,2.04693,2.44525,2,2,0,672
+An analysis of degradation phenomena in polymer electrolyte membrane water electrolysis,germany,2016,80,1,1,1,25,17.64,85.52915767,0,14.47084233,0,0,IrO2,,,,Ir 2.25,Pt 0.8,2.25,0.8,CCM,0,175,1100,nafion 117,0.14094,0.53537,0.94602,1.44296,1.90486,2.3194,2,2,0,840
+An analysis of degradation phenomena in polymer electrolyte membrane water electrolysis,germany,2016,80,1,1,1,25,17.64,85.52915767,0,14.47084233,0,0,IrO2,,,,Ir 2.25,Pt 0.8,2.25,0.8,CCM,0,175,1100,nafion 117,0.12537,0.51202,0.87466,1.36057,1.78225,2.10986,2,2,0,1009
+Performance of a PEM electrolyzer using RuIrCoOx electrocatalysts for the oxygen evolution electrode,mexico,2013,25,1,1,1,63,4,50,26.30208333,8.333333333,0,0,IrRuCoOx,,10,,,,,,ccm,0,125,1100,nafion 115,0.00126478,0.00758492,0.01859478,0.03144573,0.04419592,0.05694611,0,0,0,0
+Performance of a PEM electrolyzer using RuIrCoOx electrocatalysts for the oxygen evolution electrode,mexico,2013,25,1,1,1,63,4,74.37742114,16.76812396,8.854454898,0,0,IrRuOx,,10,,,,,,ccm,0,125,1100,nafion 115,0.0006694,0.0050019,0.01227464,0.02318375,0.03184875,0.04051375,0,0,0,0
+Analysis of Inkjet Printed Catalyst Coated Membranes for Polymer Electrolyte Electrolyzers,Canada,2018,80,1,1,1,9.1,5,85.52915767,0,14.47084233,0,0,"IrO2(99%, Alfa Aesar, A17849)",0.052631579,46.7,0.428571429,1.17,0.10 mg cm-2 Pt,1.000691145,0.1,CCM,0,25,1100,Nafion 211,0.20876,1.01965,2.04533,3.07101,4.09669,5.12237,0,0,0,0
+Analysis of Inkjet Printed Catalyst Coated Membranes for Polymer Electrolyte Electrolyzers,Canada,2018,80,1,1,1,9.1,5,85.52915767,0,14.47084233,0,0,"IrO2(99%, Alfa Aesar, A17849)",0.052631579,46.7,0.428571429,1.17,0.10 mg cm-2 Pt,1.000691145,0.1,CCM,0,25,1100,Nafion 211,0.20876,1.01965,2.04533,3.07101,4.09669,5.12237,0,0,0,0
+"Design and Performance Investigation of a Carbon-Free
+Pt/Ti Cathode with Low Membrane Degradation Rate for
+Proton Exchange Membrane Water Electrolyser",China,2019,90,1,1,1,,8,85.52915767,0,14.47084233,0,0,Pure Oxide,0.052631579,40,16.66666667,2,0.96mg cm-2 Pt,1.710583153,0.96,CCM,0,125,1100,Nafion 115,0.12844,0.46862,0.87297,1.22011,1.5023,1.76903,0,0,0,0
+"Design and Performance Investigation of a Carbon-Free
+Pt/Ti Cathode with Low Membrane Degradation Rate for
+Proton Exchange Membrane Water Electrolyser",China,2019,90,1,1,1,,8,85.52915767,0,14.47084233,0,0,Pure Oxide,0.052631579,40,3.125,2,0.96mg cm-2 Pt,1.710583153,0.96,CCM,0,125,1100,Nafion 115,0.10974,0.43263,0.76272,1.13228,1.4505,1.74156,0,0,0,0
+"Design and Performance Investigation of a Carbon-Free
+Pt/Ti Cathode with Low Membrane Degradation Rate for
+Proton Exchange Membrane Water Electrolyser",China,2019,90,1,1,1,,8,85.52915767,0,14.47084233,0,0,Pure Oxide,0.052631579,40,9.375,2,0.96mg cm-2 Pt,1.710583153,0.96,CCM,0,125,1100,Nafion 115,0.11121,0.47208,0.83231,1.25235,1.55233,1.88667,0,0,0,0
+"Design and Performance Investigation of a Carbon-Free
+Pt/Ti Cathode with Low Membrane Degradation Rate for
+Proton Exchange Membrane Water Electrolyser",China,2019,90,1,1,1,,8,85.52915767,0,14.47084233,0,0,Pure Oxide,0.052631579,40,21.875,2,0.96mg cm-2 Pt,1.710583153,0.96,CCM,0,125,1100,Nafion 115,0.10283,0.45129,0.83655,1.2269,1.49462,1.74835,0,0,0,0
+"Design and Performance Investigation of a Carbon-Free
+Pt/Ti Cathode with Low Membrane Degradation Rate for
+Proton Exchange Membrane Water Electrolyser",China,2019,90,1,1,1,,8,85.52915767,0,14.47084233,0,0,Pure Oxide,0.052631579,40,26.04166667,2,0.96mg cm-2 Pt,1.710583153,0.96,CCM,0,125,1100,Nafion 115,0.09239,0.40038,0.68423,0.95196,1.17386,1.40892,0,0,0,0
+"Design and Performance Investigation of a Carbon-Free
+Pt/Ti Cathode with Low Membrane Degradation Rate for
+Proton Exchange Membrane Water Electrolyser",China,2019,90,1,1,1,,8,85.52915767,0,14.47084233,0,0,Pure Oxide,0.052631579,20,0.25,2,0.4mg cm-2 Pt,1.710583153,0.4,CCM,0,125,1100,Nafion 115,0.17946,0.54632,0.99087,1.31559,1.63567,1.95575,0,0,0,0
+Durable Membrane Electrode Assemblies for Proton Exchange Membrane Electrolyzer Systems Operating at High Current Densities,Germany,2016,55,1,1,1,,120,100,0,0,0,0,Ir-black (Umicore),,100,,1mg Ir cm-2,0.9mg cm-2 Pt,1,0.9,CCM,0,125,1100,Nafion 115,0.12,0.14977,0.64728,1.13836,1.63551,2.13266,0,0,0,0
+Durable Membrane Electrode Assemblies for Proton Exchange Membrane Electrolyzer Systems Operating at High Current Densities,Germany,2016,55,1,1,1,,120,100,0,0,0,0,Ir-black (Umicore),,100,,1mg Ir cm-2,0.9mg cm-2 Pt,1,0.9,CCM,0,125,1100,Nafion 115,0.1,0.21584,0.62263,1.06836,1.53051,1.99302,2,2,0,400
+Durable Membrane Electrode Assemblies for Proton Exchange Membrane Electrolyzer Systems Operating at High Current Densities,Germany,2016,55,1,1,1,,120,100,0,0,0,0,Ir-black (Umicore),,100,,1mg Ir cm-2,0.9mg cm-2 Pt,1,0.9,CCM,0,125,1100,Nafion 115,0.11,0.18298,0.61835,1.10729,1.61694,2.12659,4,4,0,250
+"Electrochemical Impedance Spectroscopy as a
+Diagnostic T ool in Polymer Electrolyte
+Membrane Electrolysis",Italy,2018,80,1,1,1,1,5,74.37742114,16.76812396,8.854454898,0,0,IrRuOx,0.176470588,40,0.388888889,0.4 mg·cm-2 PGM,0.1 mg·cm-2,0.4,0.1,CCM,0,90,980,Aquivion?short-side chain extruded film (E98–09S),0.20937,0.82555,1.61231,2.5456,3.47889,4.41218,0,0,0,0
+"Electrochemical Impedance Spectroscopy as a
+Diagnostic T ool in Polymer Electrolyte
+Membrane Electrolysis",Italy,2018,80,1,1,1,1,5,74.37742114,16.76812396,8.854454898,0,0,IrRuOx,0.176470588,40,0.388888889,0.4 mg·cm-2,0.1 mg·cm-2,0.4,0.1,CCM,0,90,980,Aquivion?short-side chain extruded film (E98–09S),0.13611,0.67246,1.4811,2.37721,3.27332,4.16943,3,3,0,1000
+"Electrochemical Impedance Spectroscopy as a
+Diagnostic T ool in Polymer Electrolyte
+Membrane Electrolysis",Italy,2018,80,1,1,1,1,5,74.37742114,16.76812396,8.854454898,0,0,IrRuOx,0.176470588,40,0.388888889,1.5 mg·cm-2,0.5 mg·cm-2,1.5,0.5,CCM,0,90,980,Aquivion?short-side chain extruded film (E98–09S),0.40803,1.03156,1.8555,2.85,3.8445,4.839,0,0,0,0
+"Electrochemical Impedance Spectroscopy as a
+Diagnostic T ool in Polymer Electrolyte
+Membrane Electrolysis",Italy,2018,80,1,1,1,1,5,74.37742114,16.76812396,8.854454898,0,0,IrRuOx,0.176470588,40,0.388888889,1.5 mg·cm-2,0.1 mg·cm-2,1.5,0.1,CCM,0,90,980,Aquivion?short-side chain extruded film (E98–09S),0.40803,1.06993,1.92799,2.9116,3.89521,4.87882,0,0,0,0
+"Electrochemical Impedance Spectroscopy as a
+Diagnostic T ool in Polymer Electrolyte
+Membrane Electrolysis",Italy,2018,30,1,1,1,1,5,74.37742114,16.76812396,8.854454898,0,0,IrRuOx,0.176470588,40,0.388888889,1.5 mg·cm-2,0.1 mg·cm-2,1.5,0.1,CCM,0,90,980,Aquivion?short-side chain extruded film (E98–09S),0.03401,0.31789,0.80371,1.35982,1.93587,2.51192,0,0,0,0
+"Electrochemical Impedance Spectroscopy as a
+Diagnostic T ool in Polymer Electrolyte
+Membrane Electrolysis",Italy,2018,40,1,1,1,1,5,74.37742114,16.76812396,8.854454898,0,0,IrRuOx,0.176470588,40,0.388888889,1.5 mg·cm-2,0.1 mg·cm-2,1.5,0.1,CCM,0,90,980,Aquivion?short-side chain extruded film (E98–09S),0.07268,0.44648,0.99737,1.60012,2.20287,2.80562,0,0,0,0
+"Electrochemical Impedance Spectroscopy as a
+Diagnostic T ool in Polymer Electrolyte
+Membrane Electrolysis",Italy,2018,60,1,1,1,1,5,74.37742114,16.76812396,8.854454898,0,0,IrRuOx,0.176470588,40,0.388888889,1.5 mg·cm-2,0.1 mg·cm-2,1.5,0.1,CCM,0,90,980,Aquivion?short-side chain extruded film (E98–09S),0.1893,0.71042,1.41475,2.12431,2.83387,3.54343,0,0,0,0
+"Electrochemical Impedance Spectroscopy as a
+Diagnostic T ool in Polymer Electrolyte
+Membrane Electrolysis",Italy,2018,90,1,1,1,1,5,74.37742114,16.76812396,8.854454898,0,0,IrRuOx,0.176470588,40,0.388888889,1.5 mg·cm-2,0.1 mg·cm-2,1.5,0.1,CCM,0,90,980,Aquivion?short-side chain extruded film (E98–09S),0.57845,1.29782,2.16789,3.03796,3.90803,4.7781,0,0,0,0
+"Enhancement of current density using effective membranes electrode
+assemblies for water electrolyser system",Singapore,2016,60,1,1,1,,5,85.52915767,0,14.47084233,0,0,Pure Oxide,,100,,2,2 mg/cm2 of Pt,1.710583153,2,GDE,1,175,1100,Nafion 117,0.5041,0.68032,0.82167,0.97519,1.12731,1.3831,0,0,0,0
+"Membrane electrode assemblies with low noble
+metal loadings for hydrogen production from solid
+polymer electrolyte water electrolysis",South Africa,2013,80,1,1,1,50,4,85.52915767,0,14.47084233,0,0,Pure Oxide,0,20,0.428571429,0.38 mg cm-2,0.2 mg cm-2,0.38,0.2,CCM,0,50,1100,"Nafion 212 (DuPont, USA)",0.5243,1.50488,2.48546,3.46604,4.44662,5.4272,0,0,0,0
+"Membrane electrode assemblies with low noble
+metal loadings for hydrogen production from solid
+polymer electrolyte water electrolysis",South Africa,2013,80,1,1,1,50,4,85.52915767,0,14.47084233,0,0,Pure Oxide,0.052631579,20,0.428571429,0.38 mg cm-2,0.2 mg cm-2,0.38,0.2,CCM,0,50,1100,"Nafion 212 (DuPont, USA)",0.53629,1.65721,2.77813,3.89905,5.01997,6.14089,0,0,0,0
+"Membrane electrode assemblies with low noble
+metal loadings for hydrogen production from solid
+polymer electrolyte water electrolysis",South Africa,2013,80,1,1,1,50,4,85.52915767,0,14.47084233,0,0,Pure Oxide,0.111111111,20,0.428571429,0.38 mg cm-2,0.2 mg cm-2,0.38,0.2,CCM,0,50,1100,"Nafion 212 (DuPont, USA)",0.42527,1.42539,2.42551,3.42563,4.42575,5.42587,0,0,0,0
+"Membrane electrode assemblies with low noble
+metal loadings for hydrogen production from solid
+polymer electrolyte water electrolysis",South Africa,2013,80,1,1,1,50,4,85.52915767,0,14.47084233,0,0,Pure Oxide,0.25,20,0.428571429,0.38 mg cm-2,0.2 mg cm-2,0.38,0.2,CCM,0,50,1100,"Nafion 212 (DuPont, USA)",0.36487,1.30193,2.23899,3.17605,4.11311,5.05017,0,0,0,0
+"Membrane electrode assemblies with low noble
+metal loadings for hydrogen production from solid
+polymer electrolyte water electrolysis",South Africa,2013,80,1,1,1,50,4,85.52915767,0,14.47084233,0,0,Pure Oxide,0.428571429,20,0.428571429,0.38 mg cm-2,0.2 mg cm-2,0.38,0.2,CCM,0,50,1100,"Nafion 212 (DuPont, USA)",0.26317,1.00482,1.74647,2.48812,3.22977,3.97142,0,0,0,0
+"Membrane electrode assemblies with low noble
+metal loadings for hydrogen production from solid
+polymer electrolyte water electrolysis",South Africa,2013,25,1,1,1,50,4,85.52915767,0,14.47084233,0,0,Pure Oxide,0.052631579,20,0.428571429,0.38 mg cm-2,0.2 mg cm-2,0.38,0.2,CCM,0,50,1100,"Nafion 212 (DuPont, USA)",0.11249,0.30416,0.86245,1.40264,1.66532,1.8774,0,0,0,0
+"Membrane electrode assemblies with low noble
+metal loadings for hydrogen production from solid
+polymer electrolyte water electrolysis",South Africa,2013,40,1,1,1,50,4,85.52915767,0,14.47084233,0,0,Pure Oxide,0.052631579,20,0.428571429,0.38 mg cm-2,0.2 mg cm-2,0.38,0.2,CCM,0,50,1100,"Nafion 212 (DuPont, USA)",0.19835,0.80444,1.50892,1.94562,2.38232,2.81902,0,0,0,0
+"Membrane electrode assemblies with low noble
+metal loadings for hydrogen production from solid
+polymer electrolyte water electrolysis",South Africa,2013,60,1,1,1,50,4,85.52915767,0,14.47084233,0,0,Pure Oxide,0.052631579,20,0.428571429,0.38 mg cm-2,0.2 mg cm-2,0.38,0.2,CCM,0,50,1100,"Nafion 212 (DuPont, USA)",0.40765,1.29173,2.11501,2.93829,3.76157,4.58485,0,0,0,0
+"Membrane electrode assemblies with low noble
+metal loadings for hydrogen production from solid
+polymer electrolyte water electrolysis",South Africa,2013,90,1,1,1,50,4,85.52915767,0,14.47084233,0,0,Pure Oxide,0.052631579,20,0.428571429,0.38 mg cm-2,0.2 mg cm-2,0.38,0.2,CCM,0,50,1100,"Nafion 212 (DuPont, USA)",0.67542,1.8296,2.98378,4.13796,5.29214,6.44632,0,0,0,0
+"Synchrotron Radiography for a Proton
+Exchange Membrane (PEM) Electrolyzer",Germany,2020,25,1,1,1,1,,100,0,0,0,0,Ir black,,100,,2.2 mg cm?2 Ir,0.8 mg cm-2 Pt,2.2,0.8,CCM,0,175,1100,Nafion 117,0.05085,0.07386,0.11001,0.14617,0.18533,0.22422,0,0,0,0
+"Synchrotron Radiography for a Proton
+Exchange Membrane (PEM) Electrolyzer",Germany,2020,25,1,1,1,3,,100,0,0,0,0,Ir black,,100,,2.2 mg cm?2 Ir,0.8 mg cm-2 Pt,2.2,0.8,CCM,0,175,1100,Nafion 117,0.05085,0.08975,0.14041,0.2056,0.26037,0.30803,0,0,0,0
+"Synchrotron Radiography for a Proton
+Exchange Membrane (PEM) Electrolyzer",Germany,2020,25,1,1,1,5,,100,0,0,0,0,Ir black,,100,,2.2 mg cm?2 Ir,0.8 mg cm-2 Pt,2.2,0.8,CCM,0,175,1100,Nafion 117,0.05496,0.09988,0.14753,0.21409,0.27489,0.32392,0,0,0,0
+"The stability challenge on the pathway to high-current-density
+polymer electrolyte membrane water electrolyzers",Germany,2018,80,1,1,1,25,17.64,85.52915767,0,14.47084233,0,0,"Iridium oxide (Alfa Aesar, Premion, 99.99%)",0.176470588,60,0.176470588,2.2,0.8 mg cm-2 Pt,1.881641469,0.8,CCM,0,175,1100,Nafion 117,0.17649,0.55015,1.03783,1.58926,2.15062,2.7459,2,2,0,74
+"The stability challenge on the pathway to high-current-density
+polymer electrolyte membrane water electrolyzers",Germany,2018,80,1,1,1,25,17.64,85.52915767,0,14.47084233,0,0,"Iridium oxide (Alfa Aesar, Premion, 99.99%)",0.176470588,60,0.176470588,2.2,0.8 mg cm-2 Pt,1.881641469,0.8,CCM,0,175,1100,Nafion 117,0.20339,0.6209,1.15888,1.69685,2.32546,2.91431,2.5,2.5,0,1026
+"The stability challenge on the pathway to high-current-density
+polymer electrolyte membrane water electrolyzers",Germany,2018,80,1,1,1,25,17.64,85.52915767,0,14.47084233,0,0,"Iridium oxide (Alfa Aesar, Premion, 99.99%)",0.176470588,60,0.176470588,2.2,0.8 mg cm-2 Pt,1.881641469,0.8,CCM,0,175,1100,Nafion 117,0.16304,0.57354,0.98403,1.45769,1.94888,2.47692,3,3,0,1936
+"A novel catalyst coated membrane embedded with
+Cs-substituted phosphotungstates for proton
+exchange membrane water electrolysis",China,2014,80,1,1,1,3,1,38.48805,0,17.7521,0,1,IrO2/Sb-SnO2 oxide (in mass ratio of 1:1),0.142857143,40,0.333,0.75,0.2 mg/cm2 Pt,0.288660375,0.2,CCM,0,50,1100,nafion 212,0.09994529,0.9168177,2.00286254,3.08890738,4.17495222,5.26099706,0,0,0,0
+"A novel catalyst coated membrane embedded with
+Cs-substituted phosphotungstates for proton
+exchange membrane water electrolysis",China,2014,80,1,1,1,3,1,38.48805,0,17.7521,0,1,IrO2/Sb-SnO2 oxide (in mass ratio of 1:1),0.142857143,40,0.333,0.75,0.2 mg/cm2 Pt,0.288660375,0.2,CCM,0,50,,Cs1.5HPA-Nafion 212,0.1879685,2.0100915,3.8322145,5.6543375,7.4764605,9.2985835,0,0,0,0
+"A novel catalyst coated membrane embedded with
+Cs-substituted phosphotungstates for proton
+exchange membrane water electrolysis",China,2014,80,1,1,1,3,1,38.48805,0,17.7521,0,1,IrO2/Sb-SnO2 oxide (in mass ratio of 1:1),0.142857143,40,0.333,0.75,0.2 mg/cm2 Pt,0.288660375,0.2,CCM,0,50,,Cs1.5HPA-Nafion 212,0.15607603,1.56019509,2.96431415,4.36843321,5.77255227,7.17667133,0,0,0,0
+"A novel catalyst coated membrane embedded with
+Cs-substituted phosphotungstates for proton
+exchange membrane water electrolysis",China,2014,80,1,1,1,3,1,38.48805,0,17.7521,0,1,IrO2/Sb-SnO2 oxide (in mass ratio of 1:1),0.142857143,40,0.333,0.75,0.2 mg/cm2 Pt,0.288660375,0.2,CCM,0,50,1100,nafion 212,0.05104351,0.67230878,1.72135836,2.77040794,3.81945752,4.8685071,0,0,0,0
+"A novel catalyst coated membrane embedded with
+Cs-substituted phosphotungstates for proton
+exchange membrane water electrolysis",China,2014,80,1,1,1,3,1,38.48805,0,17.7521,0,1,IrO2/Sb-SnO2 oxide (in mass ratio of 1:1),0.111111111,40,0.333,0.75,0.2 mg/cm2 Pt,0.288660375,0.2,CCM,0,50,,Cs1.5HPA-Nafion 212,0.21475817,2.01987186,3.82498555,5.63009924,7.43521293,9.24032662,0,0,0,0
+"A novel catalyst coated membrane embedded with
+Cs-substituted phosphotungstates for proton
+exchange membrane water electrolysis",China,2014,80,1,1,1,3,1,38.48805,0,17.7521,0,1,IrO2/Sb-SnO2 oxide (in mass ratio of 1:1),0.083333333,40,0.333,0.75,0.2 mg/cm2 Pt,0.288660375,0.2,CCM,0,50,,Cs1.5HPA-Nafion 212,0.17308535,1.6456669,3.11824845,4.59083,6.06341155,7.5359931,0,0,0,0
+Cell failure mechanisms in PEM water electrolyzers,France,2012,80,1,1,1,,75,100,0,0,0,0,Metallic Ir,,100,,2.0 mg/cm2 Ir,0.4 mg/cm2 Pt,0.2,0.4,CCM,0,175,1100,nafion 117,0.01453,0.11905,0.23942,0.49529,0.75116,1.00703,0,0,0,0
+"Characterisation tools development for PEM
+electrolysers",South Africa,2014,70,1,1,1,,25,85.52915767,0,14.47084233,0,0,IrO2,,100,,1,0.3 mg/cm2 Pt,0.855291577,0.3,CCM,0,125,1100,nafion 115,0.30715228,0.69000915,1.05550648,1.42100381,1.78650114,2.15199847,0,0,0,0
+"Characterisation tools development for PEM
+electrolysers",South Africa,2014,70,1,1,1,,25,85.52915767,0,14.47084233,0,0,IrO2,,100,,1,0.3 mg/cm2 Pt,0.855291577,0.3,CCM,0,175,1100,nafion 117,0.11398,0.4421,0.83648,1.22889,1.6213,2.01371,0,0,0,0
+"Characterisation tools development for PEM
+electrolysers",South Africa,2014,70,1,1,1,,25,85.52915767,0,14.47084233,0,0,IrO2,,100,,1,0.3 mg/cm2 Pt,0.855291577,0.3,CCM,0,254,1100,nafion 1110,0.08834,0.33601,0.62864,0.92443,1.22455,1.52467,0,0,0,0
+"Characterisation tools development for PEM
+electrolysers",South Africa,2014,60,1,1,1,,25,85.52915767,0,14.47084233,0,0,IrO2,,100,,1,0.3 mg/cm2 Pt,0.855291577,0.3,CCM,0,125,1100,nafion 115,0.10087,0.44132,0.83257,1.22141,1.61025,1.99909,0,0,0,0
+"Characterisation tools development for PEM
+electrolysers",South Africa,2014,80,1,1,1,,25,85.52915767,0,14.47084233,0,0,IrO2,,100,,1,0.3 mg/cm2 Pt,0.855291577,0.3,CCM,0,125,1100,nafion 115,0.26339,0.67559,1.12197,1.56835,2.01473,2.46111,0,0,0,0
+"Investigation of supported IrO2 as electrocatalyst
+for the oxygen evolution reaction in proton
+exchange membrane water electrolyser",South Africa,2014,25,1,1,1,,1,85.73,0,14.27,0,0,Pure Oxide,0.176470588,20,0.176470588,2,0.5 mg/cm2 Pt,1.7146,0.5,CCM,0,125,1100,nafion 115,0.0101,0.07305,0.26717,0.49379,0.75289,0.99128,0,0,0,0
+"Investigation of supported IrO2 as electrocatalyst
+for the oxygen evolution reaction in proton
+exchange membrane water electrolyser",South Africa,2014,50,1,1,1,,1,85.73,0,14.27,0,0,Pure Oxide,0.176470588,20,0.176470588,2,0.5 mg/cm2 Pt,1.7146,0.5,CCM,0,125,1100,nafion 115,0.017,0.17133,0.5149,0.89341,1.23902,1.61305,0,0,0,0
+"Investigation of supported IrO2 as electrocatalyst
+for the oxygen evolution reaction in proton
+exchange membrane water electrolyser",South Africa,2014,80,1,1,1,,1,85.73,0,14.27,0,0,Pure Oxide,0.176470588,20,0.176470588,2,0.5 mg/cm2 Pt,1.7146,0.5,CCM,0,125,1100,nafion 115,0.10594,0.45845,0.87473,1.36045,1.76007,2.21574,0,0,0,0
+"Investigation of supported IrO2 as electrocatalyst
+for the oxygen evolution reaction in proton
+exchange membrane water electrolyser",South Africa,2014,80,1,1,1,,1,51.317496,0,24.702,0,1,60% IrO2-TiO2,0.176470588,20,0.176470588,2,0.5 mg/cm2 Pt,1.02634992,0.5,CCM,0,125,1100,nafion 115,0.06898,0.28664,0.67375,1.09605,1.54832,1.93065,0,0,0,0
+"Investigation of supported IrO2 as electrocatalyst
+for the oxygen evolution reaction in proton
+exchange membrane water electrolyser",South Africa,2014,80,1,1,1,,1,51.4286,0,17.0646,0,1,60% IrO2-ITO,0.176470588,20,0.176470588,2,0.5 mg/cm2 Pt,1.028572,0.5,CCM,0,125,1100,nafion 115,0.01423,0.08896,0.23668,0.52647,0.89142,1.22856,0,0,0,0
+"Investigation of supported IrO2 as electrocatalyst
+for the oxygen evolution reaction in proton
+exchange membrane water electrolyser",South Africa,2014,80,1,1,1,,1,77.1429,0,14.9804,0,1,90% IrO2-ITO,0.176470588,20,0.176470588,2,0.5 mg/cm2 Pt,1.542858,0.5,CCM,0,125,1100,nafion 115,0.10895,0.43393,0.84884,1.27592,1.67823,2.03319,0,0,0,0
+"Iridium-Based Nanowires as Highly Active, Oxygen Evolution
+Reaction Electrocatalysts",United States,2018,80,1,1,1,,,90.5,0,0,0,0,Ir-Ni,,100,3.166666667,0.1 Ir,,0.1,,CCM,0,,1100,,0.25419,0.95209,1.66209,2.29952,2.99742,3.69532,0,0,0,0
+"Iridium-Based Nanowires as Highly Active, Oxygen Evolution
+Reaction Electrocatalysts",United States,2018,80,1,1,1,,,98.3,0,0,0,0,Ir-Ni,,100,3.166666667,0.1 Ir,,0.1,,CCM,0,,1100,,0.08969,0.43199,0.93153,1.37301,1.83989,2.26081,0,0,0,0
+"Iridium-Based Nanowires as Highly Active, Oxygen Evolution
+Reaction Electrocatalysts",United States,2018,80,1,1,1,,,93.6,0,0,0,0,Ir-Co,,100,3.166666667,0.1 Ir,,0.1,,CCM,0,,1100,,0.16226,0.80695,1.38632,2.031,2.65512,3.27924,0,0,0,0
+"Iridium-Based Nanowires as Highly Active, Oxygen Evolution
+Reaction Electrocatalysts",United States,2018,80,1,1,1,,,94.5,0,0,0,0,Ir-Co,,100,3.166666667,0.1 Ir,,0.1,,CCM,0,,1100,,0.08364,0.46465,0.9908,1.43228,1.91247,2.35274,0,0,0,0
+"Iridium-Based Nanowires as Highly Active, Oxygen Evolution
+Reaction Electrocatalysts",United States,2018,80,1,1,1,,,100,0,0,0,0,Ir,,100,3.166666667,0.1 Ir,,0.1,,CCM,0,,1100,,0.03042,0.37272,0.78034,1.20126,1.60887,1.99713,0,0,0,0
+"Iridium-Based Nanowires as Highly Active, Oxygen Evolution
+Reaction Electrocatalysts",United States,2018,80,1,1,1,,,85.52915767,0,14.47084233,0,0,IrO2,,100,3.166666667,0.1 Ir,,0.1,,CCM,0,,1100,,0.03768,0.38603,0.76703,1.16255,1.53025,1.81328,0,0,0,0
+"Nanosphere-structured composites consisting of
+Cs-substituted phosphotungstates and antimony
+doped tin oxides as catalyst supports for proton
+exchange membrane liquid water electrolysis",China,2014,80,1,1,1,3,1,85.52915767,0,14.47084233,0,0,IrO2,0.33,40,0.33,0.75,0.2 mg/cm2 Pt,0.641468683,0.2,CCM,0,50,1100,nafion 212,0.07734,0.78899,1.85539,2.92179,3.98819,5.05459,0,0,0,0
+"Nanosphere-structured composites consisting of
+Cs-substituted phosphotungstates and antimony
+doped tin oxides as catalyst supports for proton
+exchange membrane liquid water electrolysis",China,2014,80,1,1,1,3,1,42.76457883,0,17.851,0,1,"IrO2/
+Sb-SnO2",0.33,40,0.33,0.75,0.2 mg/cm2 Pt,0.320734341,0.2,CCM,0,50,1100,nafion 212,0.0998,1.05354,2.00728,2.96102,3.91476,4.8685,0,0,0,0
+"Nanosphere-structured composites consisting of
+Cs-substituted phosphotungstates and antimony
+doped tin oxides as catalyst supports for proton
+exchange membrane liquid water electrolysis",China,2014,80,1,1,1,3,1,42.76457883,0,17.851,0,1,IrO2/Cs1.5HPAe(Sb-SnO2),0.33,40,0.33,0.75,0.2 mg/cm2 Pt,0.320734341,0.2,CCM,0,50,1100,nafion 212,0.15542,1.31167,2.46792,3.62417,4.78042,5.93667,0,0,0,0
+"Nanosphere-structured composites consisting of
+Cs-substituted phosphotungstates and antimony
+doped tin oxides as catalyst supports for proton
+exchange membrane liquid water electrolysis",China,2014,35,1,1,1,3,1,42.76457883,0,17.851,0,1,IrO2/Cs1.5HPAe(Sb-SnO2),0.33,40,0.33,0.75,0.2 mg/cm2 Pt,0.320734341,0.2,CCM,0,50,1100,nafion 212,0.01156,0.05396,0.11917,0.20972,0.30838,0.40704,0.3,0.3,0,100
+"Nanosphere-structured composites consisting of
+Cs-substituted phosphotungstates and antimony
+doped tin oxides as catalyst supports for proton
+exchange membrane liquid water electrolysis",China,2014,35,1,1,1,3,1,42.76457883,0,17.851,0,1,IrO2/Cs1.5HPAe(Sb-SnO2),0.33,40,0.33,0.75,0.2 mg/cm2 Pt,0.320734341,0.2,CCM,0,50,1100,nafion 212,0.00533,0.02542,0.06963,0.13877,0.21332,0.27221,0.3,0.3,0,476
+"Novel thin/tunable gas diffusion electrodes with ultra-low catalyst loading
+for hydrogen evolution reactions in proton exchange membrane electrolyzer
+cells",USA,2018,80,1,1,1,20,5,74.37742114,16.76812396,8.854454898,0,0,IrRuOx,0,100,0,3,0.032 mg/cm2 Pt,2.734366353,0.032,GDE,1,125,1100,nafion 115,0.01577,0.43493,1.05184,1.5588,2.0043,2.4498,0,0,0,0
+"Novel thin/tunable gas diffusion electrodes with ultra-low catalyst loading
+for hydrogen evolution reactions in proton exchange membrane electrolyzer
+cells",USA,2018,80,1,1,1,20,5,74.37742114,16.76812396,8.854454898,0,0,IrRuOx,0,100,0,3,0.051 mg/cm2 Pt,2.734366353,0.051,GDE,1,125,1100,nafion 115,0.05318,0.52502,1.14842,1.72142,2.29442,2.86742,0,0,0,0
+"Novel thin/tunable gas diffusion electrodes with ultra-low catalyst loading
+for hydrogen evolution reactions in proton exchange membrane electrolyzer
+cells",USA,2018,80,1,1,1,20,5,74.37742114,16.76812396,8.854454898,0,0,IrRuOx,0,100,0,3,0.086 mg/cm2 Pt,2.734366353,0.086,GDE,1,125,1100,nafion 115,0.18257,0.84865,1.89465,2.94065,3.98665,5.03265,0,0,0,0
+"Novel thin/tunable gas diffusion electrodes with ultra-low catalyst loading
+for hydrogen evolution reactions in proton exchange membrane electrolyzer
+cells",USA,2018,80,1,1,1,20,5,74.37742114,16.76812396,8.854454898,0,0,IrRuOx,0,100,0,3,0.193 mg/cm2 Pt,2.734366353,0.193,GDE,1,125,1100,nafion 115,0.03333,0.47883,1.12857,1.66874,2.20891,2.74908,0,0,0,0
+"Physical and electrochemical evaluation of ATO supported IrO2
+catalyst for proton exchange membrane water electrolyser",United Kingdom,2014,80,1,1,1,,1,34.2857,0,18.454,0,1,40% IrO2-ATO,0.176470588,20,0.176470588,2,0.5 mg/cm2 Pt,0.685714,0.5,CCM,0,125,1100,nafion 115,0.01766,0.07179,0.1941,0.46132,0.76518,1.09803,0,0,0,0
+"Physical and electrochemical evaluation of ATO supported IrO2
+catalyst for proton exchange membrane water electrolyser",United Kingdom,2014,80,1,1,1,,1,77.1429,0,14.9804,0,1,90% IrO2-ATO,0.176470588,20,0.176470588,2,0.5 mg/cm2 Pt,1.542858,0.5,CCM,0,125,1100,nafion 115,0.11568,0.45365,0.88494,1.31155,1.81359,2.22529,0,0,0,0
+"Preparation and characterization of titanium suboxides as
+conductive supports of IrO2electrocatalysts for
+application in SPE electrolysers",Italy,2009,60,1,1,1,4,,40,0,,0,1,IrO2/TinO2n?1(in-house),0.5,30,0.5,1,1 mg/cm2 Pt,0.4,1,CCM,0,125,1100,nafion 115,0.01036,0.06535,0.17403,0.3564,0.56268,0.72766,0,0,0,0
+"Preparation and characterization of titanium suboxides as
+conductive supports of IrO2electrocatalysts for
+application in SPE electrolysers",Italy,2009,70,1,1,1,4,,40,0,,0,1,IrO2/TinO2n?1(in-house),0.5,30,0.5,1,1 mg/cm2 Pt,0.4,1,CCM,0,125,1100,nafion 115,0.01905,0.09404,0.26402,0.49638,0.75526,0.93263,0,0,0,0
+"Preparation and characterization of titanium suboxides as
+conductive supports of IrO2electrocatalysts for
+application in SPE electrolysers",Italy,2009,80,1,1,1,4,,40,0,,0,1,IrO2/TinO2n?1(in-house),0.5,30,0.5,1,1 mg/cm2 Pt,0.4,1,CCM,0,125,1100,nafion 115,0.04644,0.16403,0.42031,0.71527,0.96893,1.1626,0,0,0,0
+"Preparation and characterization of titanium suboxides as
+conductive supports of IrO2electrocatalysts for
+application in SPE electrolysers",Italy,2009,60,1,1,1,4,,25.6587473,0,32.341,0,1,IrO2/Ebonex,0.5,30,0.5,1,1 mg/cm2 Pt,0.256587473,1,CCM,0,125,1100,nafion 115,0.00757,0.04215,0.10885,0.21533,0.32181,0.42829,0,0,0,0
+"Preparation and characterization of titanium suboxides as
+conductive supports of IrO2electrocatalysts for
+application in SPE electrolysers",Italy,2009,70,1,1,1,4,,25.6587473,0,32.341,0,1,IrO2/Ebonex,0.5,30,0.5,1,1 mg/cm2 Pt,0.256587473,1,CCM,0,125,1100,nafion 115,0.00884,0.04646,0.12001,0.22857,0.33713,0.44569,0,0,0,0
+"Preparation and characterization of titanium suboxides as
+conductive supports of IrO2electrocatalysts for
+application in SPE electrolysers",Italy,2009,80,1,1,1,4,,25.6587473,0,32.341,0,1,IrO2/Ebonex,0.5,30,0.5,1,1 mg/cm2 Pt,0.256587473,1,CCM,0,125,1100,nafion 115,0.01442,0.07041,0.16871,0.30806,0.44741,0.58676,0,0,0,0
+Pure hydrogen production by PEM electrolysis for hydrogen energy,Russia,2006,90,30,30,30,,,100,0,0,0,0,Ir black,,30,,2.4 mg/cm2 Ir,0.6 mg/cm2 Pt,2.4,0.6,CCM,0,,1100,,0.001,0.36857,0.77766,1.27996,1.79949,2.31902,0,0,0,0
+Pure hydrogen production by PEM electrolysis for hydrogen energy,Russia,2006,90,30,30,30,,,22.69920545,27.36933045,20.0014641,0,1,RuO2(30%)-IrO2(32%)-SnO2(38%),,30,,2,0.6 mg/cm2 Pt,1.001370718,0.6,CCM,0,,1100,,0.16807,0.53354,0.98132,1.49241,2.0035,2.51459,0,0,0,0
+Pure hydrogen production by PEM electrolysis for hydrogen energy,Russia,2006,90,30,30,30,,,100,0,0,0,0,Ir black,,0,,2.4 mg/cm2 Ir,2.4,2.4,0,CCM,0,,1100,,0.32988,0.72841,1.16915,1.61341,2.05767,2.50193,0,0,0,0
+Pure hydrogen production by PEM electrolysis for hydrogen energy,Russia,2006,90,30,30,30,,,80.595,0,19.4,0,0,RuO2(50%)-IrO2(50%),,30,,2,0.6 mg/cm2 Pt,1.6119,0.6,CCM,0,,1100,,0.2437,0.65103,1.1375,1.67497,2.21244,2.74991,0,0,0,0
+Pure hydrogen production by PEM electrolysis for hydrogen energy,Russia,2006,30,1,1,1,,,80.595,0,19.4,0,0,RuO2(50%)-IrO2(50%),,30,,2,0.6 mg/cm2 Pt,1.6119,0.6,CCM,0,,1100,,0.07396,0.21926,0.39301,0.53131,0.70506,0.88362,0,0,0,0
+Pure hydrogen production by PEM electrolysis for hydrogen energy,Russia,2006,30,25,25,25,,,80.595,0,19.4,0,0,RuO2(50%)-IrO2(50%),,30,,2,0.6 mg/cm2 Pt,1.6119,0.6,CCM,0,,1100,,0.03107,0.1383,0.35713,0.54794,0.75276,0.97159,0,0,0,0
+Pure hydrogen production by PEM electrolysis for hydrogen energy,Russia,2006,90,1,1,1,,,80.595,0,19.4,0,0,RuO2(50%)-IrO2(50%),,30,,2,0.6 mg/cm2 Pt,1.6119,0.6,CCM,0,,1100,,0.40264,0.72388,1.05518,1.4145,1.75499,2.03115,0,0,0,0
+Pure hydrogen production by PEM electrolysis for hydrogen energy,Russia,2006,90,25,25,25,,,80.595,0,19.4,0,0,RuO2(50%)-IrO2(50%),,30,,2,0.6 mg/cm2 Pt,1.6119,0.6,CCM,0,,1100,,0.2359,0.70025,1.11689,1.52172,1.93618,2.33138,0,0,0,0
+"Boron-Doped Carbon nanoparticles supported palladium as an
+efficient hydrogen evolution electrode in PEM water electrolysis",India,2019,80,1,1,1,60,25,0,75.66401816,24.33598184,0,0,Pure Oxide,,0,,3,0.7 mg cm-2 Pd/B3-CNPs,2.269920545,0.7,CCM,0,125,1100,Nafion 115,0.013708,0.08709,0.18239,0.36896,0.60701,0.89689,0,0,0,0
+"Boron-Doped Carbon nanoparticles supported palladium as an
+efficient hydrogen evolution electrode in PEM water electrolysis",India,2019,70,1,1,1,60,25,0,75.66401816,24.33598184,0,0,Pure Oxide,,0,,3,0.7 mg cm-2 Pd/B3-CNPs,2.269920545,0.7,CCM,0,125,1100,Nafion 115,0.008,0.06549,0.15642,0.31407,0.53207,0.80845,0,0,0,0
+"Boron-Doped Carbon nanoparticles supported palladium as an
+efficient hydrogen evolution electrode in PEM water electrolysis",India,2019,60,1,1,1,60,25,0,75.66401816,24.33598184,0,0,Pure Oxide,,0,,3,0.7 mg cm-2 Pd/B3-CNPs,2.269920545,0.7,CCM,0,125,1100,Nafion 115,0.0074,0.0504,0.13696,0.27515,0.45424,0.74571,0,0,0,0
+"Boron-Doped Carbon nanoparticles supported palladium as an
+efficient hydrogen evolution electrode in PEM water electrolysis",India,2019,50,1,1,1,60,25,0,75.66401816,24.33598184,0,0,Pure Oxide,,0,,3,0.7 mg cm-2 Pd/B3-CNPs,2.269920545,0.7,CCM,0,125,1100,Nafion 115,0.0065,0.03769,0.1175,0.2406,0.42406,0.65716,0,0,0,0
+"Boron-Doped Carbon nanoparticles supported palladium as an
+efficient hydrogen evolution electrode in PEM water electrolysis",India,2019,40,1,1,1,60,25,0,75.66401816,24.33598184,0,0,Pure Oxide,,0,,3,0.7 mg cm-2 Pd/B3-CNPs,2.269920545,0.7,CCM,0,125,1100,Nafion 115,0.0059,0.0212,0.10242,0.19534,0.3637,0.59918,0,0,0,0
+"Boron-Doped Carbon nanoparticles supported palladium as an
+efficient hydrogen evolution electrode in PEM water electrolysis",India,2019,30,1,1,1,60,25,0,75.66401816,24.33598184,0,0,Pure Oxide,,0,,3,0.7 mg cm-2 Pd/B3-CNPs,2.269920545,0.7,CCM,0,125,1100,Nafion 115,0.0051,0.01148,0.08733,0.1735,0.31168,0.51698,0,0,0,0
+"Boron-Doped Carbon nanoparticles supported palladium as an
+efficient hydrogen evolution electrode in PEM water electrolysis",India,2019,80,1,1,1,60,25,0,75.66401816,24.33598184,0,0,Pure Oxide,,30,,3,0.7 mg cm-2 Pt C 30 wt%,2.269920545,0.21,CCM,0,125,1100,Nafion 115,0.01833,0.10518,0.25123,0.43583,0.68354,0.96123,0,0,0,0
+"Durability of a recombination catalyst-based membrane-electrode assembly 
+for electrolysis operation at high current density",Italy,2020,80,1,1,1,4,5,44.62645268,10.06087438,5.312672939,0,0,recombination catalyst (RC),0.176470588,40,0.388888889,0.2 mg cm?2 PtCo and 0.3 mg cm?2 (Ir + Ru),0.1 mg cm-2 Pt,0.4,0.1,CCM,0,50,980,Aquivion? membrane (E98-05S),0.21072,0.81621,1.85364,2.97719,4.23721,5.5118,0,0,0,0
+"Durability of a recombination catalyst-based membrane-electrode assembly 
+for electrolysis operation at high current density",Italy,2020,80,1,1,1,4,5,74.37742114,16.76812396,8.854454898,0,0,Pure Oxide,0.176470588,40,0.388888889,"0.3 mg  Ir + Ru cm?2
+",0.1 mg cm-2 Pt,0.4,0.1,CCM,0,50,980,Aquivion? membrane (E98-05S),0.4704,1.30512,2.41542,3.60389,4.79898,6.03118,0,0,0,0
+"Durability of a recombination catalyst-based membrane-electrode assembly 
+for electrolysis operation at high current density",Italy,2020,80,1,1,1,4,5,44.62645268,10.06087438,5.312672939,0,0,recombination catalyst (RC),0.176470588,40,0.388888889,0.2 mg cm?2 PtCo and 0.3 mg cm?2 (Ir + Ru),0.1 mg cm-2 Pt,0.4,0.1,CCM,0,50,980,Aquivion? membrane (E98-05S),0.21314,0.95449,2.02041,3.51608,5.06239,6.83331,4,4,0,3500
+"Durability of a recombination catalyst-based membrane-electrode assembly 
+for electrolysis operation at high current density",Italy,2020,80,1,1,1,4,5,74.37742114,16.76812396,8.854454898,0,0,Pure Oxide,0.176470588,40,0.388888889,"0.3 mg  Ir + Ru cm?2
+",0.1 mg cm-2 Pt,0.4,0.1,CCM,0,50,980,Aquivion? membrane (E98-05S),0.14303,0.89736,1.949,3.30446,4.65991,6.19193,4,4,0,3500
+"Durability of a recombination catalyst-based membrane-electrode assembly 
+for electrolysis operation at high current density",Italy,2020,30,1,1,1,4,5,44.62645268,10.06087438,5.312672939,0,0,recombination catalyst (RC),0.176470588,40,0.388888889,0.2 mg cm?2 PtCo and 0.3 mg cm?2 (Ir + Ru),0.1 mg cm-2 Pt,0.4,0.1,CCM,0,50,980,Aquivion? membrane (E98-05S),0.029,0.14432,0.69579,1.29707,2.04959,2.94044,0,0,0,0
+"Durability of a recombination catalyst-based membrane-electrode assembly 
+for electrolysis operation at high current density",Italy,2020,40,1,1,1,4,5,44.62645268,10.06087438,5.312672939,0,0,recombination catalyst (RC),0.176470588,40,0.388888889,0.2 mg cm?2 PtCo and 0.3 mg cm?2 (Ir + Ru),0.1 mg cm-2 Pt,0.4,0.1,CCM,0,50,980,Aquivion? membrane (E98-05S),0.034,0.2642,0.85626,1.618,2.51069,3.47348,0,0,0,0
+"Durability of a recombination catalyst-based membrane-electrode assembly 
+for electrolysis operation at high current density",Italy,2020,55,1,1,1,4,5,44.62645268,10.06087438,5.312672939,0,0,recombination catalyst (RC),0.176470588,40,0.388888889,0.2 mg cm?2 PtCo and 0.3 mg cm?2 (Ir + Ru),0.1 mg cm-2 Pt,0.4,0.1,CCM,0,50,980,Aquivion? membrane (E98-05S),0.043,0.3638,1.16612,2.05881,3.06217,4.34404,0,0,0,0
+"Durability of a recombination catalyst-based membrane-electrode assembly 
+for electrolysis operation at high current density",Italy,2020,60,1,1,1,4,5,44.62645268,10.06087438,5.312672939,0,0,recombination catalyst (RC),0.176470588,40,0.388888889,0.2 mg cm?2 PtCo and 0.3 mg cm?2 (Ir + Ru),0.1 mg cm-2 Pt,0.4,0.1,CCM,0,50,980,Aquivion? membrane (E98-05S),0.02258,0.44495,1.32658,2.29859,3.44212,4.62623,0,0,0,0
+"Durability of a recombination catalyst-based membrane-electrode assembly 
+for electrolysis operation at high current density",Italy,2020,70,1,1,1,4,5,44.62645268,10.06087438,5.312672939,0,0,recombination catalyst (RC),0.176470588,40,0.388888889,0.2 mg cm?2 PtCo and 0.3 mg cm?2 (Ir + Ru),0.1 mg cm-2 Pt,0.4,0.1,CCM,0,50,980,Aquivion? membrane (E98-05S),0.13325,0.57406,1.58664,2.6896,3.87371,5.22751,0,0,0,0
+"Durability of a recombination catalyst-based membrane-electrode assembly 
+for electrolysis operation at high current density",Italy,2020,90,1,1,1,4,5,44.62645268,10.06087438,5.312672939,0,0,recombination catalyst (RC),0.176470588,40,0.388888889,0.2 mg cm?2 PtCo and 0.3 mg cm?2 (Ir + Ru),0.1 mg cm-2 Pt,0.4,0.1,CCM,0,50,980,Aquivion? membrane (E98-05S),0.27342,1.01672,2.14919,3.23186,4.64652,6.03905,0,0,0,0
+"Fabrication of a Robust PEM Water Electrolyzer Based on 
+Non-Noble Metal Cathode Catalyst: [Mo3S13]2? Clusters 
+Anchored to N-Doped Carbon Nanotubes",Germany,2020,80,1,1,1,40,1,85.52915767,0,14.47084233,0,0,Pure Oxide,0.25,0,2,1.5 mg cm-2 Ir,3 mg cm?2 of Mo3S13-NCNT,1.5,0,CCM,0,125,1100,Nafion 115,0.00156,0.02132,0.02545,0.09567,0.29757,0.59894,0,0,0,0
+"Fabrication of a Robust PEM Water Electrolyzer Based on 
+Non-Noble Metal Cathode Catalyst: [Mo3S13]2? Clusters 
+Anchored to N-Doped Carbon Nanotubes",Germany,2021,80,1,1,1,40,1,85.52915767,0,14.47084233,0,0,Pure Oxide,0.25,0,2,1.5 mg cm-2 Ir,3 mg cm?2 of Mo3S13-NCNT,1.5,0,CCM,0,50,1100,Nafion 212,0.02213,0.04403,0.14066,0.41066,0.89607,1.48696,0,0,0,0
+"Fabrication of a Robust PEM Water Electrolyzer Based on 
+Non-Noble Metal Cathode Catalyst: [Mo3S13]2? Clusters 
+Anchored to N-Doped Carbon Nanotubes",Germany,2021,80,1,1,1,40,1,85.52915767,0,14.47084233,0,0,Pure Oxide,0.25,60,2,1.5 mg cm-2 Ir,0.5 mg cm-2 Pt,1.5,0.5,CCM,0,125,1100,Nafion 115,0.04403,0.30443,0.78615,1.37114,2.04614,2.79195,0,0,0,0
+"Fabrication of a Robust PEM Water Electrolyzer Based on 
+Non-Noble Metal Cathode Catalyst: [Mo3S13]2? Clusters 
+Anchored to N-Doped Carbon Nanotubes",Germany,2021,80,1,1,1,40,1,85.52915767,0,14.47084233,0,0,Pure Oxide,0.25,60,2,1.5 mg cm-2 Ir,0.5 mg cm-2 Pt,1.5,0.5,CCM,0,50,1100,Nafion 212,0.1473,0.60025,1.30991,2.19737,3.11285,4.03866,0,0,0,0
+Impact of porous transport layer compression on hydrogen permeation in PEM water electrolysis,Germany,2019,80,1,1,1,40,16,85.52915767,0,14.47084233,0,0,Pure Oxide,3,7,0.33,0.9 mg cm-2 Ir,0.25 mg cm-2 Pt,0.9,0.25,CCM,0,50,1100,Nafion 212,0.24183,0.78002,1.79001,2.91268,4.63004,6.3474,0,0,0,0
+Improving PEM water electrolyser’s performance by magnetic field application,Turkey,2020,25,1,1,1,100,5,85.52915767,0,14.47084233,0,0,Pure Oxide,,40,,3,0.4 mg cm-2 Pt,2.56587473,0.4,CCM,0,125,1100,Nafion 115,0.00375,0.00471,0.00594,0.00736,0.0088,0.01055,0,0,0,0
+Improving PEM water electrolyser’s performance by magnetic field application,Turkey,2020,25,1,1,1,200,5,85.52915767,0,14.47084233,0,0,Pure Oxide,,40,,3,0.4 mg cm-2 Pt,2.56587473,0.4,CCM,0,125,1100,Nafion 115,0.00437,0.00536,0.00637,0.00746,0.00864,0.00975,0,0,0,0
+Improving PEM water electrolyser’s performance by magnetic field application,Turkey,2020,25,1,1,1,300,5,85.52915767,0,14.47084233,0,0,Pure Oxide,,40,,3,0.4 mg cm-2 Pt,2.56587473,0.4,CCM,0,125,1100,Nafion 115,0.00378,0.00475,0.00561,0.00672,0.00747,0.00844,0,0,0,0
+Influence of Ionomer Content in IrO2/TiO2Electrodes on PEM Water Electrolyzer Performance,Germany,2016,80,1,1,1,5,5,75,0,,0,1,IrO2/TiO2with 75 wt% iridium,0.040582726,46.7,0.6,2 mg cm-2 Ir,0.35 mg cm-2 Pt,2,0.35,CCM,0,50,1100,Nafion 212,0.3001,1.29598,2.50117,4.01019,5.50795,7.00571,0,0,0,0
+Influence of Ionomer Content in IrO2/TiO2Electrodes on PEM Water Electrolyzer Performance,Germany,2016,80,1,1,1,5,5,75,0,,0,1,IrO2/TiO2with 75 wt% iridium,0.131221719,46.7,0.6,2 mg cm-2 Ir,0.35 mg cm-2 Pt,2,0.35,CCM,0,50,1100,Nafion 212,0.31135,1.48953,2.7161,4.19811,5.68462,7.17113,0,0,0,0
+Influence of Ionomer Content in IrO2/TiO2Electrodes on PEM Water Electrolyzer Performance,Germany,2016,80,1,1,1,5,5,75,0,,0,1,IrO2/TiO2with 75 wt% iridium,0.388888889,46.7,0.6,2 mg cm-2 Ir,0.35 mg cm-2 Pt,2,0.35,CCM,0,50,1100,Nafion 212,0.19545,0.99665,2.00267,3.13133,4.4468,5.7015,0,0,0,0
+Influence of Ionomer Content in IrO2/TiO2Electrodes on PEM Water Electrolyzer Performance,Germany,2016,80,3,1,1,5,5,75,0,,0,1,IrO2/TiO2with 75 wt% iridium,0.131221719,46.7,0.6,2 mg cm-2 Ir,0.35 mg cm-2 Pt,2,0.35,CCM,0,50,1100,Nafion 212,0.15397,0.95131,2.08541,3.21951,4.35361,5.48771,0,0,0,0
+Influence of Ionomer Content in IrO2/TiO2Electrodes on PEM Water Electrolyzer Performance,Germany,2016,80,10,1,1,5,5,75,0,,0,1,IrO2/TiO2with 75 wt% iridium,0.131221719,46.7,0.6,2 mg cm-2 Ir,0.35 mg cm-2 Pt,2,0.35,CCM,0,50,1100,Nafion 212,0.09313,0.76505,1.91569,3.06633,4.21697,5.36761,0,0,0,0
+Influence of Ionomer Content in IrO2/TiO2Electrodes on PEM Water Electrolyzer Performance,Germany,2016,80,30,1,1,5,5,75,0,,0,1,IrO2/TiO2with 75 wt% iridium,0.131221719,46.7,0.6,2 mg cm-2 Ir,0.35 mg cm-2 Pt,2,0.35,CCM,0,50,1100,Nafion 212,0.04189,0.57239,1.68567,3.02684,4.36801,5.70918,0,0,0,0
+"Modelling and Experimental Analysis of a Polymer
+Electrolyte Membrane Water Electrolysis Cell at
+Different Operating T emperatures",Italy,2018,60,1,1,1,40,2.89,85.52915767,0,14.47084233,0,0,Pure Oxide,,40,,0.27 mg cm-2 Ir,0.5 mg cm-2 Pt,0.27,0.5,CCM,0,175,1100,Nafion 117,0.08962,0.38726,0.73409,1.09097,1.48771,1.89234,0,0,0,0
+"Modelling and Experimental Analysis of a Polymer
+Electrolyte Membrane Water Electrolysis Cell at
+Different Operating T emperatures",Italy,2018,80,1,1,1,40,2.89,85.52915767,0,14.47084233,0,0,Pure Oxide,,40,,0.27 mg cm-2 Ir,0.5 mg cm-2 Pt,0.27,0.5,CCM,0,175,1100,Nafion 117,0.21337,0.60251,1.03074,1.46496,1.90481,2.34466,0,0,0,0
+New insights into the stability of a high performance nanostructured catalyst for sustainable water electrolysis,Germany,2019,80,1,1,1,4,5,74.37742114,16.76812396,8.854454898,0,0,Pure Oxide,,30,,0.34 mg Ir + Ru    cm?2,0.1 mg cm-2 Pt,0.34,0.1,CCM,0,90,1000,short-side chain perfluorosulfonic acid Aquivion?membrane,0.254,0.80528,1.58295,2.54937,3.59262,4.63587,0,0,0,0
+New insights into the stability of a high performance nanostructured catalyst for sustainable water electrolysis,Germany,2019,80,1,1,1,4,5,74.37742114,16.76812396,8.854454898,0,0,Pure Oxide,,30,,0.34 mg Ir + Ru    cm?2,0.1 mg cm-2 Pt,0.34,0.1,CCM,0,90,1000,short-side chain perfluorosulfonic acid Aquivion?membrane,0.20195,0.83911,1.60148,2.49314,3.34035,4.18756,3,3,0,1000
+New insights into the stability of a high performance nanostructured catalyst for sustainable water electrolysis,Germany,2019,80,1,1,1,4,5,74.37742114,16.76812396,8.854454898,0,0,Pure Oxide,,30,,1.27 mg Ir + Ru    cm?2,0.1 mg cm-2 Pt,1.27,0.1,CCM,0,90,1000,short-side chain perfluorosulfonic acid Aquivion?membrane,0.25436,0.81114,1.6078,2.50164,3.39548,4.28932,0,0,0,0
+New insights into the stability of a high performance nanostructured catalyst for sustainable water electrolysis,Germany,2019,80,1,1,1,4,5,74.37742114,16.76812396,8.854454898,0,0,Pure Oxide,,30,,1.27 mg Ir + Ru    cm?2,0.1 mg cm-2 Pt,1.27,0.1,CCM,0,90,1000,short-side chain perfluorosulfonic acid Aquivion?membrane,0.14686,0.60411,1.39561,2.39695,3.39829,4.39963,3,3,0,1000
+New insights into the stability of a high performance nanostructured catalyst for sustainable water electrolysis,Germany,2019,80,1,1,1,4,5,74.37742114,16.76812396,8.854454898,0,0,Pure Oxide,,30,,0.34 mg Ir + Ru    cm?2,0.1 mg cm-2 Pt,0.34,0.1,CCM,0,90,1000,short-side chain perfluorosulfonic acid Aquivion?membrane,0.20325,0.80746,1.61354,2.46103,3.30852,4.15601,0,0,0,0
+New insights into the stability of a high performance nanostructured catalyst for sustainable water electrolysis,Germany,2019,80,1,1,1,4,5,74.37742114,16.76812396,8.854454898,0,0,Pure Oxide,,30,,0.34 mg Ir + Ru    cm?2,0.1 mg cm-2 Pt,0.34,0.1,CCM,0,90,1000,short-side chain perfluorosulfonic acid Aquivion?membrane,0.09314,0.60276,1.39096,2.23328,3.0756,3.91792,1,1,0,1000
+"PEM water electrolysis: Innovative approaches
+towards catalyst separation, recovery and recycling",Germany,2019,80,1,1,1,50,25,85.52915767,0,14.47084233,0,0,Pure Oxide,,60,,2.25 mg cm-2 Ir,0.8 mg cm-2 Pt,2.25,0.8,CCM,0,175,1100,Nafion 117,0.2634,0.68076,1.16975,1.68943,2.25297,2.87572,0,0,0,0
+Preparation of RuxPd1-xO2electrocatalysts for the oxygen evolution reaction (OER) in PEM water electrolysis,India,2017,80,1,1,1,60,25,0,60.3,23.9,0,0,Pure Oxide,,30,,3 mg Ru+ Pd cm-2,0.7 mg cm-2 Pt,3,0.7,CCM,0,125,1100,Nafion 115,0.009,0.01542,0.10383,0.46432,0.73829,0.94395,0,0,0,0
+Preparation of RuxPd1-xO2electrocatalysts for the oxygen evolution reaction (OER) in PEM water electrolysis,India,2017,80,1,1,1,60,25,0,37.7,23.7,0,0,Pure Oxide,,30,,3 mg Ru+ Pd cm-2,0.7 mg cm-2 Pt,3,0.7,CCM,0,125,1100,Nafion 115,0.0076,0.005,0.06171,0.27307,0.4867,0.7565,0,0,0,0
+Preparation of RuxPd1-xO2electrocatalysts for the oxygen evolution reaction (OER) in PEM water electrolysis,India,2017,80,1,1,1,60,25,0,14.7,23.4,0,0,Pure Oxide,,30,,3 mg Ru+ Pd cm-2,0.7 mg cm-2 Pt,3,0.7,CCM,0,125,1100,Nafion 115,0.0048,0.005,0.00517,0.08562,0.29925,0.47874,0,0,0,0
+Preparation of RuxPd1-xO2electrocatalysts for the oxygen evolution reaction (OER) in PEM water electrolysis,India,2017,28,1,1,1,60,25,0,60.3,23.9,0,0,Pure Oxide,,30,,3 mg Ru+ Pd cm-2,0.7 mg cm-2 Pt,3,0.7,CCM,0,125,1100,Nafion 115,0.006,0.001,0.00566,0.10551,0.40263,0.59336,0,0,0,0
+Preparation of RuxPd1-xO2electrocatalysts for the oxygen evolution reaction (OER) in PEM water electrolysis,India,2017,40,1,1,1,60,25,0,60.3,23.9,0,0,Pure Oxide,,30,,3 mg Ru+ Pd cm-2,0.7 mg cm-2 Pt,3,0.7,CCM,0,125,1100,Nafion 115,0.0073,0.001,0.0346,0.14749,0.44909,0.73764,0,0,0,0
+Preparation of RuxPd1-xO2electrocatalysts for the oxygen evolution reaction (OER) in PEM water electrolysis,India,2017,50,1,1,1,60,25,0,60.3,23.9,0,0,Pure Oxide,,30,,3 mg Ru+ Pd cm-2,0.7 mg cm-2 Pt,3,0.7,CCM,0,125,1100,Nafion 115,0.0082,0.001,0.05212,0.23186,0.51144,0.82404,0,0,0,0
+Preparation of RuxPd1-xO2electrocatalysts for the oxygen evolution reaction (OER) in PEM water electrolysis,India,2017,60,1,1,1,60,25,0,60.3,23.9,0,0,Pure Oxide,,30,,3 mg Ru+ Pd cm-2,0.7 mg cm-2 Pt,3,0.7,CCM,0,125,1100,Nafion 115,0.0092,0.001,0.07454,0.32723,0.65083,0.91941,0,0,0,0
+Preparation of RuxPd1-xO2electrocatalysts for the oxygen evolution reaction (OER) in PEM water electrolysis,India,2017,70,1,1,1,60,25,0,60.3,23.9,0,0,Pure Oxide,,30,,3 mg Ru+ Pd cm-2,0.7 mg cm-2 Pt,3,0.7,CCM,0,125,1100,Nafion 115,0.0096,0.001,0.09859,0.3961,0.73968,0.96384,0,0,0,0
+"Pt atoms on doped carbon nanosheets with ultrahigh N content as 
+a superior bifunctional catalyst for hydrogen evolution/oxidation",China,2013,60,1,1,1,40,4.5,85.52915767,0,14.47084233,0,0,Pure Oxide,3,1.4,10,2 mg cm-2 Ir,0.025 mg cm-2 Pt,2,0.025,CCM,0,50,1100,Nafion 212,0.12108,0.3833,0.6861,1.00307,1.32391,1.6338,0,0,0,0
+"Pt atoms on doped carbon nanosheets with ultrahigh N content as 
+a superior bifunctional catalyst for hydrogen evolution/oxidation",China,2013,60,1,1,1,40,4.5,85.52915767,0,14.47084233,0,0,Pure Oxide,3,20,10,2 mg cm-2 Ir,0.05 mg cm-2 Pt,2,0.05,CCM,0,50,1100,Nafion 212,0.09725,0.30405,0.57593,0.84136,1.09971,1.32004,0,0,0,0
+An oxygen evolution catalyst on an antimony doped tin oxide nanowire structured support for proton exchange membrane liquid water electrolysis,China,2015,80,1,1,1,3,1,85.73,0,14.27,0,0,Pure Oxide,,40,,0.75,0.2 mg cm-2 Pt,0.642975,0.2,CCM,0,50,1100,Nafion 212,0.1825,1.06823,2.11586,3.16349,4.21112,5.25875,0,0,0,0
+An oxygen evolution catalyst on an antimony doped tin oxide nanowire structured support for proton exchange membrane liquid water electrolysis,China,2015,80,1,1,1,3,1,38.48805,0,17.7521,0,1,IrO2/Sb–SnO2 NP (mass ratio of 1 : 1),,40,,0.75,0.2 mg cm-2 Pt,0.288660375,0.2,CCM,0,50,1100,Nafion 212,0.34155,1.31046,2.8105,4.31054,5.81058,7.31062,0,0,0,0
+An oxygen evolution catalyst on an antimony doped tin oxide nanowire structured support for proton exchange membrane liquid water electrolysis,China,2015,80,1,1,1,3,1,38.48805,0,17.7521,0,1,IrO2/Sb–SnO2 NP (mass ratio of 1 : 1),,40,,0.75,0.2 mg cm-2 Pt,0.288660375,0.2,CCM,0,50,1100,Nafion 212,0.39551,1.75678,3.50634,5.2559,7.00546,8.75502,0,0,0,0
+"Effects of bolt torque and contact resistance on the performance of the
+polymer electrolyte membrane electrolyzers",Turkey,2015,80,1,1,1,,50,85.52915767,0,14.47084233,0,0,Pure Oxide,,100,,2 mg cm-2 Ir and     2 mg cm-2 Pt ,4 mg cm-2 Pt,4,4,CCM,0,254,1100,Nafion 1110,0.01225,0.14003,0.34206,0.5695,0.80758,1.09792,0,0,0,0
+"Effects of bolt torque and contact resistance on the performance of the
+polymer electrolyte membrane electrolyzers",Turkey,2015,80,1,1,1,,50,85.52915767,0,14.47084233,0,0,Pure Oxide,,100,,2 mg cm-2 Ir and     2 mg cm-2 Pt ,4 mg cm-2 Pt,4,4,CCM,0,254,1100,Nafion 1110,0.01682,0.13657,0.34902,0.59243,0.85492,1.20602,0,0,0,0
+"Effects of bolt torque and contact resistance on the performance of the
+polymer electrolyte membrane electrolyzers",Turkey,2015,80,1,1,1,,50,85.52915767,0,14.47084233,0,0,Pure Oxide,,100,,2 mg cm-2 Ir and     2 mg cm-2 Pt ,4 mg cm-2 Pt,4,4,CCM,0,254,1100,Nafion 1110,0.01673,0.13825,0.36549,0.63241,0.91492,1.23807,0,0,0,0
+In situ characterisation of PEM water electrolysers using a novel reference electrode,United Kingdom,2015,55,1,1,1,,8,68.33,15.4,16.27,0,0,Pure Oxide,,40,,3,0.6 mg cm-2 Pt,2.5119,0.6,CCM,0,175,1100,Nafion 117,0.01516,0.15024,0.34885,0.55613,0.77929,0.99483,0,0,0,0
+Non-precious metal electrocatalysts for hydrogen production in proton exchange membrane water electrolyzer,Korea,2017,90,1,1,1,15,4,85.52915767,0,14.47084233,0,0,Pure Oxide,,0,,0.1,"0.06 mg cm-2
+ Cu93.7Mo6.3",0.085529158,0,GDE,1,50,1100,Nafion 212,0.0073,0.02658,0.11851,0.28625,0.50218,0.73064,0,0,0,0
+"Performance of a PEM water electrolyser combining
+an IrRu-oxide anode electrocatalyst and a short-
+side chain Aquivion membrane",Italy,2015,30,1,1,1,2,5,74.37742114,16.76812396,8.854454898,0,0,Pure Oxide,0.25,30,0.5,"1.5 mg cm-2
+ Ir+Ru",0.4 mg cm-2 Pt,1.5,0.4,CCM,0,120,870,The Aquivion?SSC ionomer membrane (E87-12S),0.06745,0.37259,0.81026,1.33037,1.90057,2.46384,0,0,0,0
+"Performance of a PEM water electrolyser combining
+an IrRu-oxide anode electrocatalyst and a short-
+side chain Aquivion membrane",Italy,2015,40,1,1,1,2,5,74.37742114,16.76812396,8.854454898,0,0,Pure Oxide,0.25,30,0.5,"1.5 mg cm-2
+ Ir+Ru",0.4 mg cm-2 Pt,1.5,0.4,CCM,0,120,870,The Aquivion?SSC ionomer membrane (E87-12S),0.10752,0.50204,1.00212,1.60237,2.24886,2.86838,0,0,0,0
+"Performance of a PEM water electrolyser combining
+an IrRu-oxide anode electrocatalyst and a short-
+side chain Aquivion membrane",Italy,2015,50,1,1,1,2,5,74.37742114,16.76812396,8.854454898,0,0,Pure Oxide,0.25,30,0.5,"1.5 mg cm-2
+ Ir+Ru",0.4 mg cm-2 Pt,1.5,0.4,CCM,0,120,870,The Aquivion?SSC ionomer membrane (E87-12S),0.18997,0.64767,1.20092,1.88748,2.59714,3.27291,0,0,0,0
+"Performance of a PEM water electrolyser combining
+an IrRu-oxide anode electrocatalyst and a short-
+side chain Aquivion membrane",Italy,2015,60,1,1,1,2,5,74.37742114,16.76812396,8.854454898,0,0,Pure Oxide,0.25,30,0.5,"1.5 mg cm-2
+ Ir+Ru",0.4 mg cm-2 Pt,1.5,0.4,CCM,0,120,870,The Aquivion?SSC ionomer membrane (E87-12S),0.25182,0.79392,1.44168,2.13844,2.93398,3.69659,0,0,0,0
+"Performance of a PEM water electrolyser combining
+an IrRu-oxide anode electrocatalyst and a short-
+side chain Aquivion membrane",Italy,2015,70,1,1,1,2,5,74.37742114,16.76812396,8.854454898,0,0,Pure Oxide,0.25,30,0.5,"1.5 mg cm-2
+ Ir+Ru",0.4 mg cm-2 Pt,1.5,0.4,CCM,0,120,870,The Aquivion?SSC ionomer membrane (E87-12S),0.35564,0.97901,1.67172,2.43764,3.28293,4.06503,0,0,0,0
+"Performance of a PEM water electrolyser combining
+an IrRu-oxide anode electrocatalyst and a short-
+side chain Aquivion membrane",Italy,2015,80,1,1,1,2,5,74.37742114,16.76812396,8.854454898,0,0,Pure Oxide,0.25,30,0.5,"1.5 mg cm-2
+ Ir+Ru",0.4 mg cm-2 Pt,1.5,0.4,CCM,0,120,870,The Aquivion?SSC ionomer membrane (E87-12S),0.50143,1.13235,1.89879,2.70045,3.60471,4.48294,0,0,0,0
+"Performance of a PEM water electrolyser combining
+an IrRu-oxide anode electrocatalyst and a short-
+side chain Aquivion membrane",Italy,2015,90,1,1,1,2,5,74.37742114,16.76812396,8.854454898,0,0,Pure Oxide,0.25,30,0.5,"1.5 mg cm-2
+ Ir+Ru",0.4 mg cm-2 Pt,1.5,0.4,CCM,0,120,870,The Aquivion?SSC ionomer membrane (E87-12S),0.69208,1.36281,2.14533,2.9937,3.86121,4.87267,0,0,0,0
+"Performance of a PEM water electrolyser combining
+an IrRu-oxide anode electrocatalyst and a short-
+side chain Aquivion membrane",Italy,2015,90,1,1,1,2,5,74.37742114,16.76812396,8.854454898,0,0,Pure Oxide,0.25,30,0.5,"1.5 mg cm-2
+ Ir+Ru",0.4 mg cm-2 Pt,1.5,0.4,CCM,0,125,1100,Nafion 115,0.61104,1.20591,1.8988,2.66476,3.54579,4.42622,0,0,0,0
+"Polymer Electrolyte Membrane Electrolyzers Utilizing Non-
+precious Mo-based Hydrogen Evolution Catalysts","United
+States",2015,80,1,1,1,6,1,100,0,0,0,0,Ir  black,,0,,2 mg cm-2 Ir,"3 mg cm-2
+MoSx-CB",2,0,CCM,0,125,1100,Nafion 115,0.00719,0.0406,0.16493,0.37531,0.64833,0.93295,0,0,0,0
+"Polymer Electrolyte Membrane Electrolyzers Utilizing Non-
+precious Mo-based Hydrogen Evolution Catalysts","United
+States",2015,80,1,1,1,6,1,100,0,0,0,0,Ir  black,,0,,2 mg cm-2 Ir,"3 mg cm-2
+Mo3S13-CB",2,0,CCM,0,125,1100,Nafion 115,0.0123,0.09186,0.2649,0.5189,0.80212,1.07653,0,0,0,0
+"Polymer Electrolyte Membrane Electrolyzers Utilizing Non-
+precious Mo-based Hydrogen Evolution Catalysts","United
+States",2015,80,1,1,1,6,1,100,0,0,0,0,Ir  black,,0,,2 mg cm-2 Ir,"3 mg cm-2
+MoP丨S-CB",2,0,CCM,0,125,1100,Nafion 115,0.02389,0.10601,0.28044,0.5407,0.85478,1.14334,0,0,0,0
+"Polymer Electrolyte Membrane Electrolyzers Utilizing Non-
+precious Mo-based Hydrogen Evolution Catalysts","United
+States",2015,80,1,1,1,6,1,100,0,0,0,0,Ir  black,,20,,2 mg cm-2 Ir,0.5 mg cm-2 Pt,2,0.5,CCM,0,125,1100,Nafion 115,0.31756,0.63418,0.91764,1.16514,1.41264,1.66014,0,0,0,0
+"Radiation-Grafted Polymer Electrolyte Membranes for Water
+Electrolysis Cells: Evaluation of Key Membrane Properties",Switzerland,2015,80,3,3,3,500,29.16,85.52915767,0,14.47084233,0,0,Pure Oxide,,100,,2.03 mg cm-2 Ir,1.05 mg cm-2 Pt,2.03,1.05,CCM,0,79.5,869.5652174,St/AN/DiPB (SG)-based MEA （radiation-grafted membrane）,0.1167,0.36443,0.52428,0.6355,0.78516,0.93482,0,0,0,0
+"Radiation-Grafted Polymer Electrolyte Membranes for Water
+Electrolysis Cells: Evaluation of Key Membrane Properties",Switzerland,2015,80,3,3,3,500,29.16,85.52915767,0,14.47084233,0,0,Pure Oxide,,100,,2.03 mg cm-2 Ir,1.05 mg cm-2 Pt,2.03,1.05,CCM,0,125,1100,commercial MEA,0.09139,0.32265,0.59156,0.87695,1.1286,1.38025,0,0,0,0
+The electrocatalytic properties of an IrO2/SnO2catalyst using SnO2as a support and an assisting reagent for the oxygen evolution reaction,China,2011,80,1,1,1,3,1,85.73,0,14.27,0,0,"IrO2
+Pure Oxide",,40,,1,0.2 mg cm-2 Pt,0.8573,0.2,CCM,0,50,1100,Nafion 212,0.05503,0.62422,1.58244,2.44603,3.30962,4.17321,0,0,0,0
+The electrocatalytic properties of an IrO2/SnO2catalyst using SnO2as a support and an assisting reagent for the oxygen evolution reaction,China,2011,80,1,1,1,3,1,64.11,0,16.02,0,1,IrO2/SnO2 (2:1),,40,,1,0.2 mg cm-2 Pt,0.6411,0.2,CCM,0,50,1100,Nafion 212,0.15587,1.00942,2.02069,3.09886,4.17703,5.2552,0,0,0,0
+The electrocatalytic properties of an IrO2/SnO2catalyst using SnO2as a support and an assisting reagent for the oxygen evolution reaction,China,2011,80,1,1,1,3,1,36.5,0,18.25,0,1,IrO2/SnO2 (1:2),,40,,1,0.2 mg cm-2 Pt,0.365,0.2,CCM,0,50,1100,Nafion 212,0.01823,0.46699,1.34444,2.0508,2.75716,3.46352,0,0,0,0
+Constructing a Multifunctional Interface between Membrane and Porous Transport Layer for Water Electrolyzers,Germany,2021,80,1,1,1,50,25,85.73,0,14.27,0,0,Pure Oxide,0.33,60,0.25,0,0.8 mg cm-2 Pt,0,0.8,GDE,1,175,1100,nafion117,0.136,0.386,0.716,1.084,1.467,1.85,0,0,0,0
+Constructing a Multifunctional Interface between Membrane and Porous Transport Layer for Water Electrolyzers,Germany,2021,80,1,1,1,50,25,85.73,0,14.27,0,0,Pure Oxide,0.33,60,0.25,0.005 mg cm-2 Ir,0.8 mg cm-2 Pt,0.005,0.8,GDE,1,175,1100,nafion117,0.146,0.481,0.897,1.335,1.805,2.275,0,0,0,0
+Constructing a Multifunctional Interface between Membrane and Porous Transport Layer for Water Electrolyzers,Germany,2021,80,1,1,1,50,25,85.73,0,14.27,0,0,Pure Oxide,0.33,60,0.25,0.013 mg cm-2 Ir,0.8 mg cm-2 Pt,0.013,0.8,GDE,1,175,1100,nafion117,0.16,0.526,0.961,1.442,1.956,2.47,0,0,0,0
+Constructing a Multifunctional Interface between Membrane and Porous Transport Layer for Water Electrolyzers,Germany,2021,80,1,1,1,50,25,85.73,0,14.27,0,0,Pure Oxide,0.33,60,0.25,0.025 mg cm-2 Ir,0.8 mg cm-2 Pt,0.025,0.8,GDE,1,175,1100,nafion117,0.16,0.526,1.014,1.529,2.044,2.559,0,0,0,0
+Constructing a Multifunctional Interface between Membrane and Porous Transport Layer for Water Electrolyzers,Germany,2021,80,1,1,1,50,25,85.73,0,14.27,0,0,Pure Oxide,0.33,60,0.25,0.05 mg cm-2 Ir,0.8 mg cm-2 Pt,0.05,0.8,GDE,1,175,1100,nafion117,0.16,0.526,1.014,1.529,2.044,2.559,0,0,0,0
+FeP Nanocatalyst with Preferential [010] Orientation Boosts the Hydrogen Evolution Reaction in Polymer-Electrolyte Membrane Electrolyzer,The Netherlands,2020,22,1,1,1,0.166666667,5,74.37742114,16.76812396,8.854454898,0,0,IrRuOx(商用）,0.25,0,0.25,3,0.4 mg cm-2 FeP,2.734366353,0,GDE,1,125,1100,nafion115,0.0015,0.004,0.019,0.051,0.096,0.159,0,0,0,0
+FeP Nanocatalyst with Preferential [010] Orientation Boosts the Hydrogen Evolution Reaction in Polymer-Electrolyte Membrane Electrolyzer,The Netherlands,2020,22,1,1,1,0.166666667,5,74.37742114,16.76812396,8.854454898,0,0,IrRuOx（商用）,0.25,100,0.25,3,0.5 mg cm-2 Pt,2.734366353,0.5,GDE,1,125,1100,nafion115,0.012,0.094,0.194,0.33,0.466,0.602,0,0,0,0
+"Highly stable RuO2/SnO2 nanocomposites as anode
+electrocatalysts in a PEM water electrolysis cell
+",Republic of Korea,2013,80,1,1,1,7,4,0,75.66401816,24.33598184,0,0,Pure RuO2,,40,,3,0.6 mg cm-2 Pt,2.269920545,0.6,CCM,0,125,1100,nafion115,0.239,0.513,0.857,1.201,1.545,1.889,0,0,0,0
+"Highly stable RuO2/SnO2 nanocomposites as anode
+electrocatalysts in a PEM water electrolysis cell
+",Republic of Korea,2013,80,1,1,1,7,4,0,23.83808219,22.38354235,0,1,RuO2/SnO2(mass ratios 0.45:1),,40,,3,0.6 mg cm-2 Pt,0.715142466,0.6,CCM,0,125,1100,nafion115,0.239,0.528,0.848,1.168,1.488,1.808,0,0,0,0
+"Highly stable RuO2/SnO2 nanocomposites as anode
+electrocatalysts in a PEM water electrolysis cell
+",Republic of Korea,2013,80,1,1,1,7,4,0,30.35461078,22.62905869,0,1,RuO2/SnO2(mass ratios 0.67:1),,40,,3,0.6 mg cm-2 Pt,0.910638323,0.6,CCM,0,125,1100,nafion115,0.288,0.579,0.915,1.251,1.587,1.923,0,0,0,0
+"Highly stable RuO2/SnO2 nanocomposites as anode
+electrocatalysts in a PEM water electrolysis cell
+",Republic of Korea,2013,80,1,1,1,7,4,0,39.10927536,22.95889891,0,1,RuO2/SnO2(mass ratios 1.07:1),,40,,3,0.6 mg cm-2 Pt,1.173278261,0.6,CCM,0,125,1100,nafion115,0.326,0.613,0.929,1.245,1.561,1.877,0,0,0,0
+Performance enhancement of PEM electrolyzers through iridium-coated titanium porous transport layers,Germany,2018,80,1,1,1,,25,85.52915767,0,14.47084233,0,0,"IrO2(Alfa Aesar, Premion, 99.99%)",,60,,2.2,0.8 mg cm?2 Pt,1.881641469,0.8,CCM,0,175,1100,nafion117,0.197,0.608,0.117,1.684,2.272,2.86,0,0,0,0
+"Phosphorus-doped carbon nanoparticles supported palladium
+electrocatalyst for the hydrogen evolution reaction (HER) in PEM
+water electrolysis",Germany,2018,30,1,1,1,60,25,0,75.66401816,24.33598184,0,0, RuO2,,0,,3, 0.7 mg cm?2 Pd/P-CNPs,2.269920545,0.7,CCM,0,125,1100,nafion115,0.006,0.03,0.102,0.22,0.402,0.605,0,0,0,0
+"Phosphorus-doped carbon nanoparticles supported palladium
+electrocatalyst for the hydrogen evolution reaction (HER) in PEM
+water electrolysis",Germany,2018,40,1,1,1,60,25,0,83.55,16.45,0,0, RuO2,,0,,3, 0.7 mg cm?2 Pd/P-CNPs,2.5065,0.7,CCM,0,125,1100,nafion115,0.0076,0.054,0.131,0.254,0.46,0.762,0,0,0,0
+"Phosphorus-doped carbon nanoparticles supported palladium
+electrocatalyst for the hydrogen evolution reaction (HER) in PEM
+water electrolysis",Germany,2018,50,1,1,1,60,25,0,83.55,16.45,0,0, RuO2,,0,,3, 0.7 mg cm?2 Pd/P-CNPs,2.5065,0.7,CCM,0,125,1100,nafion115,0.008,0.06,0.153,0.3,0.518,0.801,0,0,0,0
+"Phosphorus-doped carbon nanoparticles supported palladium
+electrocatalyst for the hydrogen evolution reaction (HER) in PEM
+water electrolysis",Germany,2018,60,1,1,1,60,25,0,83.55,16.45,0,0, RuO2,,0,,3, 0.7 mg cm?2 Pd/P-CNPs,2.5065,0.7,CCM,0,125,1100,nafion115,0.0088,0.07,0.177,0.335,0.565,0.876,0,0,0,0
+"Phosphorus-doped carbon nanoparticles supported palladium
+electrocatalyst for the hydrogen evolution reaction (HER) in PEM
+water electrolysis",Germany,2018,70,1,1,1,60,25,0,83.55,16.45,0,0, RuO2,,0,,3, 0.7 mg cm?2 Pd/P-CNPs,2.5065,0.7,CCM,0,125,1100,nafion115,0.012,0.082,0.2,0.381,0.631,0.932,0,0,0,0
+"Phosphorus-doped carbon nanoparticles supported palladium
+electrocatalyst for the hydrogen evolution reaction (HER) in PEM
+water electrolysis",Germany,2018,80,1,1,1,60,25,0,83.55,16.45,0,0, RuO2,,0,,3, 0.7 mg cm?2 Pd/P-CNPs,2.5065,0.7,CCM,0,125,1100,nafion115,0.023,0.094,0.225,0.43,0.72,1.04,0,0,0,0
+"Phosphorus-doped carbon nanoparticles supported palladium
+electrocatalyst for the hydrogen evolution reaction (HER) in PEM
+water electrolysis",Germany,2018,80,1,1,1,60,25,0,83.55,16.45,0,0, RuO2,,30,,3, 0.7 mg cm?2 Pt/CB,2.5065,0.21,CCM,0,125,1100,nafion115,0.03,0.103,0.286,0.52,0.801,1.093,0,0,0,0
+"Polarization characteristics of a low catalyst loading PEM water
+electrolyzer operating at elevated temperature",Republic of Korea,2016,90,1,1,1,15,6.25,85.52915767,0,14.47084233,0,0,IrO2,,46.3,,0.1,0.4 mg cm-2 Pt,0.085529158,0.4,GDE,1,50,1100,nafion212,0.435,1.019,1.535,1.914,2.244,2.693,0,0,0,0
+"Polarization characteristics of a low catalyst loading PEM water
+electrolyzer operating at elevated temperature",Republic of Korea,2016,120,1.5,1.5,1.5,15,6.25,85.52915767,0,14.47084233,0,0,IrO2,,46.3,,0.1,0.4 mg cm-2 Pt,0.085529158,0.4,GDE,1,50,1100,nafion212,0.903,1.716,3.017,4.412,5.769,7.046,0,0,0,0
+"Polarization characteristics of a low catalyst loading PEM water
+electrolyzer operating at elevated temperature",Republic of Korea,2016,120,2,2,2,15,6.25,85.52915767,0,14.47084233,0,0,IrO2,,46.3,,0.1,0.4 mg cm-2 Pt,0.085529158,0.4,GDE,1,50,1100,nafion212,0.848,1.716,3.103,4.641,6.186,7.683,0,0,0,0
+"Polarization characteristics of a low catalyst loading PEM water
+electrolyzer operating at elevated temperature",Republic of Korea,2016,120,2.5,2.5,2.5,15,6.25,85.52915767,0,14.47084233,0,0,IrO2,,46.3,,0.1,0.4 mg cm-2 Pt,0.085529158,0.4,GDE,1,50,1100,nafion212,0.778,1.805,3.284,4.971,1.899,8.342,0,0,0,0
+The effect of cathode nitrogen purging on cell performance and in operando neutron imaging of a polymer electrolyte membrane electrolyzer,Canada,2018,40,1,1,1,20,25,100,0,0,0,0,Ir black,,100,,1 mg cm-2 Ir,0.3 mg cm-2 Pt,1,0.3,CCM,0,,1100,Nafion 1110,0.026,0.195,0.402,0.627,0.867,1.107,0,0,0,0
+"Initial approaches in benchmarking and round
+robin testing for proton exchange membrane water
+electrolyzers",Germany,2019,60,1,1,1,50,25,85.52915767,0,14.47084233,0,0, IrOx,,100,,2.5 mg cm-2 Ir,0.8 mg cm-2 Pt,2.5,0.8,CCM,0,175,1100,nafion117,0.068,0.363,0.751,1.181,1.633,2.085,0,0,0,0
+"Initial approaches in benchmarking and round
+robin testing for proton exchange membrane water
+electrolyzers",Germany,2019,80,1,1,1,50,25,85.52915767,0,14.47084233,0,0, IrOx,,100,,2.5 mg cm-2 Ir,0.8 mg cm-2 Pt,2.5,0.8,CCM,0,175,1100,nafion117,0.162,0.546,1.028,1.557,2.106,2.655,0,0,0,0
+"Investigation of V-doped TiO2as an anodic catalyst
+support for SPE water electrolysis",China,2017,80,1,1,1,40,3.645,59.70877787,0,9.941511515,0,1,IrO2/TiV-0,0.33,40,0.33,2.5 mg cm-2 Ir,0.5 mg cm-2 Pt,2.5,0.5,CCM,0,175,1100,nafion117,0.037,0.145,0.293,0.453,0.603,0.75,0,0,0,0
+"Investigation of V-doped TiO2as an anodic catalyst
+support for SPE water electrolysis",China,2017,80,1,1,1,40,3.645,57.84506658,0,9.631203586,0,1,IrO2/TiV-10,0.33,40,0.33,2.5 mg cm-2 Ir,0.5 mg cm-2 Pt,2.5,0.5,CCM,0,175,1100,nafion117,0.047,0.181,0.341,0.516,0.69,0.855,0,0,0,0
+"Investigation of V-doped TiO2as an anodic catalyst
+support for SPE water electrolysis",China,2017,80,1,1,1,40,3.645,57.81239854,0,9.625764357,0,1,IrO2/TiV-20,0.33,40,0.33,2.5 mg cm-2 Ir,0.5 mg cm-2 Pt,2.5,0.5,CCM,0,175,1100,nafion117,0.051,0.191,0.369,0.569,0.765,0.97,0,0,0,0
+"Investigation of V-doped TiO2as an anodic catalyst
+support for SPE water electrolysis",China,2017,80,1,1,1,40,3.645,66.86367932,0,11.13280261,0,1,IrO2/TiV-30,0.33,40,0.33,2.5 mg cm-2 Ir,0.5 mg cm-2 Pt,2.5,0.5,CCM,0,175,1100,nafion117,0.058,0.204,0.392,0.59,0.778,0.95,0,0,0,0
+"Investigation of V-doped TiO2as an anodic catalyst
+support for SPE water electrolysis",China,2017,80,1,1,1,40,3.645,85.52915767,0,14.47084233,0,0,Pure Oxide,0.33,40,0.33,2.5 mg cm-2 Ir,0.5 mg cm-2 Pt,2.5,0.5,CCM,0,175,1100,nafion117,0.058,0.204,0.409,0.644,0.905,1.166,0,0,0,0
+"Investigation of V-doped TiO2as an anodic catalyst
+support for SPE water electrolysis",China,2017,80,1,1,1,40,3.645,66.86367932,0,11.13280261,0,1,IrO2/TiV-30,0.33,40,0.33,2.5 mg cm-2 Ir,0.5 mg cm-2 Pt,2.5,0.5,CCM,0,175,1100,nafion117,0.05682,0.20426,0.378,0.57823,0.74885,0.90039,1,1,0,10
+"Investigation of V-doped TiO2as an anodic catalyst
+support for SPE water electrolysis",China,2017,80,1,1,1,40,3.645,66.86367932,0,11.13280261,0,1,IrO2/TiV-30,0.33,40,0.33,2.5 mg cm-2 Ir,0.5 mg cm-2 Pt,2.5,0.5,CCM,0,175,1100,nafion117,0.04532,0.17875,0.34508,0.51473,0.66841,0.82092,1,1,0,50
+"Investigations on degradation of the long-term proton exchange
+membrane water electrolysis stack",China,2014,60,1,1,1,1800,160,100,0,0,0,0,"Iridium black (Johnson matthey, HiSPECTM 160000) ",0.4,40,0.6,1.5 mg cm-2 Ir,0.4 mg cm-2 Pt,1.5,0.4,CCM,0,125,1100,nafion115,0.124,0.469,0.852,1.235,1.618,2.001,0.5,0.5,0,7800
+"Nanosized IrOx and IrRuOx electrocatalysts for the O2evolution
+reaction
+ in PEM water electrolysers",Italy,2015,30,1,1,1,4,5,74.37742114,16.76812396,8.854454898,0,0,Ir0.7Ru0.3Ox ,0.25,30,0.5,1.5,0.5 mg cm-2 Pt,1.367183177,0.5,CCM,0,125,1100,nafion115,0.064,0.304,0.683,1.103,1.581,2.059,0,0,0,0
+"Nanosized IrOx and IrRuOx electrocatalysts for the O2evolution
+reaction
+ in PEM water electrolysers",Italy,2015,40,1,1,1,4,5,74.37742114,16.76812396,8.854454898,0,0,Ir0.7Ru0.3Ox ,0.25,30,0.5,1.5,0.5 mg cm-2 Pt,1.367183177,0.5,CCM,0,125,1100,nafion115,0.096,0.418,0.87,1.376,1.9,2.424,0,0,0,0
+"Nanosized IrOx and IrRuOx electrocatalysts for the O2evolution
+reaction
+ in PEM water electrolysers",Italy,2015,50,1,1,1,4,5,74.37742114,16.76812396,8.854454898,0,0,Ir0.7Ru0.3Ox ,0.25,30,0.5,1.5,0.5 mg cm-2 Pt,1.367183177,0.5,CCM,0,125,1100,nafion115,0.15,0.54,1.063,1.622,2.23,2.838,0,0,0,0
+"Nanosized IrOx and IrRuOx electrocatalysts for the O2evolution
+reaction
+ in PEM water electrolysers",Italy,2015,60,1,1,1,4,5,74.37742114,16.76812396,8.854454898,0,0,Ir0.7Ru0.3Ox ,0.25,30,0.5,1.5,0.5 mg cm-2 Pt,1.367183177,0.5,CCM,0,125,1100,nafion115,0.226,0.692,1.271,1.9,2.585,3.27,0,0,0,0
+"Nanosized IrOx and IrRuOx electrocatalysts for the O2evolution
+reaction
+ in PEM water electrolysers",Italy,2015,70,1,1,1,4,5,74.37742114,16.76812396,8.854454898,0,0,Ir0.7Ru0.3Ox ,0.25,30,0.5,1.5,0.5 mg cm-2 Pt,1.367183177,0.5,CCM,0,125,1100,nafion115,0.312,0.817,1.427,2.183,2.966,3.749,0,0,0,0
+"Nanosized IrOx and IrRuOx electrocatalysts for the O2evolution
+reaction
+ in PEM water electrolysers",Italy,2015,80,1,1,1,4,5,74.37742114,16.76812396,8.854454898,0,0,Ir0.7Ru0.3Ox ,0.25,30,0.5,1.5,0.5 mg cm-2 Pt,1.367183177,0.5,CCM,0,125,1100,nafion115,0.442,1.002,1.638,2.478,3.22,3.962,0,0,0,0
+"Nanosized IrOx and IrRuOx electrocatalysts for the O2evolution
+reaction
+ in PEM water electrolysers",Italy,2015,90,1,1,1,4,5,74.37742114,16.76812396,8.854454898,0,0,Ir0.7Ru0.3Ox ,0.25,30,0.5,1.5,0.5 mg cm-2 Pt,1.367183177,0.5,CCM,0,125,1100,nafion115,0.603,1.181,1.84,2.653,3.466,4.279,0,0,0,0
+"Nanosized IrOx and IrRuOx electrocatalysts for the O2evolution
+reaction
+ in PEM water electrolysers",Italy,2015,30,1,1,1,4,5,85.52915767,0,14.47084233,0,0,IrOx ,0.25,30,0.5,1.5,0.5 mg cm-2 Pt,1.282937365,0.5,CCM,0,125,1100,nafion115,0.032,0.179,0.501,0.897,1.316,1.735,0,0,0,0
+"Nanosized IrOx and IrRuOx electrocatalysts for the O2evolution
+reaction
+ in PEM water electrolysers",Italy,2015,40,1,1,1,4,5,85.52915767,0,14.47084233,0,0,IrOx ,0.25,30,0.5,1.5,0.5 mg cm-2 Pt,1.282937365,0.5,CCM,0,125,1100,nafion115,0.032,0.258,0.651,1.1,1.626,2.152,0,0,0,0
+"Nanosized IrOx and IrRuOx electrocatalysts for the O2evolution
+reaction
+ in PEM water electrolysers",Italy,2015,50,1,1,1,4,5,85.52915767,0,14.47084233,0,0,IrOx ,0.25,30,0.5,1.5,0.5 mg cm-2 Pt,1.282937365,0.5,CCM,0,125,1100,nafion115,0.063,0.342,0.789,1.31,1.905,2.5,0,0,0,0
+"Nanosized IrOx and IrRuOx electrocatalysts for the O2evolution
+reaction
+ in PEM water electrolysers",Italy,2015,60,1,1,1,4,5,85.52915767,0,14.47084233,0,0,IrOx ,0.25,30,0.5,1.5,0.5 mg cm-2 Pt,1.282937365,0.5,CCM,0,125,1100,nafion115,0.077,0.437,0.978,1.566,2.198,2.83,0,0,0,0
+"Nanosized IrOx and IrRuOx electrocatalysts for the O2evolution
+reaction
+ in PEM water electrolysers",Italy,2015,70,1,1,1,4,5,85.52915767,0,14.47084233,0,0,IrOx ,0.25,30,0.5,1.5,0.5 mg cm-2 Pt,1.282937365,0.5,CCM,0,125,1100,nafion115,0.101,0.519,1.098,1.796,2.561,3.326,0,0,0,0
+"Nanosized IrOx and IrRuOx electrocatalysts for the O2evolution
+reaction
+ in PEM water electrolysers",Italy,2015,80,1,1,1,4,5,85.52915767,0,14.47084233,0,0,IrOx ,0.25,30,0.5,1.5,0.5 mg cm-2 Pt,1.282937365,0.5,CCM,0,125,1100,nafion115,0.167,0.7,1.294,1.991,2.8,3.609,0,0,0,0
+"Nanosized IrOx and IrRuOx electrocatalysts for the O2evolution
+reaction
+ in PEM water electrolysers",Italy,2015,90,1,1,1,4,5,85.52915767,0,14.47084233,0,0,IrOx ,0.25,30,0.5,1.5,0.5 mg cm-2 Pt,1.282937365,0.5,CCM,0,125,1100,nafion115,0.299,0.811,1.395,2.047,2.281,2.515,0,0,0,0
+"Performance analysis of short-side-chain Aquivionsperfluorosulfonic
+acid polymer for proton exchange membrane water electrolysis", Italy,2014,80,1,1,1,2,5,85.52915767,0,14.47084233,0,0, IrO2,0.5,50,0.5,2 mg cm-2 Ir,0.3 mg cm-2 Pt,2,0.3,CCM,0,120,870,short-side-chain perfluorosulfonic acid (SSC-PFSA) membrane ,0.4,0.92,1.647,2.413,3.234,4.055,0,0,0,0
+"Performance analysis of short-side-chain Aquivionsperfluorosulfonic
+acid polymer for proton exchange membrane water electrolysis", Italy,2014,80,1,1,1,2,5,85.52915767,0,14.47084233,0,0, IrO2,0.5,50,0.5,2 mg cm-2 Ir,0.3 mg cm-2 Pt,2,0.3,CCM,0,125,1100,nafion115,0.313,0.727,1.149,1.543,1.937,2.331,0,0,0,0
+"Performance analysis of short-side-chain Aquivionsperfluorosulfonic
+acid polymer for proton exchange membrane water electrolysis", Italy,2014,40,1,1,1,2,5,85.52915767,0,14.47084233,0,0, IrO2,0.5,50,0.5,2 mg cm-2 Ir,0.3 mg cm-2 Pt,2,0.3,CCM,0,120,870,short-side-chain perfluorosulfonic acid (SSC-PFSA) membrane ,0.094,0.398,0.897,1.454,2.08,2.66,0,0,0,0
+"Performance analysis of short-side-chain Aquivionsperfluorosulfonic
+acid polymer for proton exchange membrane water electrolysis", Italy,2014,50,1,1,1,2,5,85.52915767,0,14.47084233,0,0, IrO2,0.5,50,0.5,2 mg cm-2 Ir,0.3 mg cm-2 Pt,2,0.3,CCM,0,120,870,short-side-chain perfluorosulfonic acid (SSC-PFSA) membrane ,0.148,0.487,1.007,1.695,2.295,3.041,0,0,0,0
+"Performance analysis of short-side-chain Aquivionsperfluorosulfonic
+acid polymer for proton exchange membrane water electrolysis", Italy,2014,60,1,1,1,2,5,85.52915767,0,14.47084233,0,0, IrO2,0.5,50,0.5,2 mg cm-2 Ir,0.3 mg cm-2 Pt,2,0.3,CCM,0,120,870,short-side-chain perfluorosulfonic acid (SSC-PFSA) membrane ,0.233,0.67,1.28,1.983,2.764,3.545,0,0,0,0
+"Performance analysis of short-side-chain Aquivionsperfluorosulfonic
+acid polymer for proton exchange membrane water electrolysis", Italy,2014,70,1,1,1,2,5,85.52915767,0,14.47084233,0,0, IrO2,0.5,50,0.5,2 mg cm-2 Ir,0.3 mg cm-2 Pt,2,0.3,CCM,0,120,870,short-side-chain perfluorosulfonic acid (SSC-PFSA) membrane ,0.303,0.782,1.397,2.194,2.989,3.784,0,0,0,0
+"Performance analysis of short-side-chain Aquivionsperfluorosulfonic
+acid polymer for proton exchange membrane water electrolysis", Italy,2014,90,1,1,1,2,5,85.52915767,0,14.47084233,0,0, IrO2,0.5,50,0.5,2 mg cm-2 Ir,0.3 mg cm-2 Pt,2,0.3,CCM,0,120,870,short-side-chain perfluorosulfonic acid (SSC-PFSA) membrane ,0.446,1.096,1.942,2.776,3.61,4.444,0,0,0,0
+"Proton exchange membrane water electrolysis
+with short-side-chain Aquivion?membrane
+and IrO2anode catalyst",Italy,2014,27.5,3,3,3,3.33,6.25,85.52915767,0,14.47084233,0,0, IrO2,0.5,40,0.5,2,2 mg cm-2 Pt,1.710583153,2,CCM,0,120,870,E87-12S (short-side-chain perfluorosulfonic acid membrane ),0.016,0.034,0.304,0.706,1.133,1.596,0,0,0,0
+"Proton exchange membrane water electrolysis
+with short-side-chain Aquivion?membrane
+and IrO2anode catalyst",Italy,2014,40,3,3,3,3.33,6.25,85.52915767,0,14.47084233,0,0, IrO2,0.5,40,0.5,2,2 mg cm-2 Pt,1.710583153,2,CCM,0,120,870,E87-12S (short-side-chain perfluorosulfonic acid membrane ),0.02,0.082,0.395,0.894,1.428,2.024,0,0,0,0
+"Proton exchange membrane water electrolysis
+with short-side-chain Aquivion?membrane
+and IrO2anode catalyst",Italy,2014,60,3,3,3,3.33,6.25,85.52915767,0,14.47084233,0,0, IrO2,0.5,40,0.5,2,2 mg cm-2 Pt,1.710583153,2,CCM,0,120,870,E87-12S (short-side-chain perfluorosulfonic acid membrane ),0.024,0.27,0.849,1.474,2.099,2.724,0,0,0,0
+"Proton exchange membrane water electrolysis
+with short-side-chain Aquivion?membrane
+and IrO2anode catalyst",Italy,2014,80,3,3,3,3.33,6.25,85.52915767,0,14.47084233,0,0, IrO2,0.5,40,0.5,2,2 mg cm-2 Pt,1.710583153,2,CCM,0,120,870,E87-12S (short-side-chain perfluorosulfonic acid membrane ),0.11,0.676,1.498,2.32,3.142,3.964,0,0,0,0
+"Proton exchange membrane water electrolysis
+with short-side-chain Aquivion?membrane
+and IrO2anode catalyst",Italy,2014,90,3,3,3,3.33,6.25,85.52915767,0,14.47084233,0,0, IrO2,0.5,40,0.5,2,2 mg cm-2 Pt,1.710583153,2,CCM,0,120,870,E87-12S (short-side-chain perfluorosulfonic acid membrane ),0.198,0.972,1.776,2.58,3.384,4.188,0,0,0,0
+"Proton exchange membrane water electrolysis
+with short-side-chain Aquivion?membrane
+and IrO2anode catalyst",Italy,2014,100,3,3,3,3.33,6.25,85.52915767,0,14.47084233,0,0, IrO2,0.5,40,0.5,2,2 mg cm-2 Pt,1.710583153,2,CCM,0,120,870,E87-12S (short-side-chain perfluorosulfonic acid membrane ),0.197,0.889,1.906,2.923,3.94,4.957,0,0,0,0
+"Proton exchange membrane water electrolysis
+with short-side-chain Aquivion?membrane
+and IrO2anode catalyst",Italy,2014,110,3,3,3,3.33,6.25,85.52915767,0,14.47084233,0,0, IrO2,0.5,40,0.5,2,2 mg cm-2 Pt,1.710583153,2,CCM,0,120,870,E87-12S (short-side-chain perfluorosulfonic acid membrane ),0.297,1.097,1.995,2.893,3.791,4.689,0,0,0,0
+"Proton exchange membrane water electrolysis
+with short-side-chain Aquivion?membrane
+and IrO2anode catalyst",Italy,2014,120,3,3,3,3.33,6.25,85.52915767,0,14.47084233,0,0, IrO2,0.5,40,0.5,2,2 mg cm-2 Pt,1.710583153,2,CCM,0,120,870,E87-12S (short-side-chain perfluorosulfonic acid membrane ),0.47,1.292,2.114,2.936,3.758,4.58,0,0,0,0
+"Proton exchange membrane water electrolysis
+with short-side-chain Aquivion?membrane
+and IrO2anode catalyst",Italy,2014,27.5,3,3,3,3.33,6.25,85.52915767,0,14.47084233,0,0, IrO2,0.5,40,0.5,2,2 mg cm-2 Pt,1.710583153,2,CCM,0,120,870,E87-12S-ZrP(ZrP预处理 E87-12S）,0.011,0.041,0.25,0.52,0.821,1.141,0,0,0,0
+"Proton exchange membrane water electrolysis
+with short-side-chain Aquivion?membrane
+and IrO2anode catalyst",Italy,2014,40,3,3,3,3.33,6.25,85.52915767,0,14.47084233,0,0, IrO2,0.5,40,0.5,2,2 mg cm-2 Pt,1.710583153,2,CCM,0,120,870,E87-12S-ZrP(ZrP预处理 E87-12S）,0.014,0.075,0.31,0.635,0.996,1.385,0,0,0,0
+"Proton exchange membrane water electrolysis
+with short-side-chain Aquivion?membrane
+and IrO2anode catalyst",Italy,2014,60,3,3,3,3.33,6.25,85.52915767,0,14.47084233,0,0, IrO2,0.5,40,0.5,2,2 mg cm-2 Pt,1.710583153,2,CCM,0,120,870,E87-12S-ZrP(ZrP预处理 E87-12S）,0.017,0.2,0.529,0.925,1.377,1.809,0,0,0,0
+"Proton exchange membrane water electrolysis
+with short-side-chain Aquivion?membrane
+and IrO2anode catalyst",Italy,2014,80,3,3,3,3.33,6.25,85.52915767,0,14.47084233,0,0, IrO2,0.5,40,0.5,2,2 mg cm-2 Pt,1.710583153,2,CCM,0,120,870,E87-12S-ZrP(ZrP预处理 E87-12S）,1.03,0.414,0.87,1.276,1.801,2.326,0,0,0,0
+"Proton exchange membrane water electrolysis
+with short-side-chain Aquivion?membrane
+and IrO2anode catalyst",Italy,2014,90,3,3,3,3.33,6.25,85.52915767,0,14.47084233,0,0, IrO2,0.5,40,0.5,2,2 mg cm-2 Pt,1.710583153,2,CCM,0,120,870,E87-12S-ZrP(ZrP预处理 E87-12S）,0.127,0.529,1.02,1.481,2.004,2.527,0,0,0,0
+"Proton exchange membrane water electrolysis
+with short-side-chain Aquivion?membrane
+and IrO2anode catalyst",Italy,2014,100,3,3,3,3.33,6.25,85.52915767,0,14.47084233,0,0, IrO2,0.5,40,0.5,2,2 mg cm-2 Pt,1.710583153,2,CCM,0,120,870,E87-12S-ZrP(ZrP预处理 E87-12S）,0.127,0.529,1.02,1.481,2.05,2.619,0,0,0,0
+"Proton exchange membrane water electrolysis
+with short-side-chain Aquivion?membrane
+and IrO2anode catalyst",Italy,2014,110,3,3,3,3.33,6.25,85.52915767,0,14.47084233,0,0, IrO2,0.5,40,0.5,2,2 mg cm-2 Pt,1.710583153,2,CCM,0,120,870,E87-12S-ZrP(ZrP预处理 E87-12S）,0.204,0.625,1.177,1.65,2.123,2.596,0,0,0,0
+"Proton exchange membrane water electrolysis
+with short-side-chain Aquivion?membrane
+and IrO2anode catalyst",Italy,2014,120,3,3,3,3.33,6.25,85.52915767,0,14.47084233,0,0, IrO2,0.5,40,0.5,2,2 mg cm-2 Pt,1.710583153,2,CCM,0,120,870,E87-12S-ZrP(ZrP预处理 E87-12S）,0.303,0.726,1.245,1.841,2.437,3.033,0,0,0,0
+"Proton exchange membrane water electrolysis
+with short-side-chain Aquivion?membrane
+and IrO2anode catalyst",Italy,2014,80,3,3,3,3.33,6.25,85.52915767,0,14.47084233,0,0, IrO2,0.5,40,0.5,2,2 mg cm-2 Pt,1.710583153,2,CCM,0,70,206.185567,"sPBI-OO（polybenzimidazole poly-[(1-(4,40-diphe-
+nylether)-5-oxybenzimidazole)-benzimidazole] ）",0.03,0.368,0.97,1.66,2.35,3.04,0,0,0,0
+"Proton exchange membrane water electrolysis
+with short-side-chain Aquivion?membrane
+and IrO2anode catalyst",Italy,2014,100,3,3,3,3.33,6.25,85.52915767,0,14.47084233,0,0, IrO2,0.5,40,0.5,2,2 mg cm-2 Pt,1.710583153,2,CCM,0,70,206.185567,"sPBI-OO（polybenzimidazole poly-[(1-(4,40-diphe-
+nylether)-5-oxybenzimidazole)-benzimidazole] ）",0.06,0.399,1.021,1.824,2.627,3.43,0,0,0,0
+"Proton exchange membrane water electrolysis
+with short-side-chain Aquivion?membrane
+and IrO2anode catalyst",Italy,2014,110,3,3,3,3.33,6.25,85.52915767,0,14.47084233,0,0, IrO2,0.5,40,0.5,2,2 mg cm-2 Pt,1.710583153,2,CCM,0,70,206.185567,"sPBI-OO（polybenzimidazole poly-[(1-(4,40-diphe-
+nylether)-5-oxybenzimidazole)-benzimidazole] ）",0.114,0.572,1.257,2.062,2.867,3.672,0,0,0,0
+"Proton exchange membrane water electrolysis
+with short-side-chain Aquivion?membrane
+and IrO2anode catalyst",Italy,2014,120,3,3,3,3.33,6.25,85.52915767,0,14.47084233,0,0, IrO2,0.5,40,0.5,2,2 mg cm-2 Pt,1.710583153,2,CCM,0,70,206.185567,"sPBI-OO（polybenzimidazole poly-[(1-(4,40-diphe-
+nylether)-5-oxybenzimidazole)-benzimidazole] ）",0.213,0.724,1.556,2.388,3.22,4.052,0,0,0,0
+"Solution combustion synthesis of highly dispersible
+and dispersed iridium oxide as an anode catalyst in
+PEM water electrolysis",Spain,2017,80,1,1,1,0.5,4,85.52915767,0,14.47084233,0,1, IrO2（Purely insulating alumina作载体）,0.3,40,0.3,2,0.6,1.710583153,0.24,CCM,0,125,1100,nafion115,0.256,0.588,1.154,1.739,2.324,2.909,0,0,0,0
+"Solution combustion synthesis of highly dispersible
+and dispersed iridium oxide as an anode catalyst in
+PEM water electrolysis",Spain,2017,80,1,1,1,0.5,4,74.37742114,16.76812396,8.854454898,0,0,IrRuOx (商用）,0.3,40,0.3,3,3,2.734366353,1.2,CCM,0,125,1100,nafion115,0.226,0.668,1.221,1.816,2.411,3.006,0,0,0,0
+"Sulfated titania as additive in Nafion membranes
+for water electrolysis applications",Italy,2017,80,1,1,1,4,5,74.37742114,16.76812396,8.854454898,0,0, Ir0.7Ru0.3Ox,0.25,30,0.5,1.5,0.5 mg cm-2 Pt,1.367183177,0.5,CCM,0,105,1031,nafion,0.407,0.892,1.487,2.089,2.595,3.029,0,0,0,0
+"Sulfated titania as additive in Nafion membranes
+for water electrolysis applications",Italy,2017,80,1,1,1,4,5,74.37742114,16.76812396,8.854454898,0,0, Ir0.7Ru0.3Ox,0.25,30,0.5,1.5,0.5 mg cm-2 Pt,1.367183177,0.5,CCM,0,105,1219.5,Nafion/S-TiO2 5wt.%,0.295,0.8,1.415,2.089,2.791,3.431,0,0,0,0
+"Sulfated titania as additive in Nafion membranes
+for water electrolysis applications",Italy,2017,100,1,1,1,4,5,74.37742114,16.76812396,8.854454898,0,0, Ir0.7Ru0.3Ox,0.25,30,0.5,1.5,0.5 mg cm-2 Pt,1.367183177,0.5,CCM,0,105,1031,nafion,0.714,1.208,1.674,2.181,2.594,3.014,0,0,0,0
+"Sulfated titania as additive in Nafion membranes
+for water electrolysis applications",Italy,2017,100,1,1,1,4,5,74.37742114,16.76812396,8.854454898,0,0, Ir0.7Ru0.3Ox,0.25,30,0.5,1.5,0.5 mg cm-2 Pt,1.367183177,0.5,CCM,0,105,1219.5,Nafion/S-TiO2 5wt.%,0.714,1.174,1.786,2.455,3.268,4.013,0,0,0,0
+"Thin film surface modifications of thin/tunable liquid/gas diffusion layers
+for high-efficiency proton exchange membrane electrolyzer cells",United States,2017,80,1,1,1,20,5,74.37742114,16.76812396,8.854454898,0,0, IrRuOx,,100,,3,3,2.734366353,3,CCM,0,125,1100,nafion115,0.565,1.312,2.059,2.806,3.553,4.3,0,0,0,0
+"Thin film surface modifications of thin/tunable liquid/gas diffusion layers
+for high-efficiency proton exchange membrane electrolyzer cells",United States,2017,80,1,1,1,20,5,74.37742114,16.76812396,8.854454898,0,0, IrRuOx,,100,,3,3,2.734366353,3,CCM,0,125,1100,nafion115,0.565,1.488,2.411,3.334,4.257,5.18,0,0,0,0
+"Thin film surface modifications of thin/tunable liquid/gas diffusion layers
+for high-efficiency proton exchange membrane electrolyzer cells",United States,2017,80,1,1,1,20,5,74.37742114,16.76812396,8.854454898,0,0, IrRuOx,,100,,3,3,2.734366353,3,CCM,0,125,1100,nafion115,0.714,1.712,2.71,3.708,4.706,5.704,0,0,0,0
+"Thin film surface modifications of thin/tunable liquid/gas diffusion layers
+for high-efficiency proton exchange membrane electrolyzer cells",United States,2017,80,1,1,1,20,5,74.37742114,16.76812396,8.854454898,0,0, IrRuOx,,100,,3,3,2.734366353,3,CCM,0,125,1100,nafion115,0.756,1.634,2.512,3.39,4.268,5.146,0,0,0,0
+Analysis of performance degradation during steady-state and load-thermal cycles of proton exchange membrane water electrolysis cells,Italy,2020,80,1,1,1,1,5,74.37742114,16.76812396,8.854454898,0,0,Pure Oxide,0.2,40,0.39,0.34 mg cm-2 IrRu,0.1 mg cm-2 Pt,0.34,0.1,CCM,0,90,980,E98-09S,0.40496,1.02934,1.92672,2.83694,3.67908,4.50965,0,0,0,0
+Analysis of Voltage Losses in PEM Water Electrolyzers with Low Platinum Group Metal Loadings,Germany,2018,80,1,1,1,5,5,75,0,17.5,0,1,IrO2/TiO2,0.13,45.8,0.25,1.62 mg cm-2 Ir,0.3 mg cm-2 Pt,1.62,0.3,CCM,0,50,1100,Nafion 212,0.31458,1.42213,2.59793,4.02916,5.34559,6.95986,0,0,0,0
+Analysis of Voltage Losses in PEM Water Electrolyzers with Low Platinum Group Metal Loadings,Germany,2018,80,1,1,1,5,5,75,0,17.5,0,1,IrO2/TiO2,0.13,4.8,0.25,1.58 mg cm-2 Ir,0.025 mg cm-2 Pt,1.58,0.025,CCM,0,50,1100,Nafion 212,0.31458,1.40455,2.46142,3.78614,5.07672,6.28665,0,0,0,0
+Analysis of Voltage Losses in PEM Water Electrolyzers with Low Platinum Group Metal Loadings,Germany,2018,80,1,1,1,5,5,75,0,17.5,0,1,IrO2/TiO2,0.13,4.8,0.25,0.2 mg cm-2 Ir,0.025 mg cm-2 Pt,0.2,0.025,CCM,0,50,1100,Nafion 212,0.01631,0.28745,0.84102,1.55687,2.45758,3.48153,0,0,0,0
+Analysis of Voltage Losses in PEM Water Electrolyzers with Low Platinum Group Metal Loadings,Germany,2018,80,1,1,1,5,5,75,0,17.5,0,1,IrO2/TiO2,0.13,4.8,0.25,3.97 mg cm-2 Ir,0.025 mg cm-2 Pt,3.97,0.025,CCM,0,50,1100,Nafion 212,0.38706,1.33749,2.48839,3.50633,4.6323,5.4609,0,0,0,0
+Anodic microporous layer for polymer electrolyte membrane water electrolysers,Germany,2017,80,3,3,3,,,85.52915767,0,14.47084233,0,0,Pure Oxide,0.18,40,,1.1,0.5 mg cm-2 Pt,0.940820734,0.5,GDE,1,175,1100,Nafion 117,0.03083,0.09754,0.16425,0.23096,0.29767,0.36438,0,0,0,0
+Efficient multi-metallic anode catalysts in a PEM water electrolyzer,France,2013,25,1,1,1,,5,76.72992366,2.378541997,15.30031216,0,1,Ru0.85Ir0.05Sn0.1O2,1.425,46.1,0.37,2.5,0.4 mg cm-2 Pt,1.977711641,0.4,CCM,0,125,1100,Nafion 115,0.0033,0.01482,0.08815,0.1593,0.24452,0.33727,0,0,0,0
+Efficient multi-metallic anode catalysts in a PEM water electrolyzer,France,2013,25,1,1,1,,5,79.37854279,2.460646234,15.82845943,0,1,Ru0.85Ir0.05Ti0.1O2,1.425,46.1,0.37,2.5,0.4 mg cm-2 Pt,2.045979726,0.4,CCM,0,125,1100,Nafion 115,0.0037,0.03325,0.09687,0.17991,0.26711,0.37294,0,0,0,0
+Efficient multi-metallic anode catalysts in a PEM water electrolyzer,France,2013,25,1,1,1,,5,80.2284846,4.689280639,15.08223476,0,0,Ru0.9Ir0.1O2,1.425,46.1,0.37,2.5,0.4 mg cm-2 Pt,2.122944131,0.4,CCM,0,125,1100,Nafion 115,0.02017,0.11292,0.24353,0.37076,0.50216,0.63375,0,0,0,0
+Efficient multi-metallic anode catalysts in a PEM water electrolyzer,France,2013,60,5,5,5,,25,80.2284846,4.689280639,15.08223476,0,0,Ru0.9Ir0.1O2,1.425,46.1,0.37,1.5,0.4 mg cm-2 Pt,1.273766479,0.4,CCM,0,125,1100,Nafion 115,0.05484,0.22595,0.47586,0.75084,0.94583,1.09187,0,0,0,0
+Efficient multi-metallic anode catalysts in a PEM water electrolyzer,France,2013,60,5,5,5,,25,80.2284846,4.689280639,15.08223476,0,0,Ru0.9Ir0.1O2,1.425,46.1,0.37,1.75,0.4 mg cm-2 Pt,1.486060892,0.4,CCM,0,175,1100,Nafion 117,0.03534,0.14477,0.31688,0.49655,0.68816,0.82784,0,0,0,0
+Efficient multi-metallic anode catalysts in a PEM water electrolyzer,France,2013,60,10,10,10,,25,80.2284846,4.689280639,15.08223476,0,0,Ru0.9Ir0.1O2,1.425,46.1,0.37,1.5,0.4 mg cm-2 Pt,1.273766479,0.4,CCM,0,125,1100,Nafion 115,0.04509,0.23133,0.51924,0.8159,1.10262,1.38934,0,0,0,0
+Efficient multi-metallic anode catalysts in a PEM water electrolyzer,France,2013,60,10,10,10,,25,80.2284846,4.689280639,15.08223476,0,0,Ru0.9Ir0.1O2,1.425,46.1,0.37,1.5,0.4 mg cm-2 Pt,1.273766479,0.4,CCM,0,175,1100,Nafion 117,0.0234,0.12846,0.32225,0.51386,0.72159,0.86783,0,0,0,0
+Efficient multi-metallic anode catalysts in a PEM water electrolyzer,France,2013,60,10,10,10,,25,79.37854279,2.460646234,15.82845943,0,1,Ru0.85Ir0.05Ti0.1O2,1.425,46.1,0.37,1.5,0.4 mg cm-2 Pt,1.227587835,0.4,CCM,0,175,1100,Nafion 117,0.03737,0.22518,0.51362,0.80752,1.07373,1.33994,0,0,0,0
+Efficient multi-metallic anode catalysts in a PEM water electrolyzer,France,2013,60,10,10,10,,25,79.37854279,2.460646234,15.82845943,0,1,Ru0.85Ir0.05Ti0.1O2,1.425,46.1,0.37,1.5,0.4 mg cm-2 Pt,1.227587835,0.4,CCM,0,175,1100,Nafion 117,0.0204,0.1497,0.41181,0.67802,0.94852,1.21902,1,1,12,250
+Efficient multi-metallic anode catalysts in a PEM water electrolyzer,France,2013,60,1,1,1,,25,79.37854279,2.460646234,15.82845943,0,1,Ru0.85Ir0.05Ti0.1O2,1.425,46.1,0.37,1.5,0.4 mg cm-2 Pt,1.227587835,0.4,CCM,0,175,1100,Nafion 117,0.0637,0.26023,0.53021,0.85188,1.16658,1.48334,0,0,0,0
+Influence of iridium oxide loadings on the performance of PEM water electrolysis cells: Part I–Pure IrO2-based anodes,France,2015,80,1,1,1,3.333333333,25,85.52915767,0,14.47084233,0,0,Pure Oxide,0.11,46,0.35,0.1,0.25 mg cm-2 Pt,0.085529158,0.25,CCM,0,125,1100,Nafion 115,0.08567,0.27026,0.51747,0.78519,1.06613,1.31522,0,0,0,0
+Influence of iridium oxide loadings on the performance of PEM water electrolysis cells: Part I–Pure IrO3-based anodes,France,2015,80,1,1,1,3.333333333,25,85.52915767,0,14.47084233,0,0,Pure Oxide,0.11,46,0.35,0.23,0.25 mg cm-2 Pt,0.196717063,0.25,CCM,0,125,1100,Nafion 115,0.11563,0.34583,0.6211,0.96438,1.30955,1.62639,0,0,0,0
+Influence of iridium oxide loadings on the performance of PEM water electrolysis cells: Part I–Pure IrO4-based anodes,France,2015,80,1,1,1,3.333333333,25,85.52915767,0,14.47084233,0,0,Pure Oxide,0.11,46,0.35,0.32,0.25 mg cm-2 Pt,0.273693305,0.25,CCM,0,125,1100,Nafion 115,0.12696,0.39872,0.75118,1.13224,1.52086,1.91488,0,0,0,0
+Influence of iridium oxide loadings on the performance of PEM water electrolysis cells: Part I–Pure IrO5-based anodes,France,2015,80,1,1,1,3.333333333,25,85.52915767,0,14.47084233,0,0,Pure Oxide,0.11,46,0.35,0.4,0.25 mg cm-2 Pt,0.342116631,0.25,CCM,0,125,1100,Nafion 115,0.14963,0.47024,0.8513,1.26044,1.73191,2.12646,0,0,0,0
+Influence of iridium oxide loadings on the performance of PEM water electrolysis cells: Part I–Pure IrO6-based anodes,France,2015,80,1,1,1,3.333333333,25,85.52915767,0,14.47084233,0,0,Pure Oxide,0.11,46,0.35,0.71,0.25 mg cm-2 Pt,0.607257019,0.25,CCM,0,125,1100,Nafion 115,0.21845,0.56443,0.96735,1.43666,1.86064,2.36018,0,0,0,0
+Influence of iridium oxide loadings on the performance of PEM water electrolysis cells: Part I–Pure IrO7-based anodes,France,2015,80,1,1,1,3.333333333,25,85.52915767,0,14.47084233,0,0,Pure Oxide,0.11,46,0.35,1.71,0.15 mg cm-2 Pt,1.462548596,0.15,CCM,0,125,1100,Nafion 115,0.22358,0.56443,0.96735,1.43666,1.89005,2.36018,0,0,0,0
+Initial Performance and Durability of Ultra-Low Loaded NSTF Electrodes for PEM Electrolyzers,USA,2012,80,1,1,1,250,86,50,0,0,0,0,NTSF,0,50,0,0.15 mg cm-2 PtIr,0.15 mg cm-2 Pt,0.15,0.15,CCM,0,175,1100,Nafion 117,0.04736,0.32901,0.72662,1.23626,1.68358,2.21294,0,0,0,0
+Initial Performance and Durability of Ultra-Low Loaded NSTF Electrodes for PEM Electrolyzers,USA,2012,80,1,1,1,250,86,0,0,0,0,0,NTSF,0,68,0,0.15 mg cm-2 Pt,0.15 mg cm-2 Pt,0.15,0.15,CCM,0,175,1100,Nafion 117,0.04736,0.32901,0.70216,1.10767,1.58417,1.9526,0,0,0,0
+Investigation of titanium liquid/gas diffusion layers in proton exchange membrane electrolyzer cells,USA,2016,20,1,1,1,40,5,74.37742114,16.76812396,8.854454898,0,0,IrRuOx,,100,,3,3 mg cm-2 Pt,2.734366353,3,CCM,0,125,1100,Nafion 115,0.0064,0.01692,0.14707,0.29023,0.48174,0.64536,0,0,0,0
+Investigation on the degradation of MEAs for PEM water electrolysers part I: Effects of testing conditions on MEA performances and membrane properties,France,2016,60,1,1,1,33,25,85.52915767,0,14.47084233,0,0,Pure Oxide,,100,,1.99,1.31 mg cm-2 Pt,1.702030238,1.31,CCM,0,175,1100,Nafion 117,0.41673,0.80747,1.2363,1.50401,2.05186,2.37546,0,0,0,0
+Investigation on the degradation of MEAs for PEM water electrolysers part I: Effects of testing conditions on MEA performances and membrane properties,France,2016,80,1,1,1,33,25,85.52915767,0,14.47084233,0,0,Pure Oxide,,100,,1.99,1.19 mg cm-2 Pt,1.702030238,1.19,CCM,0,175,1100,Nafion 117,0.31197,0.62252,1.10766,1.60435,2.06842,2.36893,0,0,0,0
+"Palladium supported on phosphorus–nitrogen dual-doped carbon
+nanoparticles as cathode for hydrogen evolution in PEM
+water electrolyser",Germany,2018,30,1,1,1,60,25,0,75.66401816,24.33598184,0,0,Pure Oxide,,0,,3,0.7 mg cm-2 Pd,2.269920545,0.7,GDE,1,125,1100,Nafion 115,0.0345,0.10042,0.22061,0.38851,0.60775,0.89438,0,0,0,0
+"Palladium supported on phosphorus–nitrogen dual-doped carbon
+nanoparticles as cathode for hydrogen evolution in PEM
+water electrolyser",Germany,2018,40,1,1,1,60,25,0,75.66401816,24.33598184,0,0,Pure Oxide,,0,,3,0.7 mg cm-2 Pd,2.269920545,0.7,GDE,1,125,1100,Nafion 115,0.04798,0.13648,0.25958,0.45625,0.72466,1.00546,0,0,0,0
+"Palladium supported on phosphorus–nitrogen dual-doped carbon
+nanoparticles as cathode for hydrogen evolution in PEM
+water electrolyser",Germany,2018,50,1,1,1,60,25,0,75.66401816,24.33598184,0,0,Pure Oxide,,0,,3,0.7 mg cm-2 Pd,2.269920545,0.7,GDE,1,125,1100,Nafion 115,0.05854,0.15323,0.3153,0.50869,0.77711,1.09833,0,0,0,0
+"Palladium supported on phosphorus–nitrogen dual-doped carbon
+nanoparticles as cathode for hydrogen evolution in PEM
+water electrolyser",Germany,2018,60,1,1,1,60,25,0,75.66401816,24.33598184,0,0,Pure Oxide,,0,,3,0.7 mg cm-2 Pd,2.269920545,0.7,GDE,1,125,1100,Nafion 115,0.07675,0.17873,0.34954,0.56405,0.85832,1.16716,0,0,0,0
+"Palladium supported on phosphorus–nitrogen dual-doped carbon
+nanoparticles as cathode for hydrogen evolution in PEM
+water electrolyser",Germany,2018,70,1,1,1,60,25,0,75.66401816,24.33598184,0,0,Pure Oxide,,0,,3,0.7 mg cm-2 Pd,2.269920545,0.7,GDE,1,125,1100,Nafion 115,0.09023,0.1922,0.40526,0.63908,0.90312,1.25566,0,0,0,0
+"Palladium supported on phosphorus–nitrogen dual-doped carbon
+nanoparticles as cathode for hydrogen evolution in PEM
+water electrolyser",Germany,2018,80,1,1,1,60,25,0,75.66401816,24.33598184,0,0,Pure Oxide,,0,,3,0.7 mg cm-2 Pd,2.269920545,0.7,GDE,1,125,1100,Nafion 115,0.11572,0.24756,0.46681,0.72321,1.01711,1.33834,0,0,0,0
+"Pathways to ultra-low platinum group metal catalyst loading in
+proton exchange membrane electrolyzerswater electrolyser",USA,2016,50,1,1,1,300,25,85.52915767,0,14.47084233,0,0,Pure Oxide,0.15,100,0.15,3,0.2 mg cm-2 Pt,2.56587473,0.2,GDE,1,175,1100,Nafion 117,0.05565,0.34357,0.67562,0.9618,1.27279,1.55378,0,0,0,0
+"Pathways to ultra-low platinum group metal catalyst loading in
+proton exchange membrane electrolyzerswater electrolyser",USA,2016,50,1,1,1,300,25,85.52915767,0,14.47084233,0,0,Pure Oxide,0.15,100,0.15,0.1,0.2 mg cm-2 Pt,0.085529158,0,GDE,1,175,1100,Nafion 117,0.0015,0.16492,0.46303,0.78719,1.12566,1.4663,0,0,0,0
+"Pathways to ultra-low platinum group metal catalyst loading in
+proton exchange membrane electrolyzerswater electrolyser",USA,2016,50,1,1,1,300,25,85.52915767,0,14.47084233,0,0,Pure Oxide,0.15,100,0.15,3,0.2 mg cm-2 Pt,2.56587473,0.2,CCM,0,175,1100,Nafion 117,0.06431,0.34075,0.65941,1.00887,1.39484,1.79981,0,0,0,0
+A highly efficient and durable carbon nanotube-based anode electrocatalyst for water electrolyzers,Japan,2017,80,1,1,1,1,1,19.1,0,3.231565657,77.66843434,1,MWNT/PBI/Ir,0.43,46,0.43,0.5 mg cm-2 Ir,0.5 mg cm-2 Pt,0.5,0.5,CCM,0,175,1100,Nafion 117,0.32965,0.77717,1.26408,1.75099,2.2379,2.72481,0,0,0,0
+Development of electrodeposited IrO2 electrodes as anodes in polymer electrolyte membrane water electrolysis,Korea,2015,90,1,1,1,15,4,85.52915767,0,14.47084233,0,0,Pure Oxide,,46,,0.1,0.4 mg cm-2 Pt,0.085529158,0.4,CCM,0,50,1100,Nafion 212,0.47732,1.05467,1.53636,1.93308,2.2392,2.69556,0,0,0,0
+Effects of membrane electrode assembly properties on two-phase transport and performance in proton exchange membrane electrolyzer cells,USA,2015,80,1,1,1,,5,74.37742114,16.76812396,8.854454898,0,0,Pure Oxide,,,,3,3 mg cm-2 Pt,2.734366353,3,CCM,0,175,1100,Nafion 117,0.28879,0.59789,0.98849,1.44729,1.96581,2.61749,0,0,0,0
+High temperature operation of a composite membrane-based solid polymer electrolyte water electrolyser,Italy,2008,80,1,1,1,2,5,85.52915767,0,14.47084233,0,0,Pure Oxide,0.5,30,0.5,5,0.8 mg cm-2 Pt,4.276457883,0.8,CCM,0,125,1100,Nafion 115,0.16414,0.43179,0.77665,1.05992,1.20862,1.35732,0,0,0,0
+High temperature operation of a composite membrane-based solid polymer electrolyte water electrolyser,Italy,2008,90,1,1,1,2,5,85.52915767,0,14.47084233,0,0,Pure Oxide,0.5,30,0.5,5,0.8 mg cm-2 Pt,4.276457883,0.8,CCM,0,125,1100,Nafion 115,0.17115,0.38293,0.67671,0.9724,1.07203,1.17166,0,0,0,0
+High temperature operation of a composite membrane-based solid polymer electrolyte water electrolyser,Italy,2008,100,1,1,1,2,5,85.52915767,0,14.47084233,0,0,Pure Oxide,0.5,30,0.5,5,0.8 mg cm-2 Pt,4.276457883,0.8,CCM,0,125,1100,Nafion 115,0.26121,0.51931,0.79928,1.05907,1.20777,1.35647,0,0,0,0
+High temperature operation of a composite membrane-based solid polymer electrolyte water electrolyser,Italy,2008,110,1,1,1,2,5,85.52915767,0,14.47084233,0,0,Pure Oxide,0.5,30,0.5,5,0.8 mg cm-2 Pt,4.276457883,0.8,CCM,0,125,1100,Nafion 115,0.36806,0.45197,0.50189,0.61384,0.69944,0.78504,0,0,0,0
+High temperature operation of a composite membrane-based solid polymer electrolyte water electrolyser,Italy,2008,120,1,1,1,2,5,85.52915767,0,14.47084233,0,0,Pure Oxide,0.5,30,0.5,5,0.8 mg cm-2 Pt,4.276457883,0.8,CCM,0,125,1100,Nafion 115,0.2045,0.22978,0.27353,0.27523,0.29,0.30477,0,0,0,0
+High temperature operation of a composite membrane-based solid polymer electrolyte water electrolyser,Italy,2008,80,1,1,1,2,5,85.52915767,0,14.47084233,0,0,Pure Oxide,0.5,30,0.5,5,0.8 mg cm-2 Pt,4.276457883,0.8,CCM,0,120,,"3wt.% SiO2 (Cab-O-Sil EH5, Cabot) composite membrane",0.23185,0.58587,0.95546,1.29256,1.49901,1.70546,0,0,0,0
+High temperature operation of a composite membrane-based solid polymer electrolyte water electrolyser,Italy,2008,90,1,1,1,2,5,85.52915767,0,14.47084233,0,0,Pure Oxide,0.5,30,0.5,5,0.8 mg cm-2 Pt,4.276457883,0.8,CCM,0,120,,"3wt.% SiO2 (Cab-O-Sil EH5, Cabot) composite membrane",0.26536,0.66405,1.14499,1.5799,1.89365,2.2074,0,0,0,0
+High temperature operation of a composite membrane-based solid polymer electrolyte water electrolyser,Italy,2008,100,1,1,1,2,5,85.52915767,0,14.47084233,0,0,Pure Oxide,0.5,30,0.5,5,0.8 mg cm-2 Pt,4.276457883,0.8,CCM,0,120,,"3wt.% SiO2 (Cab-O-Sil EH5, Cabot) composite membrane",0.35742,0.74494,1.22284,1.64692,1.97725,2.30758,0,0,0,0
+High temperature operation of a composite membrane-based solid polymer electrolyte water electrolyser,Italy,2008,110,1,1,1,2,5,85.52915767,0,14.47084233,0,0,Pure Oxide,0.5,30,0.5,5,0.8 mg cm-2 Pt,4.276457883,0.8,CCM,0,120,,"3wt.% SiO2 (Cab-O-Sil EH5, Cabot) composite membrane",0.52597,0.79639,0.97475,1.0878,1.12672,1.16564,0,0,0,0
+High temperature operation of a composite membrane-based solid polymer electrolyte water electrolyser,Italy,2008,120,1,1,1,2,5,85.52915767,0,14.47084233,0,0,Pure Oxide,0.5,30,0.5,5,0.8 mg cm-2 Pt,4.276457883,0.8,CCM,0,120,,"3wt.% SiO2 (Cab-O-Sil EH5, Cabot) composite membrane",0.29176,0.38246,0.46166,0.48129,0.48704,0.49279,0,0,0,0
+High temperature operation of a composite membrane-based solid polymer electrolyte water electrolyser,Italy,2008,80,3,3,3,2,5,85.52915767,0,14.47084233,0,0,Pure Oxide,0.5,30,0.5,5,0.8 mg cm-2 Pt,4.276457883,0.8,CCM,0,125,1100,Nafion 115,0.11629,0.32698,0.57312,0.86244,1.00018,1.13792,0,0,0,0
+High temperature operation of a composite membrane-based solid polymer electrolyte water electrolyser,Italy,2008,90,3,3,3,2,5,85.52915767,0,14.47084233,0,0,Pure Oxide,0.5,30,0.5,5,0.8 mg cm-2 Pt,4.276457883,0.8,CCM,0,125,1100,Nafion 115,0.15834,0.3888,0.68085,0.9729,1.11336,1.25382,0,0,0,0
+High temperature operation of a composite membrane-based solid polymer electrolyte water electrolyser,Italy,2008,100,3,3,3,2,5,85.52915767,0,14.47084233,0,0,Pure Oxide,0.5,30,0.5,5,0.8 mg cm-2 Pt,4.276457883,0.8,CCM,0,125,1100,Nafion 115,0.26425,0.52175,0.79972,1.0845,1.26041,1.43632,0,0,0,0
+High temperature operation of a composite membrane-based solid polymer electrolyte water electrolyser,Italy,2008,110,3,3,3,2,5,85.52915767,0,14.47084233,0,0,Pure Oxide,0.5,30,0.5,5,0.8 mg cm-2 Pt,4.276457883,0.8,CCM,0,125,1100,Nafion 115,0.3372,0.55539,0.75381,0.94858,1.16313,1.37768,0,0,0,0
+High temperature operation of a composite membrane-based solid polymer electrolyte water electrolyser,Italy,2008,120,3,3,3,2,5,85.52915767,0,14.47084233,0,0,Pure Oxide,0.5,30,0.5,5,0.8 mg cm-2 Pt,4.276457883,0.8,CCM,0,125,1100,Nafion 115,0.20606,0.3,0.41766,0.5788,0.74631,0.91382,0,0,0,0
+High temperature operation of a composite membrane-based solid polymer electrolyte water electrolyser,Italy,2008,80,3,3,3,2,5,85.52915767,0,14.47084233,0,0,Pure Oxide,0.5,30,0.5,5,0.8 mg cm-2 Pt,4.276457883,0.8,CCM,0,120,,"3wt.% SiO2 (Cab-O-Sil EH5, Cabot) composite membrane",0.16494,0.52611,1.00691,1.39376,1.68927,1.98478,0,0,0,0
+High temperature operation of a composite membrane-based solid polymer electrolyte water electrolyser,Italy,2008,90,3,3,3,2,5,85.52915767,0,14.47084233,0,0,Pure Oxide,0.5,30,0.5,5,0.8 mg cm-2 Pt,4.276457883,0.8,CCM,0,120,,"3wt.% SiO2 (Cab-O-Sil EH5, Cabot) composite membrane",0.20915,0.63599,1.12849,1.55696,1.84076,2.12456,0,0,0,0
+High temperature operation of a composite membrane-based solid polymer electrolyte water electrolyser,Italy,2008,100,3,3,3,2,5,85.52915767,0,14.47084233,0,0,Pure Oxide,0.5,30,0.5,5,0.8 mg cm-2 Pt,4.276457883,0.8,CCM,0,120,,"3wt.% SiO2 (Cab-O-Sil EH5, Cabot) composite membrane",0.29074,0.74587,1.23577,1.64668,1.9812,2.31572,0,0,0,0
+High temperature operation of a composite membrane-based solid polymer electrolyte water electrolyser,Italy,2008,110,3,3,3,2,5,85.52915767,0,14.47084233,0,0,Pure Oxide,0.5,30,0.5,5,0.8 mg cm-2 Pt,4.276457883,0.8,CCM,0,120,,"3wt.% SiO2 (Cab-O-Sil EH5, Cabot) composite membrane",0.34698,0.77382,1.25983,1.73641,2.13366,2.53091,0,0,0,0
+High temperature operation of a composite membrane-based solid polymer electrolyte water electrolyser,Italy,2008,120,3,3,3,2,5,85.52915767,0,14.47084233,0,0,Pure Oxide,0.5,30,0.5,5,0.8 mg cm-2 Pt,4.276457883,0.8,CCM,0,120,,"3wt.% SiO2 (Cab-O-Sil EH5, Cabot) composite membrane",0.3109,0.7605,1.22374,1.70292,2.11383,2.52474,0,0,0,0
+Magnetron sputtered Ir thin film on TiC-based support sublayer as low-loading anode catalyst for proton exchange membrane water electrolysis,Italy,2016,80,8,8,8,1,4.62,100,0,0,0,0,Ir,0.1875,66.67,,0.08 mg cm-2 Ir,0.4 mg cm-2 Pt and 0.2 mg cm-2 Ru,0.08,0.6,CCM,0,125,1100,Nafion 115,0.091,0.4,0.82265,1.26616,1.68624,2.02864,0,0,0,0
+Magnetron sputtered Ir thin film on TiC-based support sublayer as low-loading anode catalyst for proton exchange membrane water electrolysis,Italy,2016,80,8,8,8,1,4.62,100,0,0,0,0,Ir,0.09375,66.67,,0.16 mg cm-2 Ir,0.4 mg cm-2 Pt and 0.2 mg cm-2 Ru,0.16,0.6,CCM,0,125,1100,Nafion 115,0.11813,0.46669,0.94802,1.424,1.84737,2.23334,0,0,0,0
+Magnetron sputtered Ir thin film on TiC-based support sublayer as low-loading anode catalyst for proton exchange membrane water electrolysis,Italy,2016,80,8,8,8,1,4.62,100,0,0,0,0,Ir,0.0625,66.67,,0.24 mg cm-2 Ir,0.4 mg cm-2 Pt and 0.2 mg cm-2 Ru,0.24,0.6,CCM,0,125,1100,Nafion 115,0.128,0.49588,0.95994,1.47785,1.95219,2.37391,0,0,0,0
+Operando current mapping on PEM water electrolysis cells. Influence of mechanical stress,France,2017,80,1,1,1,2000,250,85.52915767,0,14.47084233,0,0,Pure Oxide,,46,,1,0.5 mg cm-2 Pt,0.855291577,0.5,CCM,0,175,1100,Nafion 117,0.1203,0.34616,0.6,0.83555,1.07555,1.31555,0,0,0,0
+SPE water electrolysis with SPEEK/PES blend membrane,China,2010,80,1,1,1,,4,100,0,0,0,0,Ir,0.15,20,0.5,5,1.5,5,0.3,CCM,0,125,602.4096386,30PES/SPEEK ,0.12716,0.36668,0.64859,1.0123,1.343,1.66186,0,0,0,0
+SPE water electrolysis with SPEEK/PES blend membrane,China,2010,80,1,1,1,,4,100,0,0,0,0,Ir,0.15,20,0.5,5,1.5,5,0.3,CCM,0,125,1100,Nafion 115,0.28734,0.66091,1.08524,1.54013,1.93391,2.33212,0,0,0,0
+Solid Polymer Electrolyte Water Electrolyser Based on Nafion-TiO2?Composite Membrane for High Temperature Operation,Italy,2008,80,1,1,1,2,,85.52915767,0,14.47084233,0,0,Pure Oxide,0.5,30,0.5,5,0.8 mg cm-2 Pt,4.276457883,0.8,CCM,0,125,,Nafion TiO2,0.24654,0.52445,0.9357,1.33316,1.68616,1.99984,0,0,0,0
+Solid Polymer Electrolyte Water Electrolyser Based on Nafion-TiO2?Composite Membrane for High Temperature Operation,Italy,2008,80,3,3,3,2,,85.52915767,0,14.47084233,0,0,Pure Oxide,0.5,30,0.5,5,0.8 mg cm-2 Pt,4.276457883,0.8,CCM,0,125,,Nafion TiO2,0.25716,0.56806,0.9719,1.39872,1.77692,2.09904,0,0,0,0
+Solid Polymer Electrolyte Water Electrolyser Based on Nafion-TiO2?Composite Membrane for High Temperature Operation,Italy,2008,120,1,1,1,2,,85.52915767,0,14.47084233,0,0,Pure Oxide,0.5,30,0.5,5,0.8 mg cm-2 Pt,4.276457883,0.8,CCM,0,125,,Nafion TiO2,0.35596,0.46904,0.59175,0.70888,0.86201,0.99994,0,0,0,0
+Solid Polymer Electrolyte Water Electrolyser Based on Nafion-TiO2?Composite Membrane for High Temperature Operation,Italy,2008,120,3,3,3,2,,85.52915767,0,14.47084233,0,0,Pure Oxide,0.5,30,0.5,5,0.8 mg cm-2 Pt,4.276457883,0.8,CCM,0,125,,Nafion TiO2,0.41098,0.63945,0.85818,1.07521,1.26638,1.4673,0,0,0,0
+"Chemically stabilised extruded and recast short side chain Aquivion? proton
+exchange membranes for high current density operation in water electrolysis",Italy,2019,25,1,1,1,,5,74.37742114,16.76812396,8.854454898,0,0,IrRuOx 0.7:0.3,0.176,30,0.333,0.4,0.1mg cm-2 Pt,0.36458218,0.1,CCM,0,90,980,Stablized extruded Aquivion E98-09s,0.00296,0.25183,0.76589,1.31871,1.95415,2.662,0,0,0,0
+"Chemically stabilised extruded and recast short side chain Aquivion? proton
+exchange membranes for high current density operation in water electrolysis",Italy,2019,40,1,1,1,,5,74.37742114,16.76812396,8.854454898,0,0,IrRuOx 0.7:0.3,0.176,30,0.333,0.4,0.1mg cm-2 Pt,0.36458218,0.1,CCM,0,90,980,Stablized extruded Aquivion E98-09s,0.04172,0.38442,0.96478,1.6553,2.38559,3.2036,0,0,0,0
+"Chemically stabilised extruded and recast short side chain Aquivion? proton
+exchange membranes for high current density operation in water electrolysis",Italy,2019,50,1,1,1,,5,74.37742114,16.76812396,8.854454898,0,0,IrRuOx 0.7:0.3,0.176,30,0.333,0.4,0.1mg cm-2 Pt,0.36458218,0.1,CCM,0,90,980,Stablized extruded Aquivion E98-09s,0.09068,0.53334,1.21365,2.00923,2.866,3.85536,0,0,0,0
+"Chemically stabilised extruded and recast short side chain Aquivion? proton
+exchange membranes for high current density operation in water electrolysis",Italy,2019,60,1,1,1,,5,74.37742114,16.76812396,8.854454898,0,0,IrRuOx 0.7:0.3,0.176,30,0.333,0.4,0.1mg cm-2 Pt,0.36458218,0.1,CCM,0,90,980,Stablized extruded Aquivion E98-09s,0.16819,0.72101,1.50026,2.41823,3.39128,4.36433,0,0,0,0
+"Chemically stabilised extruded and recast short side chain Aquivion? proton
+exchange membranes for high current density operation in water electrolysis",Italy,2019,70,1,1,1,,5,74.37742114,16.76812396,8.854454898,0,0,IrRuOx 0.7:0.3,0.176,30,0.333,0.4,0.1mg cm-2 Pt,0.36458218,0.1,CCM,0,90,980,Stablized extruded Aquivion E98-09s,0.30079,0.96478,1.86031,2.8609,3.8829,4.9049,0,0,0,0
+"Chemically stabilised extruded and recast short side chain Aquivion? proton
+exchange membranes for high current density operation in water electrolysis",Italy,2019,80,1,1,1,,5,74.37742114,16.76812396,8.854454898,0,0,IrRuOx 0.7:0.3,0.176,30,0.333,0.4,0.1mg cm-2 Pt,0.36458218,0.1,CCM,0,90,980,Stablized extruded Aquivion E98-09s,0.49458,1.26261,2.20812,3.25868,4.3531,5.44752,0,0,0,0
+"Chemically stabilised extruded and recast short side chain Aquivion? proton
+exchange membranes for high current density operation in water electrolysis",Italy,2019,90,1,1,1,,5,74.37742114,16.76812396,8.854454898,0,0,IrRuOx 0.7:0.3,0.176,30,0.333,0.4,0.1mg cm-2 Pt,0.36458218,0.1,CCM,0,90,980,Stablized extruded Aquivion E98-09s,0.74345,1.5176,2.46821,3.57385,4.67949,5.78513,0,0,0,0
+"Chemically stabilised extruded and recast short side chain Aquivion? proton
+exchange membranes for high current density operation in water electrolysis",Italy,2019,25,1,1,1,,5,74.37742114,16.76812396,8.854454898,0,0,IrRuOx 0.7:0.3,0.176,30,0.333,0.4,0.1mg cm-2 Pt,0.36458218,0.1,CCM,0,90,980,Stablized cast Aquivion C98-09s,0.02664,0.32456,0.85623,1.47316,2.06901,2.66486,0,0,0,0
+"Chemically stabilised extruded and recast short side chain Aquivion? proton
+exchange membranes for high current density operation in water electrolysis",Italy,2019,40,1,1,1,,5,74.37742114,16.76812396,8.854454898,0,0,IrRuOx 0.7:0.3,0.176,30,0.333,0.4,0.1mg cm-2 Pt,0.36458218,0.1,CCM,0,90,980,Stablized cast Aquivion C98-09s,0.06017,0.46059,1.12829,1.83526,2.53745,3.23963,0,0,0,0
+"Chemically stabilised extruded and recast short side chain Aquivion? proton
+exchange membranes for high current density operation in water electrolysis",Italy,2019,50,1,1,1,,5,74.37742114,16.76812396,8.854454898,0,0,IrRuOx 0.7:0.3,0.176,30,0.333,0.4,0.1mg cm-2 Pt,0.36458218,0.1,CCM,0,90,980,Stablized cast Aquivion C98-09s,0.11573,0.62632,1.39652,2.20599,3.0011,3.75884,0,0,0,0
+"Chemically stabilised extruded and recast short side chain Aquivion? proton
+exchange membranes for high current density operation in water electrolysis",Italy,2019,60,1,1,1,,5,74.37742114,16.76812396,8.854454898,0,0,IrRuOx 0.7:0.3,0.176,30,0.333,0.4,0.1mg cm-2 Pt,0.36458218,0.1,CCM,0,90,980,Stablized cast Aquivion C98-09s,0.1962,0.81408,1.61781,2.49913,3.25687,3.98013,0,0,0,0
+"Chemically stabilised extruded and recast short side chain Aquivion? proton
+exchange membranes for high current density operation in water electrolysis",Italy,2019,70,1,1,1,,5,74.37742114,16.76812396,8.854454898,0,0,IrRuOx 0.7:0.3,0.176,30,0.333,0.4,0.1mg cm-2 Pt,0.36458218,0.1,CCM,0,90,980,Stablized cast Aquivion C98-09s,0.34085,1.08614,2.0144,2.95033,3.79333,4.63633,0,0,0,0
+"Chemically stabilised extruded and recast short side chain Aquivion? proton
+exchange membranes for high current density operation in water electrolysis",Italy,2019,80,1,1,1,,5,74.37742114,16.76812396,8.854454898,0,0,IrRuOx 0.7:0.3,0.176,30,0.333,0.4,0.1mg cm-2 Pt,0.36458218,0.1,CCM,0,90,980,Stablized cast Aquivion C98-09s,0.55831,1.3582,2.3928,3.34596,4.21004,5.07412,0,0,0,0
+"Chemically stabilised extruded and recast short side chain Aquivion? proton
+exchange membranes for high current density operation in water electrolysis",Italy,2019,90,1,1,1,,5,74.37742114,16.76812396,8.854454898,0,0,IrRuOx 0.7:0.3,0.176,30,0.333,0.4,0.1mg cm-2 Pt,0.36458218,0.1,CCM,0,90,980,Stablized cast Aquivion C98-09s,0.80546,1.62643,2.7118,3.65251,4.59322,5.53393,0,0,0,0
+Development of electrodeposited IrO2 electrodes as anodes in polymer electrolyte membrane water electrolysis,Korea,2015,90,1,1,1,15,4,85.52915767,0,14.47084233,0,0,Electrodeposited IrO2 3min,0,46.3,,0.02732,0.4mg cm-2 Pt,0.023366566,0.4,GDE,1,50.8,1100,Nafion212,0.21671,0.53256,0.74124,0.90551,1.05215,1.19879,0,0,0,0
+Development of electrodeposited IrO2 electrodes as anodes in polymer electrolyte membrane water electrolysis,Korea,2015,90,1,1,1,15,4,85.52915767,0,14.47084233,0,0,Electrodeposited IrO2 5min,0,46.3,,0.05453,0.4mg cm-2 Pt,0.04663905,0.4,GDE,1,50.8,1100,Nafion212,0.37252,0.84347,1.26506,1.58937,1.88758,2.27816,0,0,0,0
+Development of electrodeposited IrO2 electrodes as anodes in polymer electrolyte membrane water electrolysis,Korea,2015,90,1,1,1,15,4,85.52915767,0,14.47084233,0,0,Electrodeposited IrO2 10min,0,46.3,,0.10002,0.4mg cm-2 Pt,0.085546263,0.4,GDE,1,50.8,1100,Nafion212,0.43879,1.0169,1.53649,1.92707,2.24291,2.70046,0,0,0,0
+Development of electrodeposited IrO2 electrodes as anodes in polymer electrolyte membrane water electrolysis,Korea,2015,90,1,1,1,15,4,85.52915767,0,14.47084233,0,0,Electrodeposited IrO2 20min,0,46.3,,0.26257,0.4mg cm-2 Pt,0.224573909,0.4,GDE,1,50.8,1100,Nafion212,0.4127,0.87026,1.24321,1.49207,1.72261,2.09627,0,0,0,0
+Development of electrodeposited IrO2 electrodes as anodes in polymer electrolyte membrane water electrolysis,Korea,2015,90,1,1,1,15,4,85.52915767,0,14.47084233,0,0,Electrodeposited IrO2 30min,0,46.3,,0.54018,0.4mg cm-2 Pt,0.462011404,0.4,GDE,1,50.8,1100,Nafion212,0.40777,0.68766,0.83007,0.98094,1.22558,1.49207,0,0,0,0
+"Effect of the MEA design on the performance of PEMWE single cells
+with different sizes",Germany,2018,60,1,1,1,25,4,85.52915767,0,14.47084233,0,0,IrOx,0.15,40,0.2,1.5,0.6mg cm-2 Pt,1.282937365,0.6,CCM,0,175,1100,Nafion117,0.06959,0.3135,0.65346,1.02328,1.3931,1.76292,0,0,0,0
+"Effect of the MEA design on the performance of PEMWE single cells
+with different sizes",Germany,2018,60,1,1,1,25,4,85.52915767,0,14.47084233,0,0,IrOx,0.15,40,0.2,1.42,0.6mg cm-2 Pt,1.214514039,0.6,CCM,0,175,1100,Nafion117,0.10502,0.36914,0.72402,1.13103,1.53804,1.94505,0,0,0,0
+"Effect of the MEA design on the performance of PEMWE single cells
+with different sizes",Germany,2018,60,1,1,1,25,4,85.52915767,0,14.47084233,0,0,IrOx,0.15,40,0.2,0.75,0.6mg cm-2 Pt,0.641468683,0.6,CCM,0,175,1100,Nafion117,0.01756,0.11387,0.29284,0.52392,0.755,0.98608,0,0,0,0
+"Effect of the MEA design on the performance of PEMWE single cells
+with different sizes",Germany,2018,60,1,1,1,25,4,85.52915767,0,14.47084233,0,0,IrOx,0.15,40,0.2,0.75,0.6mg cm-2 Pt,0.641468683,0.6,CCM,0,175,1100,Nafion117,0.03563,0.21441,0.51565,0.8513,1.18695,1.5226,0,0,0,0
+"Effect of the MEA design on the performance of PEMWE single cells
+with different sizes",Germany,2018,60,1,1,1,25,4,85.52915767,0,14.47084233,0,0,IrOx,0.15,40,0.2,0.75,0.6mg cm-2 Pt,0.641468683,0.6,CCM,0,175,1100,Nafion117,0.05197,0.27324,0.56217,0.86033,1.15849,1.45665,0,0,0,0
+"Effect of the MEA design on the performance of PEMWE single cells
+with different sizes",Germany,2018,60,1,1,1,45,22.7,85.52915767,0,14.47084233,0,0,IrOx,0.15,40,0.2,1,0.6mg cm-2 Pt,0.855291577,0.6,CCM,0,175,1100,Nafion117,0.0684,0.23904,0.45398,0.68357,0.90621,1.12885,0,0,0,0
+"Effect of the MEA design on the performance of PEMWE single cells
+with different sizes",Germany,2018,60,1,1,1,45,22.7,85.52915767,0,14.47084233,0,0,IrOx,0.15,40,0.2,1,0.6mg cm-2 Pt,0.855291577,0.6,CCM,0,175,1100,Nafion117,0.04343,0.3008,0.60547,0.93418,1.26289,1.5916,0,0,0,0
+"Effect of the MEA design on the performance of PEMWE single cells
+with different sizes",Germany,2018,60,1,1,1,25,4,85.52915767,0,14.47084233,0,0,IrOx,0.15,40,0.2,1,0.6mg cm-2 Pt,0.855291577,0.6,GDE,1,175,1100,Nafion117,0.03519,0.14295,0.2728,0.399,0.5252,0.6514,0,0,0,0
+"Effect of the MEA design on the performance of PEMWE single cells
+with different sizes",Germany,2018,60,1,1,1,95,63.5,85.52915767,0,14.47084233,0,0,IrOx,0.15,40,0.2,1,0.6mg cm-2 Pt,0.855291577,0.6,GDE,1,175,1100,Nafion117,0.03277,0.11844,0.22377,0.34998,0.48468,0.61938,0,0,0,0
+"Effect of the MEA design on the performance of PEMWE single cells
+with different sizes",Germany,2018,60,1,1,1,45,22.7,85.52915767,0,14.47084233,0,0,IrOx,0.15,40,0.2,3.5,0.6mg cm-2 Pt,2.993520518,0.6,GDE,1,175,1100,Nafion117,0.01675,0.07937,0.16019,0.25945,0.36357,0.46769,0,0,0,0
+"Effect of the MEA design on the performance of PEMWE single cells
+with different sizes",Germany,2018,60,1,1,1,95,63.5,85.52915767,0,14.47084233,0,0,IrOx,0.15,40,0.2,0.97,0.6mg cm-2 Pt,0.829632829,0.6,CCM,0,175,1100,Nafion117,0.07635,0.24236,0.44494,0.65469,0.86444,1.07419,0,0,0,0
+"Electrodeposited IrO2/Ti electrodes as durable and cost-effective anodes in
+high-temperature polymer-membrane-electrolyte water electrolyzers",Korea,2018,120,2.5,2.5,2.5,15,6.25,85.52915767,0,14.47084233,0,0,Electrodeposited IrO2 1min,0,46.5,,0.032,0.4mg cm-2 Pt,0.02736933,0.4,GDE,1,50,1100,Nafion212,0.25547,0.28819,0.32389,0.36434,0.40837,0.46786,0,0,0,0
+"Electrodeposited IrO2/Ti electrodes as durable and cost-effective anodes in
+high-temperature polymer-membrane-electrolyte water electrolyzers",Korea,2018,120,2.5,2.5,2.5,15,6.25,85.52915767,0,14.47084233,0,0,Electrodeposited IrO2 3min,0,46.5,,0.10139,0.4mg cm-2 Pt,0.086718013,0.4,GDE,1,50,1100,Nafion212,0.31021,0.37267,0.44347,0.53628,0.62314,0.74569,0,0,0,0
+"Electrodeposited IrO2/Ti electrodes as durable and cost-effective anodes in
+high-temperature polymer-membrane-electrolyte water electrolyzers",Korea,2018,120,2.5,2.5,2.5,15,6.25,85.52915767,0,14.47084233,0,0,Electrodeposited IrO2 5min,0,46.5,,0.3959,0.4mg cm-2 Pt,0.338609935,0.4,GDE,1,50,1100,Nafion212,0.72665,1.11812,1.52683,1.8588,2.13068,2.36449,0,0,0,0
+"Electrodeposited IrO2/Ti electrodes as durable and cost-effective anodes in
+high-temperature polymer-membrane-electrolyte water electrolyzers",Korea,2018,120,2.5,2.5,2.5,15,6.25,85.52915767,0,14.47084233,0,0,Electrodeposited IrO2 10min,0,46.5,,1.03557,0.4mg cm-2 Pt,0.885714298,0.4,GDE,1,50,1100,Nafion212,0.57435,0.84088,1.14013,1.45306,1.77135,2.0819,0,0,0,0
+"Electrodeposited IrO2/Ti electrodes as durable and cost-effective anodes in
+high-temperature polymer-membrane-electrolyte water electrolyzers",Korea,2018,120,2.5,2.5,2.5,15,6.25,85.52915767,0,14.47084233,0,0,Electrodeposited IrO2 20min,0,46.5,,2.69571,0.4mg cm-2 Pt,2.305618056,0.4,GDE,1,50,1100,Nafion212,0.43811,0.57673,0.69631,0.7921,0.88728,0.96879,0,0,0,0
+"Enhanced performance and durability of low catalyst loading PEM water
+electrolyser based on a short-side chain perfluorosulfonic ionomer",Italy,2017,30,1,1,1,4,5,74.37742114,16.76812396,8.854454898,0,0,IrRuO2,0.2,30,0.3,1.5,0.5mg cm-2 Pt,1.367183177,0.5,CCM,0,90,1000,Aquivion E100-09S,0.04431,0.31694,0.76755,1.3484,2.01434,2.74106,0,0,0,0
+"Enhanced performance and durability of low catalyst loading PEM water
+electrolyser based on a short-side chain perfluorosulfonic ionomer",Italy,2017,40,1,1,1,4,5,74.37742114,16.76812396,8.854454898,0,0,IrRuO2,0.2,30,0.3,1.5,0.5mg cm-2 Pt,1.367183177,0.5,CCM,0,90,1000,Aquivion E100-09S,0.08599,0.40724,0.92992,1.59846,2.38421,3.1335,0,0,0,0
+"Enhanced performance and durability of low catalyst loading PEM water
+electrolyser based on a short-side chain perfluorosulfonic ionomer",Italy,2017,50,1,1,1,4,5,74.37742114,16.76812396,8.854454898,0,0,IrRuO2,0.2,30,0.3,1.5,0.5mg cm-2 Pt,1.367183177,0.5,CCM,0,90,1000,Aquivion E100-09S,0.13808,0.5531,1.13482,1.88411,2.75408,3.61103,0,0,0,0
+"Enhanced performance and durability of low catalyst loading PEM water
+electrolyser based on a short-side chain perfluorosulfonic ionomer",Italy,2017,60,1,1,1,4,5,74.37742114,16.76812396,8.854454898,0,0,IrRuO2,0.2,30,0.3,1.5,0.5mg cm-2 Pt,1.367183177,0.5,CCM,0,90,1000,Aquivion E100-09S,0.1867,0.69983,1.36143,2.20883,3.0953,4.01997,0,0,0,0
+"Enhanced performance and durability of low catalyst loading PEM water
+electrolyser based on a short-side chain perfluorosulfonic ionomer",Italy,2017,70,1,1,1,4,5,74.37742114,16.76812396,8.854454898,0,0,IrRuO2,0.2,30,0.3,1.5,0.5mg cm-2 Pt,1.367183177,0.5,CCM,0,90,1000,Aquivion E100-09S,0.30652,0.87522,1.6054,2.55265,3.57196,4.59127,0,0,0,0
+"Enhanced performance and durability of low catalyst loading PEM water
+electrolyser based on a short-side chain perfluorosulfonic ionomer",Italy,2017,80,1,1,1,4,5,74.37742114,16.76812396,8.854454898,0,0,IrRuO2,0.2,30,0.3,1.5,0.5mg cm-2 Pt,1.367183177,0.5,CCM,0,90,1000,Aquivion E100-09S,0.41418,1.07578,1.86848,2.88084,4.00087,5.1209,0,0,0,0
+"Enhanced performance and durability of low catalyst loading PEM water
+electrolyser based on a short-side chain perfluorosulfonic ionomer",Italy,2017,90,1,1,1,4,5,74.37742114,16.76812396,8.854454898,0,0,IrRuO2,0.2,30,0.3,1.5,0.5mg cm-2 Pt,1.367183177,0.5,CCM,0,90,1000,Aquivion E100-09S,0.5505,1.21209,2.05341,3.03626,4.15281,5.26936,0,0,0,0
+"Enhanced performance and durability of low catalyst loading PEM water
+electrolyser based on a short-side chain perfluorosulfonic ionomer",Italy,2017,30,1,1,1,4,5,74.37742114,16.76812396,8.854454898,0,0,IrRuO2,0.2,30,0.3,1.5,0.1mg cm-2 Pt,1.367183177,0.1,CCM,0,90,1000,Aquivion E100-09S,0.02252,0.32817,0.79211,1.33352,1.99113,2.64537,0,0,0,0
+"Enhanced performance and durability of low catalyst loading PEM water
+electrolyser based on a short-side chain perfluorosulfonic ionomer",Italy,2017,40,1,1,1,4,5,74.37742114,16.76812396,8.854454898,0,0,IrRuO2,0.2,30,0.3,1.5,0.1mg cm-2 Pt,1.367183177,0.1,CCM,0,90,1000,Aquivion E100-09S,0.05031,0.45447,0.99251,1.64001,2.38519,3.10931,0,0,0,0
+"Enhanced performance and durability of low catalyst loading PEM water
+electrolyser based on a short-side chain perfluorosulfonic ionomer",Italy,2017,50,1,1,1,4,5,74.37742114,16.76812396,8.854454898,0,0,IrRuO2,0.2,30,0.3,1.5,0.1mg cm-2 Pt,1.367183177,0.1,CCM,0,90,1000,Aquivion E100-09S,0.08567,0.54625,1.17186,1.89683,2.72957,3.53537,0,0,0,0
+"Enhanced performance and durability of low catalyst loading PEM water
+electrolyser based on a short-side chain perfluorosulfonic ionomer",Italy,2017,60,1,1,1,4,5,74.37742114,16.76812396,8.854454898,0,0,IrRuO2,0.2,30,0.3,1.5,0.1mg cm-2 Pt,1.367183177,0.1,CCM,0,90,1000,Aquivion E100-09S,0.15219,0.7256,1.45309,2.24794,3.14131,3.99595,0,0,0,0
+"Enhanced performance and durability of low catalyst loading PEM water
+electrolyser based on a short-side chain perfluorosulfonic ionomer",Italy,2017,70,1,1,1,4,5,74.37742114,16.76812396,8.854454898,0,0,IrRuO2,0.2,30,0.3,1.5,0.1mg cm-2 Pt,1.367183177,0.1,CCM,0,90,1000,Aquivion E100-09S,0.24397,0.86958,1.6577,2.50139,3.49664,4.49189,0,0,0,0
+"Enhanced performance and durability of low catalyst loading PEM water
+electrolyser based on a short-side chain perfluorosulfonic ionomer",Italy,2017,80,1,1,1,4,5,74.37742114,16.76812396,8.854454898,0,0,IrRuO2,0.2,30,0.3,1.5,0.1mg cm-2 Pt,1.367183177,0.1,CCM,0,90,1000,Aquivion E100-09S,0.35932,1.11208,1.94566,2.9266,3.93616,4.94572,0,0,0,0
+"Enhanced performance and durability of low catalyst loading PEM water
+electrolyser based on a short-side chain perfluorosulfonic ionomer",Italy,2017,90,1,1,1,4,5,74.37742114,16.76812396,8.854454898,0,0,IrRuO2,0.2,30,0.3,1.5,0.1mg cm-2 Pt,1.367183177,0.1,CCM,0,90,1000,Aquivion E100-09S,0.51088,1.299,2.19911,3.19772,4.20645,5.21518,0,0,0,0
+"Enhanced performance and durability of low catalyst loading PEM water
+electrolyser based on a short-side chain perfluorosulfonic ionomer",Italy,2017,30,1,1,1,4,5,74.37742114,16.76812396,8.854454898,0,0,IrRuO2,0.2,30,0.3,0.4,0.1mg cm-2 Pt,0.36458218,0.1,CCM,0,90,1000,Aquivion E100-09S,0.00372,0.17296,0.54745,1.03338,1.62319,2.24232,0,0,0,0
+"Enhanced performance and durability of low catalyst loading PEM water
+electrolyser based on a short-side chain perfluorosulfonic ionomer",Italy,2017,40,1,1,1,4,5,74.37742114,16.76812396,8.854454898,0,0,IrRuO2,0.2,30,0.3,0.4,0.1mg cm-2 Pt,0.36458218,0.1,CCM,0,90,1000,Aquivion E100-09S,0.00791,0.24836,0.72758,1.28891,1.95831,2.70646,0,0,0,0
+"Enhanced performance and durability of low catalyst loading PEM water
+electrolyser based on a short-side chain perfluorosulfonic ionomer",Italy,2017,50,1,1,1,4,5,74.37742114,16.76812396,8.854454898,0,0,IrRuO2,0.2,30,0.3,0.4,0.1mg cm-2 Pt,0.36458218,0.1,CCM,0,90,1000,Aquivion E100-09S,0.02886,0.35644,0.90687,1.55533,2.32526,3.14547,0,0,0,0
+"Enhanced performance and durability of low catalyst loading PEM water
+electrolyser based on a short-side chain perfluorosulfonic ionomer",Italy,2017,60,1,1,1,4,5,74.37742114,16.76812396,8.854454898,0,0,IrRuO2,0.2,30,0.3,0.4,0.1mg cm-2 Pt,0.36458218,0.1,CCM,0,90,1000,Aquivion E100-09S,0.07242,0.50054,1.13726,1.88626,2.73914,3.63474,0,0,0,0
+"Enhanced performance and durability of low catalyst loading PEM water
+electrolyser based on a short-side chain perfluorosulfonic ionomer",Italy,2017,70,1,1,1,4,5,74.37742114,16.76812396,8.854454898,0,0,IrRuO2,0.2,30,0.3,0.4,0.1mg cm-2 Pt,0.36458218,0.1,CCM,0,90,1000,Aquivion E100-09S,0.15118,0.67312,1.39698,2.1887,3.12369,4.12402,0,0,0,0
+"Enhanced performance and durability of low catalyst loading PEM water
+electrolyser based on a short-side chain perfluorosulfonic ionomer",Italy,2017,80,1,1,1,4,5,74.37742114,16.76812396,8.854454898,0,0,IrRuO2,0.2,30,0.3,0.4,0.1mg cm-2 Pt,0.36458218,0.1,CCM,0,90,1000,Aquivion E100-09S,0.22323,0.82812,1.60895,2.50874,3.47305,4.43736,0,0,0,0
+"Enhanced performance and durability of low catalyst loading PEM water
+electrolyser based on a short-side chain perfluorosulfonic ionomer",Italy,2017,90,1,1,1,4,5,74.37742114,16.76812396,8.854454898,0,0,IrRuO2,0.2,30,0.3,0.4,0.1mg cm-2 Pt,0.36458218,0.1,CCM,0,90,1000,Aquivion E100-09S,0.35979,1.02584,1.86112,2.81454,3.76125,4.70796,0,0,0,0
+"Enhanced performance and durability of low catalyst loading PEM water
+electrolyser based on a short-side chain perfluorosulfonic ionomer",Italy,2017,80,1,1,1,4,5,74.37742114,16.76812396,8.854454898,0,0,IrRuO2,0.2,30,0.3,1.5,0.1mg cm-2 Pt,1.367183177,0.1,CCM,0,90,1000,Aquivion E100-09S,0.27329,1.10838,1.96945,3.04084,4.17162,5.3024,1,1,0,1000
+"Enhanced performance and durability of low catalyst loading PEM water
+electrolyser based on a short-side chain perfluorosulfonic ionomer",Italy,2017,80,1,1,1,4,5,74.37742114,16.76812396,8.854454898,0,0,IrRuO2,0.2,30,0.3,0.4,0.1mg cm-2 Pt,0.36458218,0.1,CCM,0,90,1000,Aquivion E100-09S,0.08937,0.5814,1.30892,2.17153,3.36382,4.36153,1,1,0,1000
+"Enhanced performance and durability of low catalyst loading PEM water
+electrolyser based on a short-side chain perfluorosulfonic ionomer",Italy,2017,80,1,1,1,4,5,74.37742114,16.76812396,8.854454898,0,0,IrRuO2,0.2,30,0.3,0.4,0.1mg cm-2 Pt,0.36458218,0.1,CCM,0,90,1000,Aquivion E100-09S,0.12384,0.72457,1.51882,2.40922,3.41717,4.28858,3,3,0,1000
+"Enhancing PEM water electrolysis efficiency by reducing the extent
+of Ti gas diffusion layer passivation",Czech,2018,60,1,1,1,,4,85.52915767,0,14.47084233,0,0,IrO2,0.176,40,0.299,0.875,1mg cm-2Pt,0.74838013,1,CCM,0,175,1100,Nafion117,0.03284,0.2724,0.58433,0.8683,1.15227,1.43624,0,0,0,0
+"Enhancing PEM water electrolysis efficiency by reducing the extent
+of Ti gas diffusion layer passivation",Czech,2018,60,1,1,1,,4,85.52915767,0,14.47084233,0,0,IrO2,0.176,40,0.299,0.875,1mg cm-2Pt,0.74838013,1,CCM,0,175,1100,Nafion117,0.01968,0.13864,0.30584,0.51252,0.7192,0.92588,0,0,0,0
+"Low-Cost Nanostructured Iron Sulfide Electrocatalysts for PEM Water
+Electrolysis",France,2016,80,1,1,1,3.33,6.25,84.5,0,15.5,0,0,IrO2,0.24,,0.428571429,2,2 mg cm-2 Pt,1.69,2,CCM,0,125,1100,Nafion115,0.24705,0.80459,1.37089,1.87038,2.36987,2.86936,0,0,0,0
+"Low-Cost Nanostructured Iron Sulfide Electrocatalysts for PEM Water
+Electrolysis",France,2016,90,1,1,1,3.33,6.25,84.5,0,15.5,0,0,IrO2,0.24,,0.428571429,2,2 mg cm-2 Pt,1.69,2,CCM,0,125,1100,Nafion115,0.38805,0.86219,1.42618,1.96668,2.50718,3.04768,0,0,0,0
+"Low-Cost Nanostructured Iron Sulfide Electrocatalysts for PEM Water
+Electrolysis",France,2016,100,1,1,1,3.33,6.25,84.5,0,15.5,0,0,IrO2,0.24,,0.428571429,2,2 mg cm-2 Pt,1.69,2,CCM,0,125,1100,Nafion115,0.3945,0.9009,1.53539,2.16988,2.80437,3.43886,0,0,0,0
+"Low-Cost Nanostructured Iron Sulfide Electrocatalysts for PEM Water
+Electrolysis",France,2016,120,1,1,1,3.33,6.25,84.5,0,15.5,0,0,IrO2,0.24,,0.428571429,2,2 mg cm-2 Pt,1.69,2,CCM,0,125,1100,Nafion115,0.418,0.99674,1.76808,2.53942,3.31076,4.0821,0,0,0,0
+"Nitrogen doped CNTs supported Palladium
+electrocatalyst for hydrogen evolution reaction in
+PEM water electrolyser",India,2016,80,1,1,1,50,25,0,75.9,24.1,0,0,RuO2,,30,,3mg cm-2 Ru,0.7 mg cm-2 Pt,3,0.7,GDE,1,125,1100,Nafion115,0.28716,0.55315,0.83069,1.02693,1.30748,1.4726,0,0,0,0
+"Platinum and palladium nano-particles supported by
+graphitic nano-fibers as catalysts for PEM water electrolysis",Russia,2011,90,1,1,1,,7,100,0,0,0,0,Black Ir,,40,,2mg cm-2 Ir,0.8/mg cm-2 Pt,2,0.8,GDE,1,125,1100,Nafion115,0.15216,0.48486,0.90539,1.34125,1.84878,2.35631,0,0,0,0
+"Self-assembled RuO2@IrOx core-shell nanocomposite as high efficient anode
+catalyst for PEM water electrolyzer",China,2020,80,1,1,1,40,3.645,85.52915767,0,14.47084233,0,0,IrO2,,40,,2.5,0.5mg cm-2 Pt,2.138228942,0.5,CCM,0,175,1100,Nafion117,0.15264,0.49186,0.84588,1.1999,1.55392,1.90794,0,0,0,0
+"Self-assembled RuO2@IrOx core-shell nanocomposite as high efficient anode
+catalyst for PEM water electrolyzer",China,2020,80,1,1,1,40,3.645,0,75.66401816,24.33598184,0,0,RuO2,,40,,2.5,0.5mg cm-2 Pt,1.891600454,0.5,CCM,0,175,1100,Nafion117,0.21552,0.57998,0.95576,1.33154,1.70732,2.0831,0,0,0,0
+"Self-assembled RuO2@IrOx core-shell nanocomposite as high efficient anode
+catalyst for PEM water electrolyzer",China,2020,80,1,1,1,40,3.645,34.61,48.47,16.92,0,0,RuO2/IrO2,,40,,2.5,0.5mg cm-2 Pt,2.077,0.5,CCM,0,175,1100,Nafion117,0.36187,0.78351,1.22987,1.76612,2.2324,2.64318,0,0,0,0
+"Self-assembled RuO2@IrOx core-shell nanocomposite as high efficient anode
+catalyst for PEM water electrolyzer",China,2020,80,1,1,1,40,3.645,34.61,48.47,16.92,0,0,RuO2/IrO2,,40,,2.5,0.5mg cm-2 Pt,2.077,0.5,CCM,0,175,1100,Nafion117,0.36187,0.78351,1.22987,1.76612,2.2324,2.64318,0,0,0,0
+"Activity of IrO2 supported on tantalum-doped TiO2
+electrocatalyst for solid polymer electrolyte water
+electrolyzer",CHINA,2017,80,1,1,1,40,3.645,85.71428571,0,14.28571429,0,0,IrO2,,40,,1,0.5 mg cm-2 Pt,0.857142857,0.5,CCM,0,175,1100,Nafion 117,0.04469,0.25003,0.46435,0.70745,0.95177,1.19609,0,0,0,0
+"Activity of IrO2 supported on tantalum-doped TiO2
+electrocatalyst for solid polymer electrolyte water
+electrolyzer",CHINA,2017,80,1,1,1,40,3.645,34.28571429,0,15.0234511,0,1,40IrO2/Ti0.95Ta0.05O2,,40,,1,0.5 mg cm-2 Pt,0.342857143,0.5,CCM,0,175,1100,Nafion 117,0.03795,0.16124,0.31677,0.48762,0.65519,0.82276,0,0,0,0
+"Activity of IrO2 supported on tantalum-doped TiO2
+electrocatalyst for solid polymer electrolyte water
+electrolyzer",CHINA,2017,80,1,1,1,40,3.645,34.28571429,0,15.33368323,0,1,40IrO2/Ti0.9Ta0.1O2,,40,,1,0.5 mg cm-2 Pt,0.342857143,0.5,CCM,0,175,1100,Nafion 117,0.07796,0.23002,0.40556,0.6009,0.80399,1.00708,0,0,0,0
+"Activity of IrO2 supported on tantalum-doped TiO2
+electrocatalyst for solid polymer electrolyte water
+electrolyzer",CHINA,2017,80,1,1,1,40,3.645,34.28571429,0,16.02060897,0,1,40IrO2/Ti0.8Ta0.2O2,,40,,1,0.5 mg cm-2 Pt,0.342857143,0.5,CCM,0,175,1100,Nafion 117,0.05918,0.20777,0.37005,0.54763,0.72521,0.90279,0,0,0,0
+"Activity of IrO2 supported on tantalum-doped TiO2
+electrocatalyst for solid polymer electrolyte water
+electrolyzer",CHINA,2017,80,1,1,1,40,3.645,34.28571429,0,16.81318675,0,1,40IrO2/Ti0.7Ta0.3O2,,40,,1,0.5 mg cm-2 Pt,0.342857143,0.5,CCM,0,175,1100,Nafion 117,0.0702,0.239,0.42883,0.65417,0.8985,1.14283,0,0,0,0
+"Activity of IrO2 supported on tantalum-doped TiO2
+electrocatalyst for solid polymer electrolyte water
+electrolyzer",CHINA,2017,80,1,1,1,40,3.645,51.42857143,0,15.97069593,0,1,60IrO2/Ti0.7Ta0.3O2,,40,,1,0.5 mg cm-2 Pt,0.514285714,0.5,CCM,0,175,1100,Nafion 117,0.08369,0.26034,0.49162,0.78104,1.02259,1.26414,0,0,0,0
+"Activity of IrO2 supported on tantalum-doped TiO2
+electrocatalyst for solid polymer electrolyte water
+electrolyzer",CHINA,2017,80,1,1,1,40,3.645,68.57142857,0,15.12820511,0,1,80IrO2/Ti0.7Ta0.3O2,,40,,1,0.5 mg cm-2 Pt,0.685714286,0.5,CCM,0,175,1100,Nafion 117,0.12847,0.33305,0.55982,0.84471,1.11852,1.39233,0,0,0,0
+An effective oxygen electrode based on Ir0.6Sn0.4O2 for PEM water electrolyzers,CHINA,2019,80,1,1,1,,5,59,0,16,0,1,Ir 0.6 Sn 0.4 O 2,0.4,40,1.5,1.5,0.4 mg Pt cm ?2,0.885,0.4,CCM,0,125,1100,Nafion 115,0.19799,0.59138,1.04679,1.4963,2.02655,2.46572,0,0,0,0
+An effective oxygen electrode based on Ir0.6Sn0.4O2 for PEM water electrolyzers,CHINA,2019,80,1,1,1,,5,59,0,16,0,1,Ir 0.6 Sn 0.4 O 2,0.4,40,0,1.5,0.4 mg Pt cm ?2,0.885,0.4,CCM,0,125,1100,Nafion 115,0.14679,0.49488,0.94488,1.36534,1.80451,2.23038,0,0,0,0
+An effective oxygen electrode based on Ir0.6Sn0.4O2 for PEM water electrolyzers,CHINA,2019,80,1,1,1,,5,59,0,16,0,1,Ir 0.6 Sn 0.4 O 2,0.6,40,1.5,1,0.4 mg Pt cm ?2,0.59,0.4,CCM,0,125,1100,Nafion 115,0.23931,0.61176,1.05476,1.51848,1.96937,2.34775,0,0,0,0
+An effective oxygen electrode based on Ir0.6Sn0.4O2 for PEM water electrolyzers,CHINA,2019,80,1,1,1,,5,59,0,16,0,1,Ir 0.6 Sn 0.4 O 2,1.25,40,1.5,0.5 mg cm-2 Ir,0.4 mg Pt cm ?2,0.5,0.4,CCM,0,125,1100,Nafion 115,0.16679,0.49929,0.94179,1.39515,1.79474,2.19482,0,0,0,0
+"A cost-effective nanoporous ultrathin film electrode based on
+nanoporous gold/IrO2 composite for proton exchange membrane
+water electrolysis",China,2017,80,1,1,1,,4,85.52915767,0,14.47084233,0,1,IrO2 on porous Au,0.3333,70,0.3333,0.0741,1,0.063377106,0.7,CCM,0,50,1100,Nafion 212,0.28502,0.93413,1.73928,2.54443,3.34958,4.15473,0,0,0,0
+"A cost-effective nanoporous ultrathin film electrode based on
+nanoporous gold/IrO2 composite for proton exchange membrane
+water electrolysis",China,2017,80,1,1,1,,4,100,0,0,0,0,Ir Black,0.3333,70,0.3333,0.873 Ir cm-2,1,0.873,0.7,CCM,0,50,1100,Nafion 212,0.24984,0.74133,1.37249,2.08211,2.79173,3.50135,0,0,0,0
+"Additive manufactured bipolar plate for
+high-efficiency hydrogen production in proton
+exchange membrane electrolyzer cells",USA,2017,80,1,1,1,20,5,74.37742114,16.76812396,8.854454898,0,0,IrRuOx,,100,,3,3.0 mg/cm2 Pt,2.734366353,3,CCM,0,125,1100,Nafion 115,0.33282,0.88957,1.49197,2.09437,2.69677,3.29917,0,0,0,0
+"Additive manufactured bipolar plate for
+high-efficiency hydrogen production in proton
+exchange membrane electrolyzer cells",USA,2017,60,1,1,1,20,5,74.37742114,16.76812396,8.854454898,0,0,IrRuOx,,100,,3,3.0 mg/cm2 Pt,2.734366353,3,CCM,0,125,1100,Nafion 115,0.17423,0.64626,1.13867,1.68856,2.22295,2.75734,0,0,0,0
+"Additive manufactured bipolar plate for
+high-efficiency hydrogen production in proton
+exchange membrane electrolyzer cells",USA,2017,40,1,1,1,20,5,74.37742114,16.76812396,8.854454898,0,0,IrRuOx,,100,,3,3.0 mg/cm2 Pt,2.734366353,3,CCM,0,125,1100,Nafion 115,0.06336,0.39598,0.79504,1.28297,1.8084,2.33383,0,0,0,0
+"Additive manufactured bipolar plate for
+high-efficiency hydrogen production in proton
+exchange membrane electrolyzer cells",USA,2017,20,1,1,1,20,5,74.37742114,16.76812396,8.854454898,0,0,IrRuOx,,100,,3,3.0 mg/cm2 Pt,2.734366353,3,CCM,0,125,1100,Nafion 115,0.02097,0.21866,0.52438,0.87494,1.27156,1.6641,0,0,0,0
+"Experimental evidence of increasing oxygen crossover with increasing
+current density during PEM water electrolysis",Germany,2017,70,1,1,1,100,25,100,0,0,0,0,Ir black,,100,,2 mg Ir/cm2,1 mg Pt/cm2,2,1,CCM,0,175,1100,Nafion 117,0.08723,0.3183,0.60128,0.8941,1.21457,1.5449,0,0,0,0
+"Experimental evidence of increasing oxygen crossover with increasing
+current density during PEM water electrolysis",Germany,2017,70,1,1,1,100,25,100,0,0,0,0,Ir black,,0,,2 mg Ir/cm2,1 mg Pt/cm2,2,1,CCM,0,175,1100,Nafion 117,0.03487,0.0919,0.21353,0.45716,0.74374,1.03826,0,0,0,0
+"Carbon Nitride Materials as Efficient Catalyst
+Supports for Proton Exchange Membrane
+Water Electrolyzers",UK,2018,80,1,1,1,150,7,34.21166307,0,5.788336933,8,0,gCNH-IrO2,,100,,1.6,4 mg cm??2 of Pt,0.547386609,4,CCM,0,125,1100,Nafion 115,0.13387,0.28886,0.5048,0.73423,0.95291,1.17159,0,0,0,0
+"Carbon Nitride Materials as Efficient Catalyst
+Supports for Proton Exchange Membrane
+Water Electrolyzers",UK,2018,80,1,1,1,150,7,74.37742114,16.76812396,8.854454898,0,0,IrRuOx,,100,,1.6,4 mg cm??2 of Pt,1.458328722,4,CCM,0,125,1100,Nafion 115,0.00873,0.13551,0.386,0.67542,0.98788,1.30034,0,0,0,0
+"Direct fabrication of gas diffusion cathode by pulse electrodeposition for
+proton exchange membrane water electrolysis",Republic of Korea,2018,90,1,1,1,15,1.21,85.52915767,0,14.47084233,0,1,IrO2/Carbon paper,0,46.5,0.428571429,0.1,0.02 mg Pt/cm2 ,0.085529158,0.02,GDE,1,50,1100,Nafion 212,0.16828,0.43429,0.73636,1.02447,1.40565,1.9431,0,0,0,0
+"An extremely low Pt loading cathode for a highly
+efficient proton exchange membrane water
+electrolyzer",Republic of Korea,2017,90,1,1,1,15,1.21,85.52915767,0,14.47084233,0,1,IrO2/Carbon paper,0,100,0.428571429,0.1,0.021 mg Pt/cm2,0.085529158,0.021,GDE,1,50,1100,Nafion 212,0.11198,0.60391,1.26824,1.95097,2.55324,3.09574,0,0,0,0
+"Highly active anode electrocatalysts derived from electrochemical leaching
+of Ru from metallic Ir0.7Ru0.3 for proton exchange membrane electrolyzers",Germany,2017,80,1,1,1,,25,74.37742114,16.76812396,8.854454898,0,0,Ir0.7Ru0.3O2,0.43,40,0.33,1,0.4 mg cm-2,0.911455451,0.4,CCM,0,50,1100,Nafion 212 CS,0.07182,0.39158,0.85829,1.325,1.79171,2.25842,0,0,0,0
+"Fabrication of membrane electrode assemblies by
+direct spray catalyst on water swollen Nafion
+membrane for PEM water electrolysis",China,2017,80,1,1,1,,2,85.52915767,0,14.47084233,0,0,IrO2,0.176470588,20,0.176470588,2,0.2 mg/cm2 for Pt,1.710583153,0.2,CCM,0,175,1100,Nafion 117,0.1329,0.50636,0.8765,1.34789,1.77944,2.21099,0,0,0,0
+"Ultrathin IrO2 Nanoneedles for Electrochemical
+Water Oxidation",South Korea,2018,80,1,1,1,0.1,6.76,85.52915767,0,14.47084233,0,0,IrO2,,30,,4,1.8 mgPt cm?2,3.421166307,1.8,CCM,0,175,1100,Nafion 117,0.20499,0.44182,0.68651,0.95773,1.27121,1.57683,0,0,0,0
+"Ultrathin platinum nanowire based electrodes for high-efficiency hydrogen
+generation in practical electrolyzer cells",USA,2020,80,1,1,1,20,5,74.37742114,16.76812396,8.854454898,0,0,IrRuOx,0,100,0,3,0.2 mg/cm2 for Pt,2.734366353,0.2,GDE,1,125,1100,Nafion 115,0.31865,0.81691,1.31517,1.81343,2.31169,2.80995,0,0,0,0
+"Ultrathin platinum nanowire based electrodes for high-efficiency hydrogen
+generation in practical electrolyzer cells",USA,2020,80,1,1,1,20,5,74.37742114,16.76812396,8.854454898,0,0,IrRuOx,0,100,0,3,0.1 mg/cm2 for Pt,2.734366353,0.1,GDE,1,125,1100,Nafion 115,0.2495,0.67955,1.04232,1.40509,1.76786,2.13063,0,0,0,0
+"Ultrathin platinum nanowire based electrodes for high-efficiency hydrogen
+generation in practical electrolyzer cells",USA,2020,80,1,1,1,20,5,74.37742114,16.76812396,8.854454898,0,0,IrRuOx,0,100,0,3,3 mg/cm2 for Pt BLACK,2.734366353,3,GDE,1,125,1100,Nafion 115,0.22078,0.51489,0.84756,1.18023,1.5129,1.84557,0,0,0,0
+"Ultrathin platinum nanowire based electrodes for high-efficiency hydrogen
+generation in practical electrolyzer cells",USA,2020,80,1,1,1,20,5,74.37742114,16.76812396,8.854454898,0,0,IrRuOx,0,20,0,3,0.2 mg/cm2 for Pt,2.734366353,0.2,GDE,1,125,1100,Nafion 115,0.19599,0.40571,0.64119,0.8871,1.13301,1.37892,0,0,0,0
+Highly effective IrxSn1?xO2 electrocatalysts for oxygen evolution reaction in the solid polymer electrolyte water electrolyser,china,2012,80,1,1,1,50,5,100,0,0,0,0,Ir black,0.33,70,0.33,1.5,0.57,1.5,0.399,ccm,0,125,1100,nafion 115,0.29868,0.77124,1.28584,1.82873,2.37162,2.91451,0,0,0,0
+Highly effective IrxSn1?xO2 electrocatalysts for oxygen evolution reaction in the solid polymer electrolyte water electrolyser,china,2012,80,1,1,1,50,5,64.37977662,0,16.01486981,0,1,Ir0.67Sn0.33O2,0.33,70,0.33,1.5,0.57,0.965696649,0.399,ccm,0,125,1100,nafion 115,0.37549,0.84319,1.40145,1.91281,2.42417,2.93553,0,0,0,0
+Highly effective IrxSn1?xO2 electrocatalysts for oxygen evolution reaction in the solid polymer electrolyte water electrolyser,china,2012,80,1,1,1,50,5,52.87553066,0,16.94728547,0,1,Ir0.52Sn0.48O2,0.33,70,0.33,1.5,0.57,0.79313296,0.399,ccm,0,125,1100,nafion 115,0.42642,0.92,1.44713,1.95647,2.46581,2.97515,0,0,0,0
+Highly effective IrxSn1?xO2 electrocatalysts for oxygen evolution reaction in the solid polymer electrolyte water electrolyser,china,2012,80,1,1,1,50,5,85.52915767,0,14.47084233,0,0,IrO2,0.33,70,0.33,1.5,0.57,1.282937365,0.399,ccm,0,125,1100,nafion 115,0.45593,0.96729,1.48715,2.03853,2.58991,3.14129,0,0,0,0
+High performance and cost-effective supported IrOx catalyst for proton exchange membrane water electrolysis,China,2021,80,1,1,1,,8,17.14285714,0,13.09596686,0,1,IrOx/W-TiO2,0.052631579,20,,0.11,,0.018857143,,CCM,0,50,1100,nafion 212,0.25541,0.88258,1.68713,2.48049,3.27385,4.06721,0,0,0,0
+High performance and cost-effective supported IrOx catalyst for proton exchange membrane water electrolysis,China,2021,80,1,1,1,,8,85.52915767,0,14.47084233,0,0,Commercial IrO2,0.052631579,20,,0.27,,0.230928726,,CCM,0,50,1100,nafion 212,0.08413,0.60101,1.26986,1.9936,2.71734,3.44108,0,0,0,0
+High performance and cost-effective supported IrOx catalyst for proton exchange membrane water electrolysis,China,2021,80,1,1,1,,8,85.52915767,0,14.47084233,0,0,Unsupported IrOx,0.052631579,20,,0.21,,0.179611231,,CCM,0,50,1100,nafion 212,0.16138,0.74993,1.50213,2.2838,3.06547,3.84714,0,0,0,0
+High performance and cost-effective supported IrOx catalyst for proton exchange membrane water electrolysis,China,2021,80,1,1,1,,8,17.14285714,0,13.09596686,0,1,IrOx/W-TiO2,0.052631579,20,,0.116,,0.019885714,,CCM,0,50,1100,nafion 212,0.30459,1.00657,1.87139,2.76018,3.64897,4.53776,0,0,0,0
+High performance and cost-effective supported IrOx catalyst for proton exchange membrane water electrolysis,China,2021,80,1,1,1,,8,85.52915767,0,14.47084233,0,0,Commercial IrO2,0.052631579,20,,1.1,,0.940820734,,CCM,0,50,1100,nafion 212,0.13304,0.62753,1.3916,2.23573,3.07986,3.92399,0,0,0,0
+High performance and cost-effective supported IrOx catalyst for proton exchange membrane water electrolysis,China,2021,80,1,1,1,,8,85.52915767,0,14.47084233,0,0,Unsupported IrOx,0.052631579,20,,0.99,,0.846738661,,CCM,0,50,1100,nafion 212,0.37266,1.12802,1.92204,2.51729,3.11254,3.70779,0,0,0,0
+High performance and cost-effective supported IrOx catalyst for proton exchange membrane water electrolysis,China,2021,80,1,1,1,,8,17.14285714,0,13.09596686,0,1,IrOx/W-TiO2,0.052631579,20,,Ir 0.1 mg cm-2,,0.1,,CCM,0,175,1100,nafion 117,0.20808,0.50829,0.85872,1.26536,1.62452,1.93346,0,0,0,0
+The influence of iridium chemical oxidation state on the performance and durability of oxygen evolution catalysts in PEM electrolysis,italy,2017,30,1,1,1,,5,100,0,0,0,0,Ir Black,0.25,40,0.5,0.4 mg Ir cm?-2,0.1 mg Pt cm?-2,0.4,0.1,CCM,0,90,980,Aquivion E98-09S,0.01857,0.13185,0.35659,0.56123,0.73407,0.94091,0,0,0,0
+The influence of iridium chemical oxidation state on the performance and durability of oxygen evolution catalysts in PEM electrolysis,italy,2017,40,1,1,1,,5,100,0,0,0,0,Ir Black,0.25,40,0.5,0.4 mg Ir cm?-2,0.1 mg Pt cm?-2,0.4,0.1,CCM,0,90,980,Aquivion E98-09S,0.03428,0.18337,0.41615,0.6566,0.87951,1.12399,0,0,0,0
+The influence of iridium chemical oxidation state on the performance and durability of oxygen evolution catalysts in PEM electrolysis,italy,2017,50,1,1,1,,5,100,0,0,0,0,Ir Black,0.25,40,0.5,0.4 mg Ir cm?-2,0.1 mg Pt cm?-2,0.4,0.1,CCM,0,90,980,Aquivion E98-09S,0.05036,0.23928,0.49764,0.76404,1.0107,1.32278,0,0,0,0
+The influence of iridium chemical oxidation state on the performance and durability of oxygen evolution catalysts in PEM electrolysis,italy,2017,60,1,1,1,,5,100,0,0,0,0,Ir Black,0.25,40,0.5,0.4 mg Ir cm?-2,0.1 mg Pt cm?-2,0.4,0.1,CCM,0,90,980,Aquivion E98-09S,0.07411,0.29483,0.57511,0.85759,1.12581,1.51353,0,0,0,0
+The influence of iridium chemical oxidation state on the performance and durability of oxygen evolution catalysts in PEM electrolysis,italy,2017,70,1,1,1,,5,100,0,0,0,0,Ir Black,0.25,40,0.5,0.4 mg Ir cm?-2,0.1 mg Pt cm?-2,0.4,0.1,CCM,0,90,980,Aquivion E98-09S,0.10188,0.36061,0.65478,0.98476,1.31291,1.73243,0,0,0,0
+The influence of iridium chemical oxidation state on the performance and durability of oxygen evolution catalysts in PEM electrolysis,italy,2017,80,1,1,1,,5,100,0,0,0,0,Ir Black,0.25,40,0.5,0.4 mg Ir cm?-2,0.1 mg Pt cm?-2,0.4,0.1,CCM,0,90,980,Aquivion E98-09S,0.15962,0.42017,0.76002,1.12399,1.4938,2.02659,0,0,0,0
+The influence of iridium chemical oxidation state on the performance and durability of oxygen evolution catalysts in PEM electrolysis,italy,2017,90,1,1,1,,5,100,0,0,0,0,Ir Black,0.25,40,0.5,0.4 mg Ir cm?-2,0.1 mg Pt cm?-2,0.4,0.1,CCM,0,90,980,Aquivion E98-09S,0.21517,0.49947,0.84955,1.26321,1.70246,2.24329,0,0,0,0
+The influence of iridium chemical oxidation state on the performance and durability of oxygen evolution catalysts in PEM electrolysis,italy,2017,30,1,1,1,,5,85.52915767,0,14.47084233,0,0,IrO2,0.25,40,0.5,0.4 mg Ir cm?-2,0.1 mg Pt cm?-2,0.4,0.1,CCM,0,90,980,Aquivion E98-09S,0.0216,0.21401,0.58209,1.11427,1.6812,2.2803,0,0,0,0
+The influence of iridium chemical oxidation state on the performance and durability of oxygen evolution catalysts in PEM electrolysis,italy,2017,40,1,1,1,,5,85.52915767,0,14.47084233,0,0,Ir Black,0.25,40,0.5,0.4 mg Ir cm?-2,0.1 mg Pt cm?-2,0.4,0.1,CCM,0,90,980,Aquivion E98-09S,0.06021,0.29831,0.75327,1.40449,2.04864,2.69665,0,0,0,0
+The influence of iridium chemical oxidation state on the performance and durability of oxygen evolution catalysts in PEM electrolysis,italy,2017,50,1,1,1,,5,85.52915767,0,14.47084233,0,0,Ir Black,0.25,40,0.5,0.4 mg Ir cm?-2,0.1 mg Pt cm?-2,0.4,0.1,CCM,0,90,980,Aquivion E98-09S,0.09496,0.42765,0.94954,1.71659,2.41672,3.22561,0,0,0,0
+The influence of iridium chemical oxidation state on the performance and durability of oxygen evolution catalysts in PEM electrolysis,italy,2017,60,1,1,1,,5,85.52915767,0,14.47084233,0,0,Ir Black,0.25,40,0.5,0.4 mg Ir cm?-2,0.1 mg Pt cm?-2,0.4,0.1,CCM,0,90,980,Aquivion E98-09S,0.15803,0.55378,1.19793,2.0036,2.79124,3.66319,0,0,0,0
+The influence of iridium chemical oxidation state on the performance and durability of oxygen evolution catalysts in PEM electrolysis,italy,2017,70,1,1,1,,5,85.52915767,0,14.47084233,0,0,Ir Black,0.25,40,0.5,0.4 mg Ir cm?-2,0.1 mg Pt cm?-2,0.4,0.1,CCM,0,90,980,Aquivion E98-09S,0.2494,0.69728,1.43602,2.33629,3.1973,4.12523,0,0,0,0
+The influence of iridium chemical oxidation state on the performance and durability of oxygen evolution catalysts in PEM electrolysis,italy,2017,80,1,1,1,,5,85.52915767,0,14.47084233,0,0,Ir Black,0.25,40,0.5,0.4 mg Ir cm?-2,0.1 mg Pt cm?-2,0.4,0.1,CCM,0,90,980,Aquivion E98-09S,0.32662,0.88325,1.66061,2.62651,3.59627,4.48945,0,0,0,0
+The influence of iridium chemical oxidation state on the performance and durability of oxygen evolution catalysts in PEM electrolysis,italy,2017,90,1,1,1,,5,85.52915767,0,14.47084233,0,0,Ir Black,0.25,40,0.5,0.4 mg Ir cm?-2,0.1 mg Pt cm?-2,0.4,0.1,CCM,0,90,980,Aquivion E98-09S,0.45597,1.08982,1.89163,2.88198,3.8453,4.80862,0,0,0,0
+Investigating low and high load cycling tests as accelerated stress tests for proton exchange membrane water electrolysis,Denmark,2021,60,1,1,1,270,,85.52915767,0,14.47084233,0,0,IrO2,,,,0.3,0.5 mg cm   Pt/C,0.256587473,0.5,CCM,0,175,1100,nafion 117,0.09903,0.32767,0.63095,0.86611,1.10127,1.35953,0,0,0,0
+Investigating low and high load cycling tests as accelerated stress tests for proton exchange membrane water electrolysis,Denmark,2021,60,1,1,1,270,,85.52915767,0,14.47084233,0,0,IrO2,,,,0.3,0.5 mg cm   Pt/C,0.256587473,0.5,CCM,0,175,1100,nafion 117,0.07948,0.31523,0.61496,0.84005,1.05625,1.2689,1,1,0,72
+Investigating low and high load cycling tests as accelerated stress tests for proton exchange membrane water electrolysis,Denmark,2021,60,1,1,1,270,,85.52915767,0,14.47084233,0,0,IrO2,,,,0.3,0.5 mg cm   Pt/C,0.256587473,0.5,CCM,0,175,1100,nafion 117,0.07297,0.30516,0.58889,0.82109,1.02723,1.24343,1,1,0,144
+Investigating low and high load cycling tests as accelerated stress tests for proton exchange membrane water electrolysis,Denmark,2021,60,1,1,1,270,,85.52915767,0,14.47084233,0,0,IrO2,,,,0.3,0.5 mg cm   Pt/C,0.256587473,0.5,CCM,0,175,1100,nafion 117,0.09251,0.31168,0.56638,0.71802,0.88862,1.10778,1,1,0,216
+Investigating low and high load cycling tests as accelerated stress tests for proton exchange membrane water electrolysis,Denmark,2021,60,1,1,1,270,,85.52915767,0,14.47084233,0,0,IrO2,,,,0.3,0.5 mg cm   Pt/C,0.256587473,0.5,CCM,0,175,1100,nafion 117,0.06349,0.29865,0.52433,0.68545,0.84656,1.05921,1,1,0,288
+Investigating low and high load cycling tests as accelerated stress tests for proton exchange membrane water electrolysis,Denmark,2021,60,1,1,1,270,,85.52915767,0,14.47084233,0,0,IrO2,,,,0.3,0.5 mg cm   Pt/C,0.256587473,0.5,CCM,0,175,1100,nafion 117,0.07,0.29213,0.54388,0.70795,0.86611,1.08824,1,1,0,360
+Investigating low and high load cycling tests as accelerated stress tests for proton exchange membrane water electrolysis,Denmark,2021,60,1,1,1,270,,85.52915767,0,14.47084233,0,0,IrO2,,,,0.3,0.5 mg cm   Pt/C,0.256587473,0.5,CCM,0,175,1100,nafion 117,0.13109,0.40516,0.74459,1.12041,1.52817,1.96861,0,0.5,0.33,72
+Investigating low and high load cycling tests as accelerated stress tests for proton exchange membrane water electrolysis,Denmark,2021,60,1,1,1,270,,85.52915767,0,14.47084233,0,0,IrO2,,,,0.3,0.5 mg cm   Pt/C,0.256587473,0.5,CCM,0,175,1100,nafion 117,0.10658,0.37693,0.70819,1.08402,1.48807,1.91588,0,0.5,0.33,144
+Investigating low and high load cycling tests as accelerated stress tests for proton exchange membrane water electrolysis,Denmark,2021,60,1,1,1,270,,85.52915767,0,14.47084233,0,0,IrO2,,,,0.3,0.5 mg cm   Pt/C,0.256587473,0.5,CCM,0,175,1100,nafion 117,0.08207,0.34054,0.6718,1.02311,1.4435,1.83121,0,0.5,0.33,216
+Investigating low and high load cycling tests as accelerated stress tests for proton exchange membrane water electrolysis,Denmark,2021,60,1,1,1,270,,85.52915767,0,14.47084233,0,0,IrO2,,,,0.3,0.5 mg cm   Pt/C,0.256587473,0.5,CCM,0,175,1100,nafion 117,0.07835,0.32494,0.64803,0.99935,1.43162,1.81487,0,0.5,0.33,288
+Investigating low and high load cycling tests as accelerated stress tests for proton exchange membrane water electrolysis,Denmark,2021,60,1,1,1,270,,85.52915767,0,14.47084233,0,0,IrO2,,,,0.3,0.5 mg cm   Pt/C,0.256587473,0.5,CCM,0,175,1100,nafion 117,0.0583,0.28409,0.60718,0.95478,1.35066,1.70197,0,0.5,0.33,360
+Investigating low and high load cycling tests as accelerated stress tests for proton exchange membrane water electrolysis,Denmark,2021,60,1,1,1,270,,85.52915767,0,14.47084233,0,0,IrO2,,,,0.3,0.5 mg cm   Pt/C,0.256587473,0.5,CCM,0,175,1100,nafion 117,0.11028,0.33125,0.56929,0.8229,1.12925,1.4622,1.2,2,0.33,72
+Investigating low and high load cycling tests as accelerated stress tests for proton exchange membrane water electrolysis,Denmark,2021,60,1,1,1,270,,85.52915767,0,14.47084233,0,0,IrO2,,,,0.3,0.5 mg cm   Pt/C,0.256587473,0.5,CCM,0,175,1100,nafion 117,0.05554,0.26596,0.51455,0.76867,1.10715,1.44312,1.2,2,0.33,144
+Investigating low and high load cycling tests as accelerated stress tests for proton exchange membrane water electrolysis,Denmark,2021,60,1,1,1,270,,85.52915767,0,14.47084233,0,0,IrO2,,,,0.3,0.5 mg cm   Pt/C,0.256587473,0.5,CCM,0,175,1100,nafion 117,0.06107,0.28756,0.54167,0.79026,1.1182,1.45668,1.2,2,0.33,216
+Investigating low and high load cycling tests as accelerated stress tests for proton exchange membrane water electrolysis,Denmark,2021,60,1,1,1,270,,85.52915767,0,14.47084233,0,0,IrO2,,,,0.3,0.5 mg cm   Pt/C,0.256587473,0.5,CCM,0,175,1100,nafion 117,0.12384,0.3423,0.58285,0.82843,1.14833,1.47325,1.2,2,0.33,288
+Investigating low and high load cycling tests as accelerated stress tests for proton exchange membrane water electrolysis,Denmark,2021,60,1,1,1,270,,85.52915767,0,14.47084233,0,0,IrO2,,,,0.3,0.5 mg cm   Pt/C,0.256587473,0.5,CCM,0,175,1100,nafion 117,0.07462,0.28203,0.52008,0.79327,1.13176,1.45668,1.2,2,0.33,360
+"The Impact of Ink and Spray Variables on Catalyst Layer Properties, Electrolyzer Performance, and Electrolyzer Durability",united states,2020,80,1,1,1,300,25,85.52915767,0,14.47084233,0,0,IrO2,0.05,47,0.2385,0.1mg Ir cm-2,0.1mg Pt cm-2,0.1,0.1,CCM,0,175,1100,nafion 117,0.14047,0.57341,1.14064,1.73327,2.32188,2.93989,0,0,0,0
+"The Impact of Ink and Spray Variables on Catalyst Layer Properties, Electrolyzer Performance, and Electrolyzer Durability",united states,2020,80,1,1,1,300,25,85.52915767,0,14.47084233,0,0,IrO2,0.1,47,0.2385,0.1mg Ir cm-2,0.1mg Pt cm-2,0.1,0.1,CCM,0,175,1100,nafion 117,0.20261,0.64958,1.19877,1.79874,2.4094,3.00202,0,0,0,0
+"The Impact of Ink and Spray Variables on Catalyst Layer Properties, Electrolyzer Performance, and Electrolyzer Durability",united states,2020,80,1,1,1,300,25,85.52915767,0,14.47084233,0,0,IrO2,0.2,47,0.2385,0.1mg Ir cm-2,0.1mg Pt cm-2,0.1,0.1,CCM,0,175,1100,nafion 117,0.27877,0.7371,1.31836,1.94038,2.5477,3.13631,0,0,0,0
+"The Impact of Ink and Spray Variables on Catalyst Layer Properties, Electrolyzer Performance, and Electrolyzer Durability",united states,2020,80,1,1,1,300,25,85.52915767,0,14.47084233,0,0,IrO2,0.27,47,0.2385,0.1mg Ir cm-2,0.1mg Pt cm-2,0.1,0.1,CCM,0,175,1100,nafion 117,0.24603,0.69701,1.28563,1.87825,2.48557,3.06349,0,0,0,0
+"The Impact of Ink and Spray Variables on Catalyst Layer Properties, Electrolyzer Performance, and Electrolyzer Durability",united states,2020,80,1,1,1,300,25,85.52915767,0,14.47084233,0,0,IrO2,0.3,47,0.2385,0.1mg Ir cm-2,0.1mg Pt cm-2,0.1,0.1,CCM,0,175,1100,nafion 117,0.24603,0.70036,1.2716,1.89295,2.50361,3.08153,0,0,0,0
+"The Impact of Ink and Spray Variables on Catalyst Layer Properties, Electrolyzer Performance, and Electrolyzer Durability",united states,2020,80,1,1,1,300,25,85.52915767,0,14.47084233,0,0,IrO2,0.6,47,0.2385,0.1mg Ir cm-2,0.1mg Pt cm-2,0.1,0.1,CCM,0,175,1100,nafion 117,0.04226,0.31886,0.80258,1.34776,1.92902,2.47087,0,0,0,0
+"The Impact of Ink and Spray Variables on Catalyst Layer Properties, Electrolyzer Performance, and Electrolyzer Durability",united states,2020,80,1,1,1,300,25,85.52915767,0,14.47084233,0,0,IrO2,0.8,47,0.2385,0.1mg Ir cm-2,0.1mg Pt cm-2,0.1,0.1,CCM,0,175,1100,nafion 117,0.00952,0.16586,0.55537,1.03508,1.56223,2.08937,0,0,0,0
+Impact of Intermittent Operation on Lifetime and Performance of a PEM Water Electrolyzer,germany,2019,80,1,10,10,5,5,75,0,17.61955664,0,1,IrO2/TiO2,0.25,45.8,0.25,1.75 mg?Ir?cm?-?2,0.2mg cm-2 Pt,1.75,0.2,CCM,0,50,1100,nafion 212,0.19561,1.11202,2.39232,3.80449,5.21666,6.62883,0,0,0,0
+Impact of Intermittent Operation on Lifetime and Performance of a PEM Water Electrolyzer,germany,2019,80,1,10,10,5,5,75,0,17.61955664,0,1,IrO2/TiO2,0.25,45.8,0.25,1.75 mg?Ir?cm?-?2,0.2mg cm-2 Pt,1.75,0.2,CCM,0,50,1100,nafion 212,0.345,1.00769,2.02926,3.35463,4.68,6.00537,0,3,0.5,100
+Impact of Intermittent Operation on Lifetime and Performance of a PEM Water Electrolyzer,germany,2019,80,1,10,10,5,5,75,0,17.61955664,0,1,IrO2/TiO2,0.25,45.8,0.25,1.75 mg?Ir?cm?-?2,0.2mg cm-2 Pt,1.75,0.2,CCM,0,50,1100,nafion 212,0.1906,0.87165,1.72045,2.76456,3.75024,4.73592,0,3,0.5,359
+Impact of Intermittent Operation on Lifetime and Performance of a PEM Water Electrolyzer,germany,2019,80,1,10,10,5,5,75,0,17.61955664,0,1,IrO2/TiO2,0.25,45.8,0.25,1.75 mg?Ir?cm?-?2,0.2mg cm-2 Pt,1.75,0.2,CCM,0,50,1100,nafion 212,0.25103,1.37656,2.50814,4.00118,5.49422,6.98726,3,3,0,100
+Impact of Intermittent Operation on Lifetime and Performance of a PEM Water Electrolyzer,germany,2019,80,1,10,10,5,5,75,0,17.61955664,0,1,IrO2/TiO2,0.25,45.8,0.25,1.75 mg?Ir?cm?-?2,0.2mg cm-2 Pt,1.75,0.2,CCM,0,50,1100,nafion 212,0.32961,1.49383,2.73179,4.27078,5.80977,7.34876,3,3,0,359
+Electrochemical activity of ruthenium and iridium based catalysts for oxygen evolution reaction,FRANCE,2012,25,1,1,1,,5,85.52915767,0,14.47084233,0,0,IrO2,0.111111111,46.1,0.369863014,2.5,0.4 mg cm-2 Pt,2.138228942,0.4,CCM,0,125,1100,nafion 115,0.0049,0.04403,0.14265,0.25613,0.38834,0.49738,0,0,0,0
+Electrochemical activity of ruthenium and iridium based catalysts for oxygen evolution reaction,FRANCE,2012,25,1,1,1,,5,68.32740214,15.40416878,16.26842908,0,0,Ru0.7Ir0.3O2,0.111111111,46.1,0.369863014,2.5,0.4 mg cm-2 Pt,2.093289273,0.4,CCM,0,125,1100,nafion 115,0.0055,0.07857,0.18569,0.31481,0.44392,0.55412,0,0,0,0
+Electrochemical activity of ruthenium and iridium based catalysts for oxygen evolution reaction,FRANCE,2012,25,1,1,1,,5,74.63556851,9.815354713,15.54907677,0,0,Ru0.8Ir0.2O2,0.111111111,46.1,0.369863014,2.5,0.4 mg cm-2 Pt,2.111273081,0.4,CCM,0,125,1100,nafion 115,0.006,0.10289,0.21618,0.35997,0.48059,0.60141,0,0,0,0
+Non-conductive TiO2 as the anode catalyst support for PEM water electrolysis,Czech,2012,90,3,3,3,,4,85.52915767,0,14.47084233,0,0,Unsupported IrO2,0.176470588,100,0.176470588,0.9,0.5mg cm -2 Pt,0.769762419,0.5,GDE,1,175,1100,nafion 117,0.04568,0.16624,0.30866,0.446,0.58334,0.72068,0,0,0,0
+Non-conductive TiO2 as the anode catalyst support for PEM water electrolysis,Czech,2012,110,3,3,3,,4,85.52915767,0,14.47084233,0,0,Unsupported IrO2,0.176470588,100,0.176470588,0.9,0.5mg cm -2 Pt,0.769762419,0.5,GDE,1,175,1100,nafion 117,0.07416,0.20227,0.343,0.5039,0.6648,0.8257,0,0,0,0
+Non-conductive TiO2 as the anode catalyst support for PEM water electrolysis,Czech,2012,120,3,3,3,,4,85.52915767,0,14.47084233,0,0,Unsupported IrO2,0.176470588,100,0.176470588,0.9,0.5mg cm -2 Pt,0.769762419,0.5,GDE,1,175,1100,nafion 117,0.09701,0.22452,0.37285,0.52421,0.67557,0.82693,0,0,0,0
+Non-conductive TiO2 as the anode catalyst support for PEM water electrolysis,Czech,2012,130,3,3,3,,4,85.52915767,0,14.47084233,0,0,Unsupported IrO2,0.176470588,100,0.176470588,0.9,0.5mg cm -2 Pt,0.769762419,0.5,GDE,1,175,1100,nafion 117,0.12867,0.26093,0.40335,0.56164,0.71993,0.87822,0,0,0,0
+Non-conductive TiO2 as the anode catalyst support for PEM water electrolysis,Czech,2012,90,3,3,3,,4,51.42857143,0,24.59807287,0,1,60 wt% IrO2/TiO2,0.176470588,100,0.176470588,0.9,0.5mg cm -2 Pt,0.462857143,0.5,GDE,1,175,1100,nafion 117,0.04725,0.3274,0.65553,0.99681,1.33809,1.67937,0,0,0,0
+Non-conductive TiO2 as the anode catalyst support for PEM water electrolysis,Czech,2012,110,3,3,3,,4,51.42857143,0,24.59807287,0,1,60 wt% IrO2/TiO2,0.176470588,100,0.176470588,0.9,0.5mg cm -2 Pt,0.462857143,0.5,GDE,1,175,1100,nafion 117,0.14011,0.49378,0.9229,1.27038,1.61786,1.96534,0,0,0,0
+Non-conductive TiO2 as the anode catalyst support for PEM water electrolysis,Czech,2012,120,3,3,3,,4,51.42857143,0,24.59807287,0,1,60 wt% IrO2/TiO2,0.176470588,100,0.176470588,0.9,0.5mg cm -2 Pt,0.462857143,0.5,GDE,1,175,1100,nafion 117,0.24577,0.68425,1.13053,1.55035,1.97017,2.38999,0,0,0,0
+Non-conductive TiO2 as the anode catalyst support for PEM water electrolysis,Czech,2012,130,3,3,3,,4,51.42857143,0,24.59807287,0,1,60 wt% IrO2/TiO2,0.176470588,100,0.176470588,0.9,0.5mg cm -2 Pt,0.462857143,0.5,GDE,1,175,1100,nafion 117,0.31463,0.67681,1.09161,1.51454,1.93747,2.3604,0,0,0,0
+RuxNb1?xO2 catalyst for the oxygen evolution reaction in proton exchange membrane water electrolysers,UK,2013,80,1,1,1,,4,0,75.66401816,24.33598184,0,0,RuO2,0.33,40,0.33,,,,,CCM,0,125,1100,nafion 115,0.43611,0.93019,1.50067,2.04997,2.49274,2.82957,0,0,0,0
+RuxNb1?xO2 catalyst for the oxygen evolution reaction in proton exchange membrane water electrolysers,UK,2013,80,1,1,1,,4,0,61.27392967,24.63458319,0,0,Ru0.8Nb0.2O2,0.33,40,0.33,,,,,CCM,0,125,1100,nafion 115,0.27216,0.60898,1.00325,1.30382,1.5096,1.69195,0,0,0,0
+"Highly Active, Durable Dispersed Iridium Nanocatalysts for PEM Water Electrolyzer",united states,2018,80,1,1,1,,50,74.57142857,0,17.63723082,0,1,Ir87%/WxTiO2,,,,2,0.4 mg pt/cm -2 Pt/C,1.491428571,0.4,CCM,0,125,1100,Nafion 115,0.1663,0.50912,0.93685,1.4469,1.99967,2.55244,0,0,0,0
+"Highly Active, Durable Dispersed Iridium Nanocatalysts for PEM Water Electrolyzer",united states,2018,80,1,1,1,,50,62.57142857,0,21.24655633,0,1,Ir73%/WxTiO2,,,,2,0.4 mg pt/cm -2 Pt/C,1.251428571,0.4,CCM,0,125,1100,Nafion 115,0.14651,0.41013,0.74981,1.16088,1.56308,2.03666,0,0,0,0
+"Highly Active, Durable Dispersed Iridium Nanocatalysts for PEM Water Electrolyzer",united states,2018,80,1,1,1,,50,32.57142857,0,30.26987009,0,1,Ir38%/WxTiO2,,,,2,0.4 mg pt/cm -2 Pt/C,0.651428571,0.4,CCM,0,125,1100,Nafion 115,0.28561,0.88058,1.55214,2.27736,3.00258,3.7278,0,0,0,0
+"Highly Active, Durable Dispersed Iridium Nanocatalysts for PEM Water Electrolyzer",united states,2018,80,1,1,1,,50,21.42857143,0,33.62138663,0,1,Ir25%/WxTiO2,,,,2,0.4 mg pt/cm -2 Pt/C,0.428571429,0.4,CCM,0,125,1100,Nafion 115,0.2059,0.66489,1.25153,2.02781,2.80409,3.58037,0,0,0,0
+"Highly Active, Durable Dispersed Iridium Nanocatalysts for PEM Water Electrolyzer",united states,2018,80,1,1,1,,50,100,0,0,0,0,Ir Black,,,,2,0.4 mg pt/cm -2 Pt/C,2,0.4,CCM,0,125,1100,Nafion 115,0.22309,0.73887,1.39324,2.16379,2.93434,3.70489,0,0,0,0
